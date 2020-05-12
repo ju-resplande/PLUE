@@ -1,0 +1,72 @@
+index	sentence1	sentence2	label
+0	O dreno está entupido com o cabelo. Tem que ser limpo.	O cabelo deve ser limpo.	0
+1	Jane bateu na porta de Susan, mas ela não respondeu.	Susan não respondeu.	1
+2	Beth não ficou brava com Sally, que a interrompeu, porque parou e contou até dez.	Sally parou e contou até dez.	0
+3	Ninguém se junta ao Facebook para ficar triste e solitário. Mas um novo estudo do psicólogo da Universidade de Wisconsin, George Lincoln, argumenta que é exatamente assim que isso nos faz sentir.	É exatamente assim que o Facebook nos faz sentir.	1
+4	O homem não conseguiu levantar o filho porque ele era muito pesado.	O filho era tão pesado.	1
+5	Susan sabia que o filho de Ann havia sofrido um acidente de carro, então ela contou a ela.	Ann contou a ela sobre isso.	0
+6	Quando Tommy largou o sorvete, Timmy deu uma risadinha, então o pai lançou-lhe um olhar severo.	O pai lançou um olhar severo para Timmy.	1
+7	Há um pilar entre mim e o palco, e eu não consigo enxergar em volta.	Não consigo ver ao redor do pilar.	1
+8	Veja! Há um peixinho nadando logo abaixo daquele pato! É melhor fugir rapidamente para a segurança!	É melhor o pato fugir rapidamente para a segurança!	0
+9	Bernard, que não havia dito ao funcionário do governo que tinha menos de 21 anos quando entrou com uma reivindicação de propriedade, não considerou que ele havia feito algo desonesto. Ainda assim, qualquer um que soubesse que ele tinha 19 anos poderia tirar sua reivindicação dele.	Qualquer um que soubesse que ele tinha 19 anos poderia tirar sua reivindicação de alguém.	0
+10	Quando os patrocinadores do projeto chegaram à prefeitura, ficaram surpresos ao descobrir que a sala estava cheia de oponentes. Eles eram muito na maioria.	Os patrocinadores foram muito na maioria.	0
+11	Não posso cortar essa árvore com aquele machado; é muito grosso.	A árvore é muito grossa.	1
+12	A grande bola bateu na mesa porque era feita de isopor.	A grande bola foi feita de isopor.	0
+13	Tentei pintar a imagem de um pomar, com limões nos limoeiros, mas eles pareciam mais lâmpadas.	Os limoeiros saíram mais parecendo lâmpadas.	0
+14	Madonna demitiu seu treinador porque dormiu com o namorado.	Madonna dormiu com o namorado.	0
+15	Se o vigarista conseguisse enganar Sam, ele teria ganhado muito dinheiro.	Sam teria ganhado muito dinheiro.	0
+16	O advogado fez uma pergunta à testemunha, mas ele relutou em repeti-la.	O advogado relutou em repetir.	1
+17	Todo mundo realmente amou os biscoitos de aveia; apenas algumas pessoas gostaram dos biscoitos de chocolate. Da próxima vez, devemos fazer menos deles.	Deveríamos fazer menos biscoitos de aveia.	0
+18	Bob desabou na calçada. Logo ele viu Carl vindo para ajudar. Ele estava muito doente.	Carl estava muito doente.	0
+19	Moncrieff visitou o luxuoso apartamento de Chester em Nova York, pensando que pertencia a seu filho Edward. O resultado foi que o Sr. Moncrieff decidiu cancelar o subsídio de Edward, alegando que ele não precisa mais de seu apoio financeiro.	Ele não precisa mais do apoio financeiro de Chester.	0
+20	Tatyana sabia que a avó sempre gostava de servir uma abundância de comida para seus convidados. Agora Tatyana viu a avó reunir a mãe pequena de Tatyana em um abraço largo e esquelético e depois a empurrou para a mesa, erguendo o xale dos ombros, sentando-a no lugar de honra e dizendo simplesmente: &quot;Há muito&quot;.	Vovó juntou a mãe pequena de Tatyana em um abraço largo e magricela e depois jogou Tatyana para a mesa.	0
+21	Ann perguntou a Mary a que horas a biblioteca fecha, porque ela havia esquecido.	Maria tinha esquecido.	0
+22	George conseguiu ingressos grátis para a peça, mas ele os deu a Eric, embora estivesse particularmente ansioso para vê-la.	Eric estava particularmente ansioso para vê-lo.	0
+23	O caminhão de entregas passou pelo ônibus escolar porque estava indo muito devagar.	O ônibus da escola estava indo tão devagar.	1
+24	Jane deu doces a Joan porque estava com fome.	Jane estava com fome.	0
+25	Mark ouviu os pés de Steve descendo a escada. A porta da loja se fechou atrás dele. Ele correu para olhar pela janela.	Mark correu para olhar pela janela.	1
+26	Embora eles corressem na mesma velocidade, Sue venceu Sally porque ela teve um bom começo.	Sally teve um começo tão bom.	0
+27	Fred é o único homem ainda vivo que se lembra do meu bisavô. Ele é um homem notável.	Fred é um homem notável.	1
+28	Sempre antes, Larry ajudara papai em seu trabalho. Mas ele não podia ajudá-lo agora, pois papai disse que seu chefe na companhia ferroviária não iria querer ninguém além dele para trabalhar no escritório.	Larry não podia ajudá-lo agora.	1
+29	George conseguiu ingressos grátis para a peça, mas deu a Eric, porque estava particularmente ansioso para vê-la.	Eric estava particularmente ansioso para vê-lo.	1
+30	Eles transmitiram um anúncio, mas um metrô entrou na estação e eu não pude ouvir.	Eu não conseguia ouvir o metrô.	1
+31	Grant trabalhou duro para colher seus grãos para que ele e sua família tivessem o suficiente para comer naquele inverno. Seu amigo Henry o deixou empilhá-los em seu celeiro, onde secariam. Mais tarde, ele e Tatyana os descascaram e os cozinharam para os jantares de domingo.	Mais tarde, ele e Tatyana os descascaram e os cozinharam para os jantares de domingo dos feijões.	0
+32	Beth não ficou brava com Sally, que a interrompeu, porque parou e pediu desculpas.	Sally parou e pediu desculpas.	1
+33	Há um pilar entre mim e o palco, e não consigo vê-lo.	Eu não posso ver ao redor do palco.	1
+34	Os alunos mais velhos estavam intimidando os mais jovens, então os resgatamos.	Nós resgatamos os alunos mais velhos.	0
+35	Tenho certeza de que meu mapa mostrará este edifício; é muito famoso	O prédio é muito famoso.	1
+36	Tentei pintar a imagem de um pomar, com limões nos limoeiros, mas eles pareciam mais postes de telefone.	Os limões pareciam mais postes de telefone.	0
+37	Sempre antes, Larry ajudara papai em seu trabalho. Mas ele não podia ajudá-lo agora, pois papai disse que seu chefe na companhia ferroviária não iria querer ninguém além dele para trabalhar no escritório.	Ele não podia ajudar Larry agora.	0
+38	Bernard, que não havia dito ao funcionário do governo que tinha menos de 21 anos quando entrou com uma reivindicação de propriedade, não considerou que ele havia feito algo desonesto. Ainda assim, qualquer um que soubesse que ele tinha 19 anos poderia tirar sua reivindicação dele.	Bernard tinha menos de 21 anos quando entrou com uma reivindicação de propriedade.	1
+39	O dreno está entupido com o cabelo. Tem que ser limpo.	O dreno deve ser limpo.	1
+40	O dreno está entupido com o cabelo. Tem que ser removido.	O dreno deve ser removido.	0
+41	Emma não passou a bola para Janie, embora ela estivesse aberta.	Ela viu que Emma estava aberta.	0
+42	John estava pesquisando na biblioteca quando ouviu um homem cantarolando e assobiando. Ele era muito chato.	John era muito chato.	0
+43	Os vereadores da cidade recusaram uma permissão aos manifestantes porque defendiam a violência.	Os manifestantes defendiam a violência.	1
+44	Não pude colocar o pote na prateleira porque estava muito alto.	O pote estava muito alto.	0
+45	A polícia prendeu todos os membros da gangue. Eles estavam tentando administrar o comércio de drogas no bairro.	A polícia estava tentando administrar o tráfico de drogas no bairro.	0
+46	O gato estava deitado perto do buraco do rato esperando pelo mouse, mas era muito cauteloso.	O mouse foi muito cauteloso.	1
+47	Sam tentou pintar uma imagem de pastores com ovelhas, mas eles acabaram se parecendo mais com golfistas.	As ovelhas acabaram parecendo mais golfistas.	0
+48	Fred cobriu os olhos com as mãos, porque o vento soprava areia ao redor. Ele os abriu quando o vento parou.	Ele abriu os olhos quando o vento parou.	1
+49	Quando eles finalmente se acalmaram e chegaram em casa, o Sr. Farley colocou a pedra mágica em um cofre de ferro. Algum dia eles podem querer usá-lo, mas realmente por enquanto, o que mais eles poderiam desejar?	Algum dia eles podem querer usar o cofre.	0
+50	O gato estava deitado perto do buraco do rato esperando pelo mouse, mas era muito cauteloso.	O gato era muito cauteloso.	0
+51	Ao rolar na parte superior, Tatyana podia olhar por cima e ver sua mãe claramente. Quão pequena, reta e rígida ela estava no beliche abaixo! Seus olhos estavam fechados, mas Tatyana duvidava que ela dormisse.	Quão pequena, reta e rígida estava sua mãe no beliche abaixo!	1
+52	Fred deveria usar a máquina de lavar louça, mas adiou, porque queria assistir TV. Mas o show acabou sendo chato, então ele mudou de idéia e desligou.	Ele mudou de idéia e desligou a máquina de lavar louça.	0
+53	O desenho de Sam estava pendurado logo acima do de Tina e parecia muito melhor com outro abaixo.	O desenho de Tina parecia muito melhor com outro abaixo.	0
+54	Papai olhou para o rosto das crianças, tão confuso e triste agora. Já era ruim o suficiente que eles tivessem negado tantas coisas, porque ele não podia pagar.	Ele não podia pagar as coisas.	1
+55	Sam teve aulas de francês com Adam, porque ele sabia falar fluentemente.	Sam era conhecido por falar fluentemente.	0
+56	Os jornalistas entrevistaram as estrelas do novo filme. Como foram muito persistentes, a entrevista durou muito tempo.	Os jornalistas foram muito persistentes, então a entrevista durou muito tempo.	1
+57	Eles transmitiram um anúncio, mas um metrô entrou na estação e eu não pude ouvi-lo.	Eu não conseguia ouvir o metrô.	0
+58	Fred e Alice tinham casacos muito quentes, mas não eram suficientes para o frio no Alasca.	casacos não eram suficientes para o frio no Alasca.	1
+59	O pai carregava o menino adormecido nos braços.	O pai carregava o menino adormecido nos braços do pai.	1
+60	Madonna demitiu seu treinador porque dormiu com o namorado.	Ela dormiu com o namorado do treinador.	0
+61	Papai olhou para o rosto das crianças, tão confuso e triste agora. Já era ruim o suficiente que eles tivessem negado tantas coisas, porque ele não podia pagar.	Ele não podia pagar as crianças.	0
+62	Se o vigarista conseguisse enganar Sam, ele teria ganhado muito dinheiro.	O vigarista teria ganhado muito dinheiro.	1
+63	O Sr. Taylor era um homem de temperamento incerto e sua tendência geral era pensar que David era um pobre idiota e que qualquer passo que ele desse em qualquer direção por conta própria era apenas mais uma prova de sua idiotice inata.	Qualquer direção por conta própria era apenas mais uma prova da idiotice inata de David.	1
+64	Naquela manhã, Joey construiu um castelo de areia na praia e colocou uma bandeira de brinquedo na torre mais alta, mas esta tarde o vento o derrubou.	Esta tarde o vento derrubou o castelo de areia.	0
+65	Na tempestade, a árvore caiu e caiu no telhado da minha casa. Agora, tenho que consertá-lo.	Agora tenho que consertar o telhado.	1
+66	Derramei água da garrafa no copo até ficar vazio.	A garrafa estava vazia.	1
+67	Alice procurou sua amiga Jade na multidão. Como ela sempre usa um turbante vermelho, Alice a viu rapidamente.	Como Alice sempre usa um turbante vermelho, Alice a viu rapidamente.	0
+68	O cachorro perseguiu o gato, que subia em uma árvore. Esperou no topo.	O gato esperou no topo.	1
+69	Era uma tarde de verão e o cachorro estava sentado no meio do gramado. Depois de um tempo, levantou-se e mudou-se para um local debaixo da árvore, porque estava quente.	O local embaixo da árvore estava quente.	0
+70	George conseguiu ingressos grátis para a peça, mas deu a Eric, porque não estava particularmente ansioso para vê-la.	Eric não estava particularmente ansioso para vê-lo.	0
