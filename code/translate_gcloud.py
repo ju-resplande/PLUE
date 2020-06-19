@@ -1,21 +1,16 @@
 # Translate sentences to English and save mapping dicitionary as json.
-
 # Based on https://github.com/ruanchaves/assin/blob/master/sources/translate.py
 
-
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from subprocess import PIPE, run
 from sys import getsizeof
 from math import ceil
 import json
 import os
 
-import json
-from subprocess import PIPE, run
-from tqdm import tqdm, trange
-
-import six
 from google.cloud import translate_v2 as translate
-
+from tqdm import tqdm, trange
+import six
 
 MAXSIZE = 2500
 MAXWORKERS = 9
