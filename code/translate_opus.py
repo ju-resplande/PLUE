@@ -1,5 +1,5 @@
-!pip install transformers --upgrade
-!pip install mosestokenizer
+#pip install transformers --upgrade
+#pip install mosestokenizer
 
 # Translate sentences to English and save mapping dicitionary as json.
 # Based on https://github.com/ruanchaves/assin/blob/master/sources/translate.py
@@ -7,9 +7,9 @@
 import json
 import math
 import os
-import torch
 
-from tqdm.notebook import tqdm
+import torch
+import tqdm
 from transformers import MarianMTModel, MarianTokenizer
 
 model_name = 'Helsinki-NLP/opus-mt-en-ROMANCE'
@@ -67,29 +67,3 @@ def translate2dict(sentences, dictpath, batch_size):
         torch.cuda.empty_cache()
         with open(dictpath, 'w+') as f:
             json.dump(translations, f)
-
-from pprint import pprint
-import pandas as pd
-import os
-
-sentences = list()
-length = 0
-
-for f in splits:
-    table = pd.read_csv(f, sep = '\t', quoting=3, error_bad_lines=False)
-    print(f) 
-    #print(table.head())
-    #print('\n'*3)
-    
-    for idx in label_idx:
-        label = table[idx].copy()
-        print(label)
-        print('\n'*2)
-
-        sentences.extend(list(label))
-        length = length + label.size
-        
-
-
-assert length == len(sentences)
-sentences = set(sentences)
