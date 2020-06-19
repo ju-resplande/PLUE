@@ -18,31 +18,34 @@ MAXWORKERS = 9
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = './key.json'
 translate_client = translate.Client()
 
+
 def translation(text):
     if isinstance(text, six.binary_type):
         text = text.decode('utf-8')
 
     try:
-        result = translate_client.translate(text,'pt-br')
+        result = translate_client.translate(text, 'pt-br')
         return result['translatedText']
     except Exception as e:
         tqdm.write(e)
         return None
-    
+
+
 def check_translation(text,  translations):
     dic = {'original': text, 'translation': None}
 
     dic['translation'] = translations[text] \
-    if text in translations.keys() else translation(text)
+        if text in translations.keys() else translation(text)
 
     return dic
+
 
 def execparallel(sample, func, dic):
     missing = list()
 
     with ThreadPoolExecutor(MAXWORKERS) as executor:
         translations = {
-            executor.submit(func, text, dic): 
+            executor.submit(func, text, dic):
             text for text in sample
         }
 
@@ -84,3 +87,4 @@ def translate2dictpath(sentences, dictpath):
                     break
 
                 error = error + 1
+
