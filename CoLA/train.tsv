@@ -348,7 +348,7 @@ bc01	0	*	John escreve livros.
 bc01	0	*	John escreveu livros.
 bc01	1		João não escreveu livros.
 bc01	0	*	John parece que é legal.
-bc01	1		`` Estou tão feliz &#39;&#39;, pensou John.
+bc01	1		`` Estou tão feliz '', pensou John.
 bc01	1		descendo a colina rolou John.
 bc01	0	*	João beija frequentemente Maria.
 bc01	1		John muitas vezes beija Mary.
@@ -2112,13 +2112,13 @@ rhl07	0	*	Robin chegou a maior parte do caminho na estação.
 rhl07	0	*	O cachorro velho morreu no meio do caminho.
 rhl07	0	*	O cachorro velho morreu no meio do caminho.
 rhl07	0	*	O cachorro velho morreu o tempo todo.
-rhl07	1		Sandy ensinou o alfabeto às crianças, mas chegou até a letra `` r &#39;&#39;.
+rhl07	1		Sandy ensinou o alfabeto às crianças, mas chegou até a letra `` r ''.
 rhl07	1		Maxine leu as crianças Goodnight Moon, mas elas adormeceram antes que ela chegasse ao fim.
 rhl07	1		Entrevistar Richard Nixon deu a Norman Mailer um livro.
 rhl07	1		O comportamento de Nixon deu a Mailer uma idéia para um livro.
 rhl07	1		O comportamento de Nixon deu a idéia de um livro para todos os jornalistas que moravam na cidade de Nova York nos anos 1970.
 rhl07	1		Demos uma nova camada de tinta para a casa.
-rhl07	1		As cinco peças de `` paisagem sonora &#39;&#39; deram um ar festivo à Park Square.
+rhl07	1		As cinco peças de `` paisagem sonora '' deram um ar festivo à Park Square.
 rhl07	1		Gordie Gillespie ainda pode dar um pouco de sua mente aos árbitros.
 rhl07	1		Enviei o vendedor ao diabo.
 rhl07	0	*	Enviei ao diabo o vendedor.
@@ -2126,7 +2126,7 @@ rhl07	1		O comportamento de Nixon deu a idéia de um livro para todos os jornali
 rhl07	1		A música emprestou um ar festivo à festa.
 rhl07	1		É muito difícil ter uma idéia para um livro simplesmente a partir de uma entrevista.
 rhl07	1		É ilegível, garantido para causar dor de cabeça para quem olha com atenção as letras pequenas.
-rhl07	1		`` Fazer meus impostos &#39;&#39; causa dor de cabeça a 22% dos americanos pesquisados pela Pfizer, que fabrica remédios para alívio da dor com tylenol.
+rhl07	1		`` Fazer meus impostos '' causa dor de cabeça a 22% dos americanos pesquisados pela Pfizer, que fabrica remédios para alívio da dor com tylenol.
 rhl07	1		Lopez diz que fez mais do que simplesmente dar uma nova camada de tinta ao local.
 rhl07	1		Acho que é hora de você dar sua doença adorável a outra pessoa!
 l-93	1		Sharon pulverizou as plantas com água.
@@ -2738,20 +2738,20 @@ l-93	0	*	Brown equipou uma câmera em Jones.
 l-93	0	*	Brown equipou uma câmera para Jones.
 l-93	0	*	Brown equipou Jones uma câmera.
 l-93	1		Carmen comprou um vestido.
-l-93	1		Carmen comprou um vestido na Bloomingdale&#39;s.
+l-93	1		Carmen comprou um vestido na Bloomingdale's.
 l-93	1		Carmen comprou um vestido para Mary.
 l-93	0	*	Carmen comprou um vestido para Mary.
 l-93	1		Carmen comprou um vestido de Diana.
 l-93	0	*	Carmen comprou um vestido para Diana.
-l-93	1		Carmen comprou um vestido na Bloomingdale &#39;s por US $ 50.
-l-93	1		50 dólares nem sequer compram um vestido na Bloomingdale&#39;s.
+l-93	1		Carmen comprou um vestido na Bloomingdale 's por US $ 50.
+l-93	1		50 dólares nem sequer compram um vestido na Bloomingdale's.
 l-93	1		Carmen obteve a peça de reposição.
 l-93	0	*	Carmen obteve uma peça de reposição para Mary.
 l-93	0	*	Carmen obteve uma peça de reposição para Mary.
 l-93	1		Carmen obteve uma peça de reposição de Diana.
 l-93	0	*	Carmen obteve Diana de uma peça de reposição.
-l-93	1		Carmen comprou um vestido na Bloomingdale&#39;s por US $ 50.
-l-93	1		50 dólares nem compram um vestido na Bloomingdale&#39;s.
+l-93	1		Carmen comprou um vestido na Bloomingdale's por US $ 50.
+l-93	1		50 dólares nem compram um vestido na Bloomingdale's.
 l-93	1		Gwen trocou o vestido por uma camisa.
 l-93	0	*	Gwen trocou o vestido por Mary.
 l-93	0	*	Gwen trocou o vestido para Mary.
@@ -3054,8 +3054,8 @@ l-93	1		Susan sussurrou algumas palavras.
 l-93	1		Susan sussurrou a notícia para Rachel.
 l-93	0	*	Susan sussurrou as notícias para Rachel.
 l-93	1		Susan sussurrou para eu ir.
-l-93	1		Susan sussurrou &quot;Cale a boca&quot;.
-l-93	1		Susan sussurrou &quot;Cale a boca&quot; para eles.
+l-93	1		Susan sussurrou "Cale a boca".
+l-93	1		Susan sussurrou "Cale a boca" para eles.
 l-93	1		Eles sussurraram que o vencedor seria anunciado hoje à noite.
 l-93	1		Heather transmitiu a notícia.
 l-93	1		Heather ligou para Sara.
@@ -3498,7 +3498,7 @@ ks08	0	*	A idade média em que as pessoas começam a precisar de óculos varia c
 ks08	0	*	Apesar de suas limitadas oportunidades educacionais, Abraham Lincoln se tornou um dos maiores intelectuais do mundo.
 ks08	0	*	Um pastor foi executado, apesar de muitos pedidos a favor dele.
 ks08	1		Visitar parentes pode ser chato.
-ks08	1		Ele disse que aquele &#39;aquilo&#39; que aquele homem usava estava errado.
+ks08	1		Ele disse que aquele 'aquilo' que aquele homem usava estava errado.
 ks08	1		Kim e Sandy estão procurando uma bicicleta nova.
 ks08	1		Eu nunca coloquei o livro.
 ks08	1		O barco flutuou no rio afundou.
@@ -3623,7 +3623,7 @@ ks08	1		O que você colocou na sua caixa?
 ks08	1		Onde você colocou o livro?
 ks08	1		O que você fez?
 ks08	1		John olhou para dentro da chaminé.
-ks08	1		João procurou o significado de `chanson &#39;.
+ks08	1		João procurou o significado de `chanson '.
 ks08	1		O que ele procurou?
 ks08	1		Para onde ele olhou?
 ks08	1		Até o que ele parecia?
@@ -6711,7 +6711,7 @@ m_02	1		Um piano foi dado a Jane Fairfax por Frank Churchill.
 m_02	1		Wickham fugiu com Lydia.
 m_02	1		Miss Bates pode conversar por horas.
 m_02	1		Henry Crawford amava Fanny, mas Fanny amava Edmund.
-m_02	1		O Sr. Bingley se cansou de Jane ou o Sr. D&#39;Arcy convenceu o Sr.
+m_02	1		O Sr. Bingley se cansou de Jane ou o Sr. D'Arcy convenceu o Sr.
 m_02	1		Elizabeth lamentou ter conhecido Wickham.
 m_02	1		Catherine temia que a abadia fosse assombrada.
 m_02	1		Que Anne estivesse conversando com o Sr. Elliott, consternou o capitão.
@@ -6744,8 +6744,8 @@ m_02	1		Por causa da greve, os passageiros viajaram de caminhão do exército.
 m_02	1		Os passageiros viajaram de caminhão do exército por causa da greve.
 m_02	1		Como os motoristas de ônibus estavam em greve, os passageiros viajavam de caminhão do exército.
 m_02	1		Os passageiros viajaram de caminhão do exército porque os motoristas de ônibus estavam em greve.
-m_02	1		Embora D&#39;Arcy não gostasse da sra. Bennet, ele se casou com Elizabeth.
-m_02	1		Apesar de não gostar da sra. Bennet, o Sr. D&#39;Arcy casou-se com Elizabeth.
+m_02	1		Embora D'Arcy não gostasse da sra. Bennet, ele se casou com Elizabeth.
+m_02	1		Apesar de não gostar da sra. Bennet, o Sr. D'Arcy casou-se com Elizabeth.
 m_02	1		Se Emma tivesse deixado Hartfield, o Sr. Woodhouse teria ficado infeliz.
 m_02	1		O capitão Wentworth escreveu uma carta para Anne Elliott?
 m_02	1		Escreva uma carta para Anne Elliott.
@@ -6785,7 +6785,7 @@ m_02	1		Fanny se arrependeu de ter conversado com Mary.
 m_02	1		Henry queria se casar com Fanny.
 m_02	1		Sra. Bennet, tendo levado os outros para o andar de cima, o Sr. Bingley propôs.
 m_02	1		Tudo o que Collins faz é elogiar Lady de Bourg.
-m_02	1		Lady de Bourg tentou convencer Elizabeth a renunciar ao senhor D&#39;Arcy.
+m_02	1		Lady de Bourg tentou convencer Elizabeth a renunciar ao senhor D'Arcy.
 m_02	1		Henry queria se casar com Fanny antes que Edmund voltasse.
 m_02	1		Fanny se arrependeu de ter falado com Mary.
 m_02	1		O que o Sr. Collins está fazendo é elogiar Lady de Bourg.

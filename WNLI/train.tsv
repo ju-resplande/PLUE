@@ -31,7 +31,7 @@ index	sentence1	sentence2	label
 29	Grant trabalhou duro para colher seus grãos para que ele e sua família tivessem o suficiente para comer naquele inverno. Seu amigo Henry o deixou empilhá-los em seu celeiro, onde secariam. Mais tarde, ele e Tatyana os descascaram e os cozinharam para os jantares de domingo.	Seu amigo Henry o deixou empilhar Grant e sua família em seu celeiro, onde eles secariam.	0
 30	Jane bateu na porta e Susan atendeu. Ela a convidou para sair.	Jane a convidou para sair.	1
 31	Dan teve que impedir que Bill brincasse com o pássaro ferido. Ele é muito cruel.	Bill é muito cruel.	1
-32	Tom disse &quot;Cheque&quot; a Ralph quando ele levou seu bispo.	Tom disse &quot;Cheque&quot; a Ralph quando ele levou o bispo de Ralph.	1
+32	Tom disse "Cheque" a Ralph quando ele levou seu bispo.	Tom disse "Cheque" a Ralph quando ele levou o bispo de Ralph.	1
 33	Eu pedi um pouco de comida, mais para passar o tempo do que porque eu queria.	Pedi um pouco de comida, mais para passar o tempo do que porque queria comida.	1
 34	Joe pagou ao detetive depois de receber o relatório final sobre o caso.	Joe recebeu o relatório final sobre o caso.	1
 35	Esperávamos colocar cópias de nossa newsletter em todas as cadeiras do auditório, mas havia simplesmente muitas delas.	Havia simplesmente muitas cópias do boletim.	0
@@ -49,7 +49,7 @@ index	sentence1	sentence2	label
 47	Sara pegou emprestado o livro da biblioteca porque precisa dele para um artigo em que está trabalhando. Ela lê quando chega em casa do trabalho.	Ela lê o artigo quando chega em casa do trabalho.	0
 48	Mark ouviu os pés de Steve descendo a escada. A porta da loja se fechou atrás dele. Ele correu para olhar pela janela.	A porta da loja se fechou atrás de Steve.	1
 49	Fred é o único homem vivo que ainda se lembra de meu pai quando criança. Quando Fred viu meu pai pela primeira vez, ele tinha doze anos.	Quando Fred viu meu pai, ele tinha doze anos.	0
-50	Tatyana sabia que a avó sempre gostava de servir uma abundância de comida para seus convidados. Agora Tatyana viu a avó reunir a mãe pequena de Tatyana em um abraço largo e esquelético e depois a empurrou para a mesa, erguendo o xale dos ombros, sentando-a no lugar de honra e dizendo simplesmente: &quot;Há muito&quot;.	Vovó juntou a mãe pequena de Tatyana em um abraço largo e esquelético e depois jogou a vovó para a mesa.	0
+50	Tatyana sabia que a avó sempre gostava de servir uma abundância de comida para seus convidados. Agora Tatyana viu a avó reunir a mãe pequena de Tatyana em um abraço largo e esquelético e depois a empurrou para a mesa, erguendo o xale dos ombros, sentando-a no lugar de honra e dizendo simplesmente: "Há muito".	Vovó juntou a mãe pequena de Tatyana em um abraço largo e esquelético e depois jogou a vovó para a mesa.	0
 51	Fred assistia TV enquanto George saía para comprar mantimentos. Depois de uma hora ele voltou.	George voltou.	1
 52	Lily falou com Donna, quebrando sua concentração.	Lily falou com Donna, quebrando a concentração de Donna.	1
 53	Embora eles corressem na mesma velocidade, Sue venceu Sally porque ela teve um péssimo começo.	Sue teve um começo tão ruim.	0
@@ -140,7 +140,7 @@ index	sentence1	sentence2	label
 138	John estava correndo pelo parque quando viu um homem fazendo malabarismos com melancias. Ele ficou muito impressionado.	John ficou muito impressionado.	1
 139	Fred cobriu os olhos com as mãos, porque o vento soprava areia ao redor. Ele os abaixou quando o vento parou.	Ele baixou os olhos quando o vento parou.	0
 140	O caminhão de entregas passou pelo ônibus da escola porque estava indo muito rápido.	O ônibus da escola estava indo tão rápido.	0
-141	Durante um jogo de etiqueta, Ethan perseguiu Luke porque ele era &quot;ele&quot;.	Lucas era &quot;isso&quot;.	0
+141	Durante um jogo de etiqueta, Ethan perseguiu Luke porque ele era "ele".	Lucas era "isso".	0
 142	Há uma lacuna na parede. Você pode ver o jardim atrás dele.	Você pode ver o jardim através da parede.	1
 143	Tirei a garrafa de água da mochila para ficar mais leve.	Tirei a garrafa de água da mochila para que ela fosse mais leve.	0
 144	O sol estava coberto por uma nuvem espessa a manhã toda, mas, felizmente, quando o piquenique começou, o sol já havia desaparecido.	O sol estava fora.	1
@@ -201,7 +201,7 @@ index	sentence1	sentence2	label
 199	O tio de Joe ainda pode vencê-lo no tênis, mesmo tendo 30 anos.	O tio de Joe tem 30 anos.	1
 200	Alice estava espanando a sala e tentando encontrar o botão que mamãe havia escondido. Hoje não há tempo para ver fotos antigas em seu álbum de fotos favorito. Hoje ela teve que procurar um botão, então ela colocou o álbum em uma cadeira sem nem mesmo abri-lo.	Mamãe teve que procurar um botão.	0
 201	Derramei água da garrafa no copo até ficar cheio.	O copo estava cheio.	1
-202	Durante um jogo de etiqueta, Ethan perseguiu Luke porque ele era &quot;ele&quot;.	Ethan era &quot;isso&quot;.	1
+202	Durante um jogo de etiqueta, Ethan perseguiu Luke porque ele era "ele".	Ethan era "isso".	1
 203	Jane deu doces a Joan porque estava com fome.	Joan estava com fome.	1
 204	Moncrieff visitou o luxuoso apartamento de Chester em Nova York, pensando que pertencia a seu filho Edward. O resultado foi que o Sr. Moncrieff decidiu cancelar o subsídio de Edward, alegando que ele não precisa mais de seu apoio financeiro.	Edward não precisa mais de seu apoio financeiro.	1
 205	Quando Tommy largou o sorvete, Timmy deu uma risadinha, então o pai deu-lhe um olhar compreensivo.	Papai lançou um olhar de simpatia para Tommy.	1
@@ -216,7 +216,7 @@ index	sentence1	sentence2	label
 214	Jackson foi grandemente influenciado por Arnold, embora tenha vivido dois séculos depois.	Jackson viveu dois séculos depois.	1
 215	Este livro apresentou Shakespeare a Ovídio; foi uma ótima seleção de seus escritos.	Foi uma ótima seleção dos escritos de Shakespeare.	0
 216	O pai carregava o menino adormecido no berço.	O pai carregava o menino adormecido no berço do pai.	0
-217	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque seus &quot;Dibs!&quot; foi mais rápido.	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque &quot;Dibs!&quot; De Dan foi mais rápido.	0
+217	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque seus "Dibs!" foi mais rápido.	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque "Dibs!" De Dan foi mais rápido.	0
 218	Pete inveja Martin, embora ele seja muito bem sucedido.	Martin é muito bem sucedido.	0
 219	De uma coisa, Mark tinha certeza. Harry sabia muito menos do que ele.	Harry sabia muito menos do que Harry.	0
 220	Como Chester dependia do tio Vernon, ele não poderia muito bem se casar sem sua aprovação	Tio Vernon não poderia muito bem se casar sem a sua aprovação	0
@@ -317,7 +317,7 @@ index	sentence1	sentence2	label
 315	Naquela manhã, Joey construiu um castelo de areia na praia e colocou uma bandeira de brinquedo na torre mais alta, mas esta tarde o vento o derrubou.	Esta tarde o vento derrubou a bandeira.	1
 316	O saco de batatas havia sido colocado acima do saco de farinha, então teve que ser movido primeiro.	O saco de batatas teve que ser movido primeiro.	1
 317	Anne deu à luz uma filha no mês passado. Ela é um bebê muito charmoso.	A filha de Anne é um bebê muito charmoso.	1
-318	Tatyana conseguiu dois violões e uma sacola e ainda pôde apontar os Freemans: &quot;Não é legal que eles tenham vindo, mamãe!&quot;	Não é legal que os Freemans tenham chegado, mamãe! &quot;	1
+318	Tatyana conseguiu dois violões e uma sacola e ainda pôde apontar os Freemans: "Não é legal que eles tenham vindo, mamãe!"	Não é legal que os Freemans tenham chegado, mamãe! "	1
 319	A pintura na sala de Mark mostra um carvalho. É à direita da estante.	A pintura está à direita da estante.	1
 320	Mark estava perto dos calcanhares do Sr. Singer. Ele o ouviu chamando pelo capitão, prometendo-lhe, no jargão que todos conversaram naquela noite, que nada deveria ser danificado no navio, exceto apenas a munição, mas é melhor o capitão e toda sua tripulação permanecer na cabine até o trabalho acabou.	É melhor que o capitão e toda a tripulação de Mark fiquem na cabine até que o trabalho termine.	0
 321	Quando Tatyana chegou à cabana, sua mãe estava dormindo. Teve o cuidado de não perturbá-la, despindo-se e subindo de volta ao seu lugar.	Teve o cuidado de não perturbá-la, despindo-se e subindo de volta ao beliche da mãe.	0
@@ -330,12 +330,12 @@ index	sentence1	sentence2	label
 328	Anna fez muito pior do que sua amiga Lucy, no teste, porque ela havia estudado muito.	Anna havia estudado muito.	0
 329	A Dra. Adams informou Kate que ela tinha câncer e apresentou várias opções para tratamento futuro.	Kate teve câncer e apresentou várias opções para tratamento futuro.	1
 330	Este livro apresentou Shakespeare a Ovídio; foi uma ótima seleção de seus escritos.	Foi uma excelente seleção dos escritos de Ovídio.	1
-331	Durante um jogo de tag, Ethan fugiu de Luke porque ele era &quot;ele&quot;.	Lucas era &quot;isso&quot;.	1
+331	Durante um jogo de tag, Ethan fugiu de Luke porque ele era "ele".	Lucas era "isso".	1
 332	Moncrieff visitou o luxuoso apartamento de Chester em Nova York, pensando que pertencia a seu filho Edward. O resultado foi que o Sr. Moncrieff decidiu cancelar o subsídio de Edward, alegando que ele não precisa mais de seu apoio financeiro.	Moncrieff não precisa mais de seu apoio financeiro.	0
 333	Alice tentou freneticamente impedir que a filha conversasse na festa, deixando-nos perguntar por que ela estava se comportando tão estranhamente.	Alice estava se comportando tão estranhamente.	1
 334	As placas nas portas das lojas tinham fotos que indicavam o trabalho realizado dentro. Embora cada vez mais pessoas aprendessem a ler, cada artesão ainda tinha sinais, não desejando perder um possível patrono apenas porque era analfabeto.	Cada artesão ainda tinha sinais, não desejando perder um possível patrono apenas porque o patrono era analfabeto.	1
 335	Os cientistas estão estudando três espécies de peixes que foram encontrados recentemente vivendo no Oceano Índico. Eles começaram há dois anos.	O peixe começou há dois anos.	0
-336	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque seus &quot;Dibs!&quot; foi mais rápido.	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque &quot;Dibs!&quot; De Bill foi mais rápido.	1
+336	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque seus "Dibs!" foi mais rápido.	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque "Dibs!" De Bill foi mais rápido.	1
 337	A biografia de Sam Goodman do general espartano Xenófanes transmite uma sensação vívida das dificuldades que ele enfrentou em sua pesquisa.	A biografia de Sam Goodman do general espartano Xenófanes transmite uma sensação vívida das dificuldades que Xenófanes enfrentou em sua pesquisa.	0
 338	Enfiei um alfinete na cenoura. Quando puxei o pino, ele deixou um buraco.	O alfinete deixou um buraco.	1
 339	Jackson foi grandemente influenciado por Arnold, embora tenha vivido dois séculos depois.	Arnold viveu dois séculos depois.	0
@@ -350,7 +350,7 @@ index	sentence1	sentence2	label
 348	Os alunos mais velhos estavam intimidando os mais jovens, então nós os punimos.	Punimos os alunos mais velhos.	1
 349	Na competição Loebner, os juízes não conseguiram descobrir quais entrevistados eram os chatbots porque eram muito avançados.	Os chatbots eram muito avançados.	1
 350	Os pais de Pam chegaram em casa e a encontraram fazendo sexo com o namorado, Paul. Eles ficaram envergonhados com isso.	Pam e Paul ficaram envergonhados com isso.	1
-351	Durante um jogo de tag, Ethan fugiu de Luke porque ele era &quot;ele&quot;.	Ethan era &quot;isso&quot;.	0
+351	Durante um jogo de tag, Ethan fugiu de Luke porque ele era "ele".	Ethan era "isso".	0
 352	Eu estava tentando abrir a fechadura com a chave, mas alguém havia enchido o buraco da fechadura com chiclete, e eu não consegui tirá-lo.	Não consegui tirar a chave.	0
 353	Alice procurou sua amiga Jade na multidão. Como ela sempre tem boa sorte, Alice a viu rapidamente.	Como Alice sempre tem boa sorte, Alice a viu rapidamente.	1
 354	Como estava chovendo, carreguei o jornal sobre a mochila para mantê-lo seco.	Carreguei o jornal sobre minha mochila para mantê-lo seco.	0
@@ -386,7 +386,7 @@ index	sentence1	sentence2	label
 384	O advogado fez uma pergunta à testemunha, mas ele relutou em responder.	O advogado relutou em responder.	0
 385	Joan fez questão de agradecer a Susan por toda a ajuda que recebera.	Joan fez questão de agradecer a Susan por toda a ajuda que recebera.	0
 386	Mark ficou absorvido em Blaze, o cavalo branco. Ele temia que os garotos do estábulo nos estábulos de Burlington o agredissem e o intimidassem porque ele era tímido, então ele assumiu a alimentação e o cuidado do animal.	Mark assumiu a alimentação e o cuidado do animal.	1
-387	Tatyana conseguiu dois violões e uma sacola e ainda pôde apontar os Freemans: &quot;Não é legal que eles tenham vindo, mamãe!&quot;	Não é legal que as duas guitarras e uma bolsa tenham chegado, mamãe! &quot;	0
+387	Tatyana conseguiu dois violões e uma sacola e ainda pôde apontar os Freemans: "Não é legal que eles tenham vindo, mamãe!"	Não é legal que as duas guitarras e uma bolsa tenham chegado, mamãe! "	0
 388	Mark contou a Pete muitas mentiras sobre si mesmo, que Pete incluiu em seu livro. Ele deveria ter sido mais sincero.	Pete deveria ter sido mais sincero.	0
 389	Tom jogou sua mochila para Ray depois que ele chegou ao pé da escada.	Ray chegou ao pé da escada.	1
 390	Quando os patrocinadores do projeto chegaram à prefeitura, ficaram surpresos ao descobrir que a sala estava cheia de oponentes. Eles estavam em minoria.	Os oponentes estavam em minoria.	0
@@ -399,7 +399,7 @@ index	sentence1	sentence2	label
 397	Sid explicou sua teoria para Mark, mas ele não conseguia entendê-lo.	Sid não conseguia entendê-lo.	0
 398	No meio do show ao ar livre, a chuva começou a cair, mas continuou até as 10.	A chuva continuou até as 10.	0
 399	Frank estava chateado com Tom porque a torradeira que ele havia comprado dele não funcionava.	A torradeira que Frank comprou dele não funcionou.	1
-400	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque seus &quot;Dibs!&quot; foi lento.	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque &quot;Dibs!&quot; De Bill foi lento.	0
+400	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque seus "Dibs!" foi lento.	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque "Dibs!" De Bill foi lento.	0
 401	A mesa não passa pela porta porque é muito larga.	A mesa é muito larga.	1
 402	Jane bateu na porta e Susan atendeu. Ela a convidou para entrar.	Susan a convidou para entrar.	1
 403	As raposas entram à noite e atacam as galinhas. Vou ter que guardá-los.	Vou ter que guardar as raposas.	0
@@ -432,7 +432,7 @@ index	sentence1	sentence2	label
 430	Bob pagou pela educação universitária de Charlie, mas agora Charlie age como se isso nunca tivesse acontecido. Ele é muito ingrato.	Charlie é muito ingrato.	1
 431	Sam e Amy estão apaixonadamente apaixonados, mas os pais de Amy estão descontentes com isso, porque têm quinze anos.	Os pais de Amy têm quinze.	0
 432	Joan fez questão de agradecer a Susan por toda a ajuda que ela havia dado.	Joan fez questão de agradecer a Susan por toda a ajuda que Joan havia dado.	0
-433	Tom disse &quot;Cheque&quot; a Ralph quando ele mudou seu bispo.	Tom disse &quot;Cheque&quot; a Ralph quando ele mudou o bispo de Ralph.	0
+433	Tom disse "Cheque" a Ralph quando ele mudou seu bispo.	Tom disse "Cheque" a Ralph quando ele mudou o bispo de Ralph.	0
 434	Quando os patrocinadores do projeto chegaram à prefeitura, ficaram surpresos ao descobrir que a sala estava cheia de oponentes. Eles estavam em minoria.	Os patrocinadores eram muito minoritários.	1
 435	A escultura rolou da prateleira porque não estava nivelada.	A escultura não estava nivelada.	0
 436	O tio de Joe ainda pode vencê-lo no tênis, mesmo sendo 30 anos mais novo.	O tio de Joe é 30 anos mais novo.	0
@@ -448,7 +448,7 @@ index	sentence1	sentence2	label
 446	Alice procurou sua amiga Jade na multidão. Como ela sempre usa um turbante vermelho, Alice a viu rapidamente.	Como Jade sempre usa um turbante vermelho, Alice a viu rapidamente.	1
 447	Na tempestade, a árvore caiu e caiu no telhado da minha casa. Agora, tenho que consertá-lo.	Agora tenho que consertar a árvore.	0
 448	Mary colocou a filha Anne na cama, para poder trabalhar.	Mary colocou sua filha Anne na cama, para que a filha de Mary pudesse trabalhar.	0
-449	Tom disse &quot;Cheque&quot; a Ralph quando ele mudou seu bispo.	Tom disse &quot;Cheque&quot; a Ralph quando ele mudou o bispo de Tom.	1
+449	Tom disse "Cheque" a Ralph quando ele mudou seu bispo.	Tom disse "Cheque" a Ralph quando ele mudou o bispo de Tom.	1
 450	Bob desabou na calçada. Logo ele viu Carl vindo para ajudar. Ele estava muito preocupado.	Bob estava muito preocupado.	0
 451	O homem não conseguiu levantar o filho porque ele era muito pesado.	O homem era tão pesado.	0
 452	Usei um pano velho para limpar a faca e depois coloquei na gaveta.	Coloquei o pano na gaveta.	0
@@ -479,7 +479,7 @@ index	sentence1	sentence2	label
 477	Vi Jim gritando com um cara de uniforme militar com uma enorme barba ruiva. Não sei quem ele era, mas ele parecia muito infeliz.	Não sei quem era Jim, mas ele parecia muito infeliz.	0
 478	Joe pagou ao detetive depois que ele entregou o relatório final sobre o caso.	O detetive entregou o relatório final sobre o caso.	1
 479	Jane bateu na porta de Susan, mas ela não obteve resposta.	Jane não obteve resposta.	1
-480	Tatyana sabia que a avó sempre gostava de servir uma abundância de comida para seus convidados. Agora Tatyana viu a avó reunir a mãe pequena de Tatyana em um abraço largo e esquelético e depois a empurrou para a mesa, erguendo o xale dos ombros, sentando-a no lugar de honra e dizendo simplesmente: &quot;Há muito&quot;.	Vovó reuniu a mãe pequena de Tatyana em um abraço largo e esquelético e depois jogou a mãe de Tatyana para a mesa.	1
+480	Tatyana sabia que a avó sempre gostava de servir uma abundância de comida para seus convidados. Agora Tatyana viu a avó reunir a mãe pequena de Tatyana em um abraço largo e esquelético e depois a empurrou para a mesa, erguendo o xale dos ombros, sentando-a no lugar de honra e dizendo simplesmente: "Há muito".	Vovó reuniu a mãe pequena de Tatyana em um abraço largo e esquelético e depois jogou a mãe de Tatyana para a mesa.	1
 481	Susan sabe tudo sobre os problemas pessoais de Ann porque é intrometida.	Susan é intrometida.	1
 482	Alice estava espanando a sala e tentando encontrar o botão que mamãe havia escondido. Hoje não há tempo para ver fotos antigas em seu álbum de fotos favorito. Hoje ela teve que procurar um botão, então ela colocou o álbum em uma cadeira sem nem mesmo abri-lo.	Ela colocou o álbum em uma cadeira sem nem mesmo abri-lo.	1
 483	O sol estava coberto por uma nuvem espessa a manhã toda, mas, felizmente, quando o piquenique começou, ele se foi.	O sol se foi.	0
@@ -585,7 +585,7 @@ index	sentence1	sentence2	label
 583	Fred e Alice tinham casacos muito quentes, mas não eram suficientes para o frio no Alasca.	Fred e Alice não eram suficientes para o frio no Alasca.	0
 584	Thomson visitou o túmulo de Cooper em 1765. Naquela data, ele viajava havia cinco anos.	Thomson viajava há cinco anos.	1
 585	O homem levantou o garoto em seu beliche.	O homem levantou o garoto na cama de beliche do homem.	0
-586	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque seus &quot;Dibs!&quot; foi lento.	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque &quot;Dibs!&quot; De Dan foi lento.	1
+586	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque seus "Dibs!" foi lento.	Dan ocupou o banco traseiro, enquanto Bill reivindicou a frente porque "Dibs!" De Dan foi lento.	1
 587	A mulher segurou a garota contra sua vontade.	A mulher segurou a garota contra a vontade dela.	1
 588	Não consegui encontrar uma colher, então tentei usar uma caneta para mexer meu café. Mas isso acabou sendo uma péssima idéia, porque ficou cheio de café.	A caneta ficou cheia de café.	1
 589	Este livro apresentou Shakespeare a Goethe; foi uma grande influência em seus escritos.	Foi uma grande influência nos escritos de Shakespeare.	0
@@ -631,6 +631,6 @@ index	sentence1	sentence2	label
 629	Sam e Amy estão apaixonadamente apaixonados, mas os pais de Amy estão descontentes com isso, porque têm quinze anos.	Sam e Amy têm quinze.	1
 630	Quando Tommy largou o sorvete, Timmy deu uma risadinha, então o pai deu-lhe um olhar compreensivo.	Papai lançou um olhar de simpatia para Timmy.	0
 631	Mark contou a Pete muitas mentiras sobre si mesmo, que Pete incluiu em seu livro. Ele deveria ter sido mais cético.	Pete deveria ter sido mais cético.	1
-632	Tom disse &quot;Cheque&quot; a Ralph quando ele levou seu bispo.	Tom disse &quot;Cheque&quot; a Ralph quando ele levou o bispo de Tom.	0
+632	Tom disse "Cheque" a Ralph quando ele levou seu bispo.	Tom disse "Cheque" a Ralph quando ele levou o bispo de Tom.	0
 633	A mãe de Emma havia morrido há muito tempo e seu lugar fora ocupado por uma excelente mulher como governanta.	O lugar da mãe de Emma fora ocupado por uma excelente mulher como governanta.	1
 634	Embora eles corressem na mesma velocidade, Sue venceu Sally porque ela teve um péssimo começo.	Sally teve um começo tão ruim.	1
