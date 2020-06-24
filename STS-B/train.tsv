@@ -85,7 +85,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 83	main-captions	MSRvid	2012test	120	none	none	Um homem está descascando uma batata.	Um homem descascou uma batata.	3.8
 84	main-captions	MSRvid	2012test	121	none	none	Uma mulher está tocando violão.	Um homem toca violão.	2.4
 85	main-captions	MSRvid	2012test	123	none	none	Uma mulher está cortando tomate.	Um homem está cortando cebola.	1.6
-86	main-captions	MSRvid	2012test	125	none	none	Um homem nada debaixo d&#39;água.	Uma mulher está nadando debaixo d&#39;água.	2.0
+86	main-captions	MSRvid	2012test	125	none	none	Um homem nada debaixo d'água.	Uma mulher está nadando debaixo d'água.	2.0
 87	main-captions	MSRvid	2012test	126	none	none	Um homem e uma mulher estão conversando.	Um homem e uma mulher estão comendo.	1.6
 88	main-captions	MSRvid	2012test	129	none	none	Um cão pequeno está perseguindo uma bola de ioga.	Um cachorro está perseguindo uma bola.	4.0
 89	main-captions	MSRvid	2012test	130	none	none	Os homens estão jogando críquete.	Os homens estão jogando basquete.	2.2
@@ -325,7 +325,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 323	main-captions	MSRvid	2012test	484	none	none	Um gato está assistindo TV.	Um homem está cortando uma licença.	0.0
 324	main-captions	MSRvid	2012test	485	none	none	O garoto está preso na porta da casinha.	Uma criança está presa em uma casa de cachorro.	3.75
 325	main-captions	MSRvid	2012test	486	none	none	As pessoas viram uma piscina.	Homens estão caindo em uma piscina.	2.75
-326	main-captions	MSRvid	2012test	489	none	none	Uma mulher nada debaixo d&#39;água.	Uma mulher está nadando	3.8
+326	main-captions	MSRvid	2012test	489	none	none	Uma mulher nada debaixo d'água.	Uma mulher está nadando	3.8
 327	main-captions	MSRvid	2012test	490	none	none	Um homem está tocando violão.	Uma mulher está dançando.	0.2
 328	main-captions	MSRvid	2012test	492	none	none	Um avião está voando no ar.	Um avião da South African Airways está voando em um céu azul.	3.4
 329	main-captions	MSRvid	2012test	493	none	none	Um urso está fugindo de dois cães.	Um urso está lutando com lobos.	1.4
@@ -1451,7 +1451,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 1449	main-captions	images	2014	675	none	none	Feche acima de uma ovelha branca com uma cabeça preta.	Um close de uma ovelha com uma cabeça negra.	4.0
 1450	main-captions	images	2014	677	none	none	Um jovem rapaz deitado em um sofá com um cachorro.	Um menino pequeno deitado em um sofá com um cachorro.	5.0
 1451	main-captions	images	2014	678	none	none	Um pássaro vermelho está empoleirado em uma árvore.	Um pássaro vermelho e cinzento pequeno empoleirou-se em uma árvore.	3.2
-1452	main-captions	images	2014	679	none	none	Dois ônibus estacionados em uma rua.	&quot;Trotinette&quot; amarelo estacionado em uma maneira do beco.	0.4
+1452	main-captions	images	2014	679	none	none	Dois ônibus estacionados em uma rua.	"Trotinette" amarelo estacionado em uma maneira do beco.	0.4
 1453	main-captions	images	2014	680	none	none	Um cão preto e branco, olhando para a câmera.	Um gato cinza, preto e branco olhando para a câmera.	1.0
 1454	main-captions	images	2014	682	none	none	Um trem está nos trilhos da ferrovia.	Um trem nos trilhos do trem.	4.8
 1455	main-captions	images	2014	684	none	none	Grande motor locomotivo de prata em uma vertente.	Um close-up de um motor de trem de prata com uma faixa vermelha.	3.0
@@ -1522,7 +1522,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 1520	main-captions	images	2015	85	none	none	Uma jovem garota descendo uma corrediça do tubo.	Uma jovem garota balançando um balanço de pneu	1.8
 1521	main-captions	images	2015	89	none	none	Muitas pessoas estão participando de corridas de bicicleta, incluindo um homem em uma bicicleta de três rodas.	Um homem andando em uma cadeira de rodas de três rodas.	2.6
 1522	main-captions	images	2015	93	none	none	Um grupo de pessoas está usando orelhas de coelho.	Um grupo de pessoas andam em uma corrida	0.8
-1523	main-captions	images	2015	96	none	none	Um cachorro com uma camisa de &quot;super-homem&quot; dorme em um cobertor.	Um cachorro marrom com uma camisa do Super-Homem está deitado sobre um cobertor azul.	4.0
+1523	main-captions	images	2015	96	none	none	Um cachorro com uma camisa de "super-homem" dorme em um cobertor.	Um cachorro marrom com uma camisa do Super-Homem está deitado sobre um cobertor azul.	4.0
 1524	main-captions	images	2015	101	none	none	O cachorro branco e marrom atravessa a grama.	Um cão marrom e branco atravessa a grama.	4.8
 1525	main-captions	images	2015	108	none	none	Um cachorro marrom está descansando as patas em um teclado de laptop.	Um cão senta-se com as patas em um computador laptop.	3.8
 1526	main-captions	images	2015	109	none	none	Uma jovem garota de óculos senta e segura duas bandeiras americanas.	Uma garota de óculos está olhando duas bandeiras americanas perto de uma área arborizada.	2.6
@@ -1539,7 +1539,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 1537	main-captions	images	2015	151	none	none	Um homem pegando uma pedra grande.	Uma mulher pegando uma pedra grande.	2.4
 1538	main-captions	images	2015	152	none	none	Um cão branco e marrom está correndo sobre a grama.	Um cachorro marrom e branco está correndo pela grama.	4.6
 1539	main-captions	images	2015	157	none	none	O homem está carregando uma caixa de ferramentas na calçada.	Uma mulher está andando de bicicleta azul em um parque.	0.0
-1540	main-captions	images	2015	158	none	none	Um homem vestindo uma camiseta que diz &quot;Gigolo&quot; está parado no balcão conversando com alguém.	Um homem vestindo uma camisa que diz &quot;Gigolo&quot; está parado na área da recepção, de costas para a câmera.	3.4
+1540	main-captions	images	2015	158	none	none	Um homem vestindo uma camiseta que diz "Gigolo" está parado no balcão conversando com alguém.	Um homem vestindo uma camisa que diz "Gigolo" está parado na área da recepção, de costas para a câmera.	3.4
 1541	main-captions	images	2015	159	none	none	Uma barraca e um acampamento em uma floresta iluminada pelo sol.	Um cachorro branco na praia está carregando um graveto na boca.	0.0
 1542	main-captions	images	2015	160	none	none	Dois cães grandes correndo na grama.	Dois cães rajados correndo na grama.	4.2
 1543	main-captions	images	2015	161	none	none	Um cachorro nadando com um pau na boca.	Um cachorro correndo com um pau na boca.	2.6
@@ -1611,7 +1611,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 1609	main-captions	images	2015	344	none	none	Meninos correndo ao longo da calçada.	Um cachorro preto correndo ao longo da beira do oceano.	0.5
 1610	main-captions	images	2015	345	none	none	Uma criança desliza um slide laranja.	Um garotinho de macacão jeans desliza um slide laranja.	3.67
 1611	main-captions	images	2015	346	none	none	um cachorro preto e branco correndo por alguns postes vermelhos e brancos	Cão preto e branco na sala de estar em pé nas patas.	1.6
-1612	main-captions	images	2015	349	none	none	Três indivíduos estão posando em esquis atrás de uma placa de &quot;não esquiar&quot;.	Três pessoas em esquis estão atrás de uma placa de não esquiar.	4.4
+1612	main-captions	images	2015	349	none	none	Três indivíduos estão posando em esquis atrás de uma placa de "não esquiar".	Três pessoas em esquis estão atrás de uma placa de não esquiar.	4.4
 1613	main-captions	images	2015	350	none	none	Um homem de terno branco caminha pela rua segurando um jornal.	Um homem de terno branco sai carregando um jornal.	4.6
 1614	main-captions	images	2015	357	none	none	Um cachorro preto com uma coleira azul está correndo na neve.	Um cachorro preto de colarinho azul está correndo pela neve.	5.0
 1615	main-captions	images	2015	362	none	none	Um cachorro está correndo em direção à câmera.	Um cão marrom e branco correndo na grama.	0.8
@@ -1943,7 +1943,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 1941	main-captions	images	2015	1332	none	none	Uma jovem mulher se inclina sobre o prato em uma refeição.	Uma jovem de topless, exceto tinta ou lama.	0.8
 1942	main-captions	images	2015	1335	none	none	Uma pessoa sobe uma colina com neve enquanto o cachorro segue.	Uma pessoa sobe uma colina com neve enquanto um cachorro preto o segue.	3.8
 1943	main-captions	images	2015	1336	none	none	Um cachorro marrom senta-se na praia.	Um cachorro correndo na praia	2.0
-1944	main-captions	images	2015	1340	none	none	Mergulhador submerso em água.	O mergulhador está debaixo d&#39;água.	5.0
+1944	main-captions	images	2015	1340	none	none	Mergulhador submerso em água.	O mergulhador está debaixo d'água.	5.0
 1945	main-captions	images	2015	1341	none	none	O homem está andando de bicicleta por uma colina de terra.	Um ciclista de truque mói um corrimão.	1.8
 1946	main-captions	images	2015	1342	none	none	Um grande cão cinzento está brincando na neve profunda.	Quatro cachorros brincando na neve.	2.6
 1947	main-captions	images	2015	1343	none	none	Um homem andando de bicicleta na praia à beira-mar.	Um homem andando com sua vaca pela beira da estrada.	0.8
@@ -1999,11 +1999,11 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 1997	main-captions	images	2015	1490	none	none	Um jogador de beisebol joga a bola.	O jogador de basquete segura a bola.	1.6
 1998	main-captions	images	2015	1493	none	none	Um homem está balançando em uma corda sobre a água.	Um homem de maiô marrom balança uma corda em um lago.	3.0
 1999	main-captions	images	2015	1498	none	none	Uma jovem garota vestida com um traje de Minnie Mouse e uma mulher mais velha andando pela calçada.	um homem de terno branco, segurando um jornal andando pelas ruas.	1.0
-2000	main-forum	deft-forum	2014	0	none	none	Que tal alguns testemunhos de verdadeiros especialistas em saúde?	Além disso, quem pode dizer que não há depoimentos de especialistas em saúde &quot;reais&quot; por lá?	3.0
-2001	main-forum	deft-forum	2014	1	none	none	&quot;Então o capitão se foi.	Então o capitão voltou.	0.8
+2000	main-forum	deft-forum	2014	0	none	none	Que tal alguns testemunhos de verdadeiros especialistas em saúde?	Além disso, quem pode dizer que não há depoimentos de especialistas em saúde "reais" por lá?	3.0
+2001	main-forum	deft-forum	2014	1	none	none	"Então o capitão se foi.	Então o capitão voltou.	0.8
 2002	main-forum	deft-forum	2014	2	none	none	O problema é mais simples que isso.	O problema é simples.	3.8
 2003	main-forum	deft-forum	2014	3	none	none	REQUISITOS DE RECONHECIMENTO NEGATIVO.	REQUISITOS PACÍFICOS.	1.0
-2004	main-forum	deft-forum	2014	4	none	none	Então, estou deixando de lado, por enquanto, fazendo a pergunta: &quot;Onde está o Marx&quot;?	Estou indo para a pergunta: &quot;Onde está a carne&quot;?	0.4
+2004	main-forum	deft-forum	2014	4	none	none	Então, estou deixando de lado, por enquanto, fazendo a pergunta: "Onde está o Marx"?	Estou indo para a pergunta: "Onde está a carne"?	0.4
 2005	main-forum	deft-forum	2014	5	none	none	vai entender Você está me pedindo para provar um negativo?	Você está me pedindo para provar um negativo?	4.6
 2006	main-forum	deft-forum	2014	6	none	none	Eu estou bem com o uso MÉDICO!	EU SOU OK COM USO MÉDICO !!	5.0
 2007	main-forum	deft-forum	2014	7	none	none	Os preços de tudo o que você precisa aumentaram devido à inflação.	Os preços de tudo o que você possui ativos do IE caíram.	2.0
@@ -2017,42 +2017,42 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2015	main-forum	deft-forum	2014	15	none	none	A terra inteira combinada produz comida suficiente para bilhões de pessoas.	Quem agora produz apenas o suficiente para bilhões?	2.2
 2016	main-forum	deft-forum	2014	16	none	none	Aliás, ele tinha adiamentos adequados para a época.	Adiamentos apropriados para o tempo, eh?	3.2
 2017	main-forum	deft-forum	2014	17	none	none	Ei, olhos azuis, como estão as coisas em Londres?	** beijos Ran ** Ei, olhos azuis, como estão as coisas em Londres?	4.4
-2018	main-forum	deft-forum	2014	18	none	none	mas nas notícias que vi, eles o chamavam de branco.	mas parece que teria menos &quot;impacto&quot; se não o chamassem de branco.	2.2
+2018	main-forum	deft-forum	2014	18	none	none	mas nas notícias que vi, eles o chamavam de branco.	mas parece que teria menos "impacto" se não o chamassem de branco.	2.2
 2019	main-forum	deft-forum	2014	19	none	none	De acordo com a namorada e Zimmerman, ele fez.	De acordo com Zimmerman, ele fez.	2.4
 2020	main-forum	deft-forum	2014	20	none	none	Meus pais me disseram que isso é ruim para você.	Meus professores me disseram que isso é ruim para você.	2.8
 2021	main-forum	deft-forum	2014	21	none	none	.Nazi é uma gíria para o NSWP.	Postado originalmente por Odins eye .Nazi é uma gíria para o NSWP.	4.6
 2022	main-forum	deft-forum	2014	22	none	none	Eu sou contra a pena de morte.	É por isso que apoio a pena de morte.	1.0
 2023	main-forum	deft-forum	2014	23	none	none	Bem, tanto faz, você é agora.	Bem, tanto faz, você está ciente disso agora.	2.2
-2024	main-forum	deft-forum	2014	24	none	none	Eles não produzem nada que eu possa comer, vestir, viver.	Pense em todas as coisas que você não pode &quot;comer, vestir ou viver&quot;.	2.2
+2024	main-forum	deft-forum	2014	24	none	none	Eles não produzem nada que eu possa comer, vestir, viver.	Pense em todas as coisas que você não pode "comer, vestir ou viver".	2.2
 2025	main-forum	deft-forum	2014	25	none	none	DICKSHOT Matt Holliday possui.	Matt Holliday é dono, todos vocês.	3.8
 2026	main-forum	deft-forum	2014	26	none	none	As pessoas exploraram as leis.	As pessoas dobraram as leis.	2.8
 2027	main-forum	deft-forum	2014	27	none	none	Engraçado, pensei o mesmo em matemática.	E aqui eu pensei que me conhecia um pouco de matemática.	2.2
-2028	main-forum	deft-forum	2014	28	none	none	Tenho anos de direitos &quot;Neener Neener&quot;, também uso alface.	Tenho anos de direitos &quot;Neener Neener&quot; Oi Wiggies!	2.6
-2029	main-forum	deft-forum	2014	29	none	none	Não prefixo nem sufixo tudo com &quot;você odeia judeus&quot;.	Você deve parar de prefixar ou sufocar tudo com você odeia judeus.	3.0
+2028	main-forum	deft-forum	2014	28	none	none	Tenho anos de direitos "Neener Neener", também uso alface.	Tenho anos de direitos "Neener Neener" Oi Wiggies!	2.6
+2029	main-forum	deft-forum	2014	29	none	none	Não prefixo nem sufixo tudo com "você odeia judeus".	Você deve parar de prefixar ou sufocar tudo com você odeia judeus.	3.0
 2030	main-forum	deft-forum	2014	30	none	none	Eu perguntei a ela se ela gosta de uma árvore.	Pelo menos eu perguntei se um trio estava fora de questão.	4.8
 2031	main-forum	deft-forum	2014	31	none	none	Ainda não faz sentido.	É você quem não faz sentido.	1.4
 2032	main-forum	deft-forum	2014	32	none	none	Casas mais caras.	Carros mais caros.	1.2
-2033	main-forum	deft-forum	2014	33	none	none	Martin disse: &quot;Por que você está me seguindo?&quot;	Zimmerman respondeu: &quot;O que você está fazendo aqui?&quot;	0.8
+2033	main-forum	deft-forum	2014	33	none	none	Martin disse: "Por que você está me seguindo?"	Zimmerman respondeu: "O que você está fazendo aqui?"	0.8
 2034	main-forum	deft-forum	2014	34	none	none	TODAS AS ESTIMATIVAS DE INTENSIDADE SATÉLITE DA TAFB E SAB SÃO APENAS T. /	A INTENSIDADE SUBJETIVA DE DVORAK ESTIMADA DA TAFB E SAB AUMENTADA PARA A KT.	2.0
-2035	main-forum	deft-forum	2014	35	none	none	&quot;Fadas não existem&quot; - tudo bem.	&quot;Sátiros não existem&quot; - tudo bem.	1.2
+2035	main-forum	deft-forum	2014	35	none	none	"Fadas não existem" - tudo bem.	"Sátiros não existem" - tudo bem.	1.2
 2036	main-forum	deft-forum	2014	36	none	none	Você quer saber o que eu acho curioso?	Acho isso curioso.	2.8
 2037	main-forum	deft-forum	2014	37	none	none	Quando comparei a homossexualidade com um distúrbio do desenvolvimento?	Eu comparei a homofobia com um distúrbio do desenvolvimento.	2.6
 2038	main-forum	deft-forum	2014	38	none	none	Se você perguntou, conservadores, os números serão inclinados para a direita.	Se você perguntasse, progressivas, os números seriam inclinados para a esquerda.	2.6
 2039	main-forum	deft-forum	2014	39	none	none	Você não mencionou o PFA antes desse post.	Também não mencionei a ordem de restrição.	0.8
-2040	main-forum	deft-forum	2014	40	none	none	Ramblin &#39;Rose por Nat King Cole Todos somos embarcações cheias de muitas maravilhas.	Olho do tigre Somos todos vasos cheios de muitas maravilhas.	2.4
+2040	main-forum	deft-forum	2014	40	none	none	Ramblin 'Rose por Nat King Cole Todos somos embarcações cheias de muitas maravilhas.	Olho do tigre Somos todos vasos cheios de muitas maravilhas.	2.4
 2041	main-forum	deft-forum	2014	41	none	none	do ano anterior.	warmed.C do ano anterior.	3.0
 2042	main-forum	deft-forum	2014	42	none	none	Ainda amo esse show.	Santo cocô cocô, esse show.	1.0
 2043	main-forum	deft-forum	2014	43	none	none	suas vastas propriedades são protegidas pelo governo.	sua grande riqueza é protegida pelo governo.	3.2
 2044	main-forum	deft-forum	2014	44	none	none	Diferença fundamental, por favor?	Diferença fundamental?	4.6
-2045	main-forum	deft-forum	2014	45	none	none	Como exatamente a Alemanha está sendo &#39;punida&#39; pela estupidez da WW?	Como exatamente eles estão sendo punidos?	1.4
-2046	main-forum	deft-forum	2014	46	none	none	Z o perseguiu e depois atirou nele.	Você reivindicou Zimmerman &quot;Perseguiu-o e atirou nele&quot;.	3.0
+2045	main-forum	deft-forum	2014	45	none	none	Como exatamente a Alemanha está sendo 'punida' pela estupidez da WW?	Como exatamente eles estão sendo punidos?	1.4
+2046	main-forum	deft-forum	2014	46	none	none	Z o perseguiu e depois atirou nele.	Você reivindicou Zimmerman "Perseguiu-o e atirou nele".	3.0
 2047	main-forum	deft-forum	2014	47	none	none	Não estou indignado, estou decepcionado.	Deus abençoe, não estou indignado, estou decepcionado.	5.0
 2048	main-forum	deft-forum	2014	48	none	none	Nós nunca saímos disso em primeiro lugar!	De onde vem o dinheiro em primeiro lugar?	0.8
 2049	main-forum	deft-forum	2014	49	none	none	A liberdade de expressão tem consequências!	Se a liberdade de expressão tem consequências, então não é livre.	2.1111111111111103
 2050	main-forum	deft-forum	2014	50	none	none	Meus pais me disseram que isso é ruim para você.	Meus professores me disseram que isso é ruim para você.	2.8
 2051	main-forum	deft-forum	2014	51	none	none	se você pudesse matar uma pessoa para salvar quatro, mataria?	Quanto a matar alguém para salvar, não faço ideia.	2.0
 2052	main-forum	deft-forum	2014	52	none	none	Não é moral imponente.	Está impondo uma lei.	1.1
-2053	main-forum	deft-forum	2014	53	none	none	Depende de como você define extremo.	Depende de como você define &quot;extremo&quot;.	5.0
+2053	main-forum	deft-forum	2014	53	none	none	Depende de como você define extremo.	Depende de como você define "extremo".	5.0
 2054	main-forum	deft-forum	2014	54	none	none	Pelo menos o México estava presente na Califórnia.	O México tem ZERO reivindicação na Califórnia.	1.2
 2055	main-forum	deft-forum	2014	55	none	none	Então SIM, lemos a Bíblia para aprender sobre o cristianismo.	pessoalmente, eu leria a Bíblia para aprender sobre o cristianismo.	3.0
 2056	main-forum	deft-forum	2014	56	none	none	Ah ha, ha, ha, ha, ha!	Ha, ha, ha, ha, ha, ha!	4.5
@@ -2069,43 +2069,43 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2067	main-forum	deft-forum	2014	67	none	none	Ele pode realmente ganhar dinheiro com o senso de anúncios do Google.	Quem ganha dinheiro com anúncios no Google?	3.2
 2068	main-forum	deft-forum	2014	68	none	none	Eles sabem que o vídeo não mostra uma câmara de gás.	A conclusão é que o videoclipe não mostra uma câmara de gás.	4.6
 2069	main-forum	deft-forum	2014	69	none	none	Quente, talvez recorde.	Mais quente, quase certamente um recorde.	4.4
-2070	main-forum	deft-forum	2014	70	none	none	&quot;Brilhante, mas disperso&quot; torna-se &quot;tratar com drogas&quot;.	&quot;Opinião e teimoso&quot; se torna tratamento com drogas &quot;.	2.2
-2071	main-forum	deft-forum	2014	71	none	none	Qual é a sua definição de &quot;vida&quot;?	Qual é a sua definição de natureza?	1.2
+2070	main-forum	deft-forum	2014	70	none	none	"Brilhante, mas disperso" torna-se "tratar com drogas".	"Opinião e teimoso" se torna tratamento com drogas ".	2.2
+2071	main-forum	deft-forum	2014	71	none	none	Qual é a sua definição de "vida"?	Qual é a sua definição de natureza?	1.2
 2072	main-forum	deft-forum	2014	72	none	none	Poderia ser um monte de coisas.	Pode ser um erro simples.	2.2
 2073	main-forum	deft-forum	2014	73	none	none	Sem extorsão, sem suborno, sem dinheiro envolvido Ele está pedindo dinheiro pelo seu voto.	Sem extorsão, sem suborno, sem dinheiro envolvido Somente crimes de classe E.	3.8
-2074	main-forum	deft-forum	2014	74	none	none	Versão revisada do Dr. Neander.	Versão revisada de Neandro &quot;?	4.0
+2074	main-forum	deft-forum	2014	74	none	none	Versão revisada do Dr. Neander.	Versão revisada de Neandro "?	4.0
 2075	main-forum	deft-forum	2014	75	none	none	Devo apenas dizer a ela como me sinto?	Devo apenas esperar e ver como vai?	2.2
 2076	main-forum	deft-forum	2014	76	none	none	I. REQUISITOS ATLÂNTICOS.	REQUISITOS PACÍFICOS.	0.8
 2077	main-forum	deft-forum	2014	77	none	none	você não tem restos de mísseis no pentágono.	você não tem testemunhas de um míssil no pentágono.	2.6
-2078	main-forum	deft-forum	2014	78	none	none	&quot;Jane&quot; quer que eu peça ao convidado da festa que pague por isso.	Não acredito que ela está pedindo a você que peça dinheiro ao convidado da festa!	2.2
+2078	main-forum	deft-forum	2014	78	none	none	"Jane" quer que eu peça ao convidado da festa que pague por isso.	Não acredito que ela está pedindo a você que peça dinheiro ao convidado da festa!	2.2
 2079	main-forum	deft-forum	2014	79	none	none	qualquer mulher que queira controle de natalidade pode obtê-lo.	Qualquer mulher que queira e aborto pode ter um.	1.6
 2080	main-forum	deft-forum	2014	80	none	none	É legal crescer?	Sim, é legal crescer.	2.6
-2081	main-forum	deft-forum	2014	81	none	none	pressionar um não &quot;faz&quot; inglês.	Pressionar um envia um tom.	1.8
+2081	main-forum	deft-forum	2014	81	none	none	pressionar um não "faz" inglês.	Pressionar um envia um tom.	1.8
 2082	main-forum	deft-forum	2014	82	none	none	Qual a minha opinião sobre a série?	Qual foi a minha opinião sobre Firefly nesse ínterim?	2.8
 2083	main-forum	deft-forum	2014	83	none	none	Todos somos embarcações cheias de muitas maravilhas.	Chuck Close Somos todos embarcações cheias de muitas maravilhas.	3.6
 2084	main-forum	deft-forum	2014	84	none	none	Ele tem apoiadores?	Ele definitivamente tem apoiadores.	2.0
 2085	main-forum	deft-forum	2014	85	none	none	mas tudo bem, soberania final?	Assim, soberania suprema.	2.2
 2086	main-forum	deft-forum	2014	86	none	none	isso não é resposta.	não, não é uma resposta.	4.8
 2087	main-forum	deft-forum	2014	87	none	none	Os nazistas aumentam a longevidade de uma licença de arma de mão para anos.	Os nazistas baixaram a idade mínima para comprar uma arma de fogo de para.	2.2
-2088	main-forum	deft-forum	2014	88	none	none	Mas não podemos fazer isso sem ajuda.	Não podemos fazer isso sem você. &quot;	3.6
+2088	main-forum	deft-forum	2014	88	none	none	Mas não podemos fazer isso sem ajuda.	Não podemos fazer isso sem você. "	3.6
 2089	main-forum	deft-forum	2014	89	none	none	Nenhuma pessoa saudável precisa de jogos de azar.	Nenhuma pessoa saudável precisa de sexo.	1.4
 2090	main-forum	deft-forum	2014	90	none	none	Eu disse que não era uma pessoa, no sentido legal.	Se não é uma pessoa, então WTF é?	2.0
 2091	main-forum	deft-forum	2014	91	none	none	Você vê Obama pedindo uma reforma regulatória?	Você vê Obama pedindo corte, limite e equilíbrio?	1.8
-2092	main-forum	deft-forum	2014	92	none	none	&quot;Duendes não existem&quot; - tudo bem.	&quot;Elfos não existem&quot; - tudo bem.	3.0
+2092	main-forum	deft-forum	2014	92	none	none	"Duendes não existem" - tudo bem.	"Elfos não existem" - tudo bem.	3.0
 2093	main-forum	deft-forum	2014	93	none	none	Tenho um pouco de Heine e Coors Light, eu comecei na noite passada.	Eu comecei na noite passada.	2.0
-2094	main-forum	deft-forum	2014	94	none	none	O Irã também é assinado pelo TNP e pela AIEA.	É preciso amar o fato de EK que &quot;o Irã também é assinado pelo TNP e pela AIEA.	4.2
-2095	main-forum	deft-forum	2014	95	none	none	&quot;Górgonas não existem&quot; - tudo bem.	&quot;Sátiros não existem&quot; - tudo bem.	2.0
+2094	main-forum	deft-forum	2014	94	none	none	O Irã também é assinado pelo TNP e pela AIEA.	É preciso amar o fato de EK que "o Irã também é assinado pelo TNP e pela AIEA.	4.2
+2095	main-forum	deft-forum	2014	95	none	none	"Górgonas não existem" - tudo bem.	"Sátiros não existem" - tudo bem.	2.0
 2096	main-forum	deft-forum	2014	96	none	none	A melhor maneira de ganhar dinheiro é se livrar do lobby, tudo isso.	A melhor maneira de virar a cabeça é gastar dinheiro.	3.0
-2097	main-forum	deft-forum	2014	97	none	none	Eu tenho anos de direitos &quot;Neener Neener&quot;. Geralmente, recebo cuidados razoáveis.	Eu tenho anos de direitos &quot;Neener Neener&quot;, eles são loucos.	3.4
+2097	main-forum	deft-forum	2014	97	none	none	Eu tenho anos de direitos "Neener Neener". Geralmente, recebo cuidados razoáveis.	Eu tenho anos de direitos "Neener Neener", eles são loucos.	3.4
 2098	main-forum	deft-forum	2014	98	none	none	Dutchy Alguém ouviu falar de Dutchy?	@NickFun, Alguém já ouviu falar de Dutchy?	3.6
 2099	main-forum	deft-forum	2014	99	none	none	Forma expandida de valor de commodities,.	Forma elementar de valor de capital de commodities.	3.6
 2100	main-forum	deft-forum	2014	100	none	none	Você é Cristão.	Portanto, você não é cristão.	1.4
 2101	main-forum	deft-forum	2014	101	none	none	E o simples fato hoje?	Repito: E o simples fato de hoje?	4.0
 2102	main-forum	deft-forum	2014	102	none	none	A moral não tem absolutamente nada a ver com isso!	e moral e honestidade têm tudo a ver com isso.	2.0
-2103	main-forum	deft-forum	2014	103	none	none	&quot;Oh, você é uma pessoa tão boa!	Você é uma pessoa tão ruim! &quot;	1.8
+2103	main-forum	deft-forum	2014	103	none	none	"Oh, você é uma pessoa tão boa!	Você é uma pessoa tão ruim! "	1.8
 2104	main-forum	deft-forum	2014	104	none	none	Fern Acho que histórias como essa são estúpidas.	- lobo, acho que histórias como essa são estúpidas.	3.6
 2105	main-forum	deft-forum	2014	105	none	none	A FORMAÇÃO DE CICLONE NÃO É ESPERADA DURANTE AS PRÓXIMAS HORAS.	A FORMAÇÃO TÍPICA DE CICLONES NÃO É ESPERADA.	3.4
-2106	main-forum	deft-forum	2014	106	none	none	Você não entende o que significa essa sequência de palavras?	Você não entende o que a palavra &#39;led&#39; implica?	1.2
+2106	main-forum	deft-forum	2014	106	none	none	Você não entende o que significa essa sequência de palavras?	Você não entende o que a palavra 'led' implica?	1.2
 2107	main-forum	deft-forum	2014	107	none	none	Não há liberdade religiosa.	Não há liberdade de expressão.	1.2
 2108	main-forum	deft-forum	2014	108	none	none	Postado originalmente por SolInvictus A mensagem de todas as escrituras é a unicidade.	Postado originalmente por SolInvictus Ah.	2.4
 2109	main-forum	deft-forum	2014	109	none	none	Quanto tempo após a obliteração a criança deve retornar à escola?	Quanto tempo após a obliteração não deve mais incomodar a criança?	3.0
@@ -2113,18 +2113,18 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2111	main-forum	deft-forum	2014	111	none	none	Double Jeopardy realmente impõe uma anulação do júri.	Quanto à legalidade, posso usar a anulação do júri.	2.2
 2112	main-forum	deft-forum	2014	112	none	none	Facilitador: Mostre-me a criança inteligente.	Facilitador: E por que ela é a criança burra?	1.0
 2113	main-forum	deft-forum	2014	113	none	none	ficção religiosa Isso não é redundante e repetitivo?	Isso não é redundante e repetitivo?	3.2
-2114	main-forum	deft-forum	2014	114	none	none	Postado originalmente por anabelle O que há de errado nisso?	Postado originalmente por Vienna To &#39;say&#39; what?	0.0
-2115	main-forum	deft-forum	2014	115	none	none	Cracklin &#39;Rosie de Neil Diamond Todos somos embarcações cheias de muitas maravilhas.	Jingle Bell Rock de Bobby Helm Todos nós somos embarcações cheias de muitas maravilhas.	1.6
+2114	main-forum	deft-forum	2014	114	none	none	Postado originalmente por anabelle O que há de errado nisso?	Postado originalmente por Vienna To 'say' what?	0.0
+2115	main-forum	deft-forum	2014	115	none	none	Cracklin 'Rosie de Neil Diamond Todos somos embarcações cheias de muitas maravilhas.	Jingle Bell Rock de Bobby Helm Todos nós somos embarcações cheias de muitas maravilhas.	1.6
 2116	main-forum	deft-forum	2014	116	none	none	Algumas pessoas têm total confiança nas pessoas que administram essas instituições.	Outras pessoas não têm nenhuma confiança nas pessoas que administram essas instituições.	1.6
 2117	main-forum	deft-forum	2014	117	none	none	mudanças soltas começaram como uma obra de ficção.	Terminou como uma obra de ficção.	2.2
 2118	main-forum	deft-forum	2014	118	none	none	Se não fosse uma vida, não seria capaz de nascer.	Se não estivesse vivo, abortaria sozinho.	3.0
 2119	main-forum	deft-forum	2014	119	none	none	GL, Terral Isso é absolutamente incrível.	Oi Ollie: Isso é absolutamente incrível.	2.4
 2120	main-forum	deft-forum	2014	120	none	none	vamos supor que temos% branco e% preto.	Imagine um lugar% branco e% preto.	3.77777777777778
 2121	main-forum	deft-forum	2014	121	none	none	A liberdade de expressão tem consequências!	Se a liberdade de expressão tem consequências, então não é livre.	2.1111111111111103
-2122	main-forum	deft-forum	2014	122	none	none	&quot;Fadas não existem&quot; - tudo bem.	&quot;Duendes não existem&quot; - tudo bem.	1.0
+2122	main-forum	deft-forum	2014	122	none	none	"Fadas não existem" - tudo bem.	"Duendes não existem" - tudo bem.	1.0
 2123	main-forum	deft-forum	2014	123	none	none	Se sim, declare que é por isso que eles não são verdadeiros.	Por favor, e quanto a eles, não é verdade.	3.2
-2124	main-forum	deft-forum	2014	124	none	none	-Não- falando sobre isso &#39;e&#39; -não- fazendo nada.	é ainda pior do que falar sobre isso e não fazer nada.	2.8
-2125	main-forum	deft-forum	2014	125	none	none	&quot;Estar contra armas nucleares&quot; não significa &quot;não querer usar armas nucleares&quot;.	&quot;Ser contra o uso de armas nucleares&quot; significa &quot;não querer usar armas nucleares&quot;.	1.4
+2124	main-forum	deft-forum	2014	124	none	none	-Não- falando sobre isso 'e' -não- fazendo nada.	é ainda pior do que falar sobre isso e não fazer nada.	2.8
+2125	main-forum	deft-forum	2014	125	none	none	"Estar contra armas nucleares" não significa "não querer usar armas nucleares".	"Ser contra o uso de armas nucleares" significa "não querer usar armas nucleares".	1.4
 2126	main-forum	deft-forum	2014	126	none	none	Minha sobrinha é casada com um homem negro.	Minha sobrinha está meio negra.	1.4
 2127	main-forum	deft-forum	2014	127	none	none	A população do Reino Unido é pouco mais de um milhão.	A população japonesa é de quase milhões.	1.0
 2128	main-forum	deft-forum	2014	128	none	none	Eu atirei no xerife Todos nós somos embarcações cheias de muitas maravilhas.	Todos somos embarcações cheias de muitas maravilhas.	3.4
@@ -2148,7 +2148,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2146	main-forum	deft-forum	2014	146	none	none	Leia mais: Você nunca conheceu alguém que é pró-aborto?	Você nunca conheceu alguém que é pró-aborto?	4.8
 2147	main-forum	deft-forum	2014	147	none	none	Eu não tenho nenhum problema com aqueles que têm dinheiro!	Eu tenho muitos problemas com esses homens, muito a dizer aqui!	0.2
 2148	main-forum	deft-forum	2014	148	none	none	Nixon, Ford e Carter fecharam os campos de petróleo?	Nenhum fechou os campos de petróleo.	2.0
-2149	main-forum	deft-forum	2014	149	none	none	eu não quero um presidente que &#39;se importe&#39;.	Eu não quero um presidente que seja charasmatic.	1.0
+2149	main-forum	deft-forum	2014	149	none	none	eu não quero um presidente que 'se importe'.	Eu não quero um presidente que seja charasmatic.	1.0
 2150	main-forum	deft-forum	2014	150	none	none	Não precisa ser braindead.	Eu não tenho um modelo proposto.	0.0
 2151	main-forum	deft-forum	2014	151	none	none	nenhuma evidência de míssil.	sem testemunhas de mísseis.	3.2
 2152	main-forum	deft-forum	2014	152	none	none	Meus professores me disseram que isso é ruim para você.	oficiais me disseram que isso é ruim para você.	2.2
@@ -2191,7 +2191,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2189	main-forum	deft-forum	2014	189	none	none	Você precisa se decidir.	Você precisa aprimorar suas habilidades lógicas.	0.6
 2190	main-forum	deft-forum	2014	190	none	none	Aquele que volta para casa depois e dorme.	Aquele que tem três caminhadas em casa e bate na esposa.	1.4
 2191	main-forum	deft-forum	2014	191	none	none	- Admin DrPizza e eu tinha esquecido que cama molhada e chorona você é.	e eu tinha esquecido o quão molhada e molhada de cama você é.	3.8
-2192	main-forum	deft-forum	2014	192	none	none	O argumento era &quot;Albert Einstein não foi para a faculdade&quot;.	OMG, &quot;Einstein não foi para a faculdade&quot;.	4.2
+2192	main-forum	deft-forum	2014	192	none	none	O argumento era "Albert Einstein não foi para a faculdade".	OMG, "Einstein não foi para a faculdade".	4.2
 2193	main-forum	deft-forum	2014	193	none	none	Ganhos de capital, taxa máxima: percentual.	Imposto de renda, taxa máxima: percentual.	2.4
 2194	main-forum	deft-forum	2014	194	none	none	Bienging é inaceitável.	Ficar bêbado é inaceitável.	1.0
 2195	main-forum	deft-forum	2014	195	none	none	Ele não é engraçado há anos.	Ele não é engraçado desde que Larry Bud Melman esteve no programa.	3.4
@@ -2225,26 +2225,26 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2223	main-forum	deft-forum	2014	223	none	none	Você deve colocar os cientistas em um pedestal.	Por que pessoas como você colocam o cientista em um pedestal?	3.4
 2224	main-forum	deft-forum	2014	224	none	none	O que eles estão tentando esconder?	Eu então perguntei: O que eles estão tentando esconder?	3.6
 2225	main-forum	deft-forum	2014	225	none	none	Isso o tornaria parcialmente responsável por sua morte.	Isso faria de você um tipo de acessório, eu acho.	3.0
-2226	main-forum	deft-forum	2014	226	none	none	&quot;Você gostaria de pagar por outros serviços de saúde?&quot;	&quot;Você gostaria de usar o cinto de segurança?&quot;	0.0
+2226	main-forum	deft-forum	2014	226	none	none	"Você gostaria de pagar por outros serviços de saúde?"	"Você gostaria de usar o cinto de segurança?"	0.0
 2227	main-forum	deft-forum	2014	227	none	none	Eles não são tão soberanos como eram antes.	repetir: eles não são tão soberanos como eram antes.	4.4
 2228	main-forum	deft-forum	2014	228	none	none	Não vejo Obama como o menor dos dois males.	Eu não o vejo como mal.	2.0
 2229	main-forum	deft-forum	2014	229	none	none	Ou este de Jim Croce. Todos nós somos embarcações cheias de muitas maravilhas.	Todos somos embarcações cheias de muitas maravilhas.	3.2
 2230	main-forum	deft-forum	2014	230	none	none	A questão é que uma criança desarmada foi assassinada.	A questão é que uma criança desarmada foi assassinada e que era negra.	3.4
-2231	main-forum	deft-forum	2014	231	none	none	Zimmerman respondeu: &quot;O que você está fazendo aqui?&quot;	Martin disse: &quot;Por que você está me seguindo?&quot;	0.9
+2231	main-forum	deft-forum	2014	231	none	none	Zimmerman respondeu: "O que você está fazendo aqui?"	Martin disse: "Por que você está me seguindo?"	0.9
 2232	main-forum	deft-forum	2014	232	none	none	Irreligião que faz que eu tenho um problema.	Religião que não faz isso com a qual não tenho problemas.	1.6
 2233	main-forum	deft-forum	2014	233	none	none	Se eu estiver com raiva, ele aparecerá em uma dessas verificações ..	Se eu estiver hiper ativo, ele aparecerá em uma dessas verificações.	3.2
 2234	main-forum	deft-forum	2014	234	none	none	Se você deseja comprar US $ bilhões em ações ordinárias da XYZ Inc., quem se importa?	Se você quer comprar uma casa ou um SUV, de novo, quem se importa?	1.4
-2235	main-forum	deft-forum	2014	235	none	none	bilhão . Todos no mundo, no atual nível de prosperidade do México.	Todos no mundo no atual nível de &quot;prosperidade&quot; do noroeste da África.	1.53333333333333
+2235	main-forum	deft-forum	2014	235	none	none	bilhão . Todos no mundo, no atual nível de prosperidade do México.	Todos no mundo no atual nível de "prosperidade" do noroeste da África.	1.53333333333333
 2236	main-forum	deft-forum	2014	236	none	none	Se você responder sim e não a você, provavelmente é heterossexual.	Se você responder não a sim, mas sim a, provavelmente será hetero.	3.1
 2237	main-forum	deft-forum	2014	237	none	none	Às vezes eu fantasiava em ter poder.	Às vezes, eu também fantasiava em dobrar as pessoas antes da minha vontade demente.	4.2
 2238	main-forum	deft-forum	2014	238	none	none	Meus pais me disseram que isso é ruim para você.	Meu xerife me disse que isso é ruim para você.	2.8
 2239	main-forum	deft-forum	2014	239	none	none	Atlas Shrugged Também é um artista estelar em termos de idiotice.	É também um artista estelar em termos de idiotice.	3.6
 2240	main-forum	deft-forum	2014	240	none	none	Como Martin não saberia que não era esse o caso?	Como Martin ou qualquer outra pessoa conheceria suas intenções com base em suas ações?	2.4
-2241	main-forum	deft-forum	2014	241	none	none	A regulamentação coloca o governo em tudo.	&quot;Colocar o governo em tudo?&quot;	2.4
+2241	main-forum	deft-forum	2014	241	none	none	A regulamentação coloca o governo em tudo.	"Colocar o governo em tudo?"	2.4
 2242	main-forum	deft-forum	2014	242	none	none	É uma coisa de bom senso / raciocínio dedutivo.	Hilited seu senso comum / raciocínio dedutivo.	2.5
 2243	main-forum	deft-forum	2014	243	none	none	Sim, presumi que todas as embalagens seriam recicláveis em meu argumento.	Eu assumi isso também no meu argumento.	2.8
 2244	main-forum	deft-forum	2014	244	none	none	A anulação do júri não significa que uma lei seja inconstitucional.	A anulação do júri significa que uma lei não é constitucional?	3.6
-2245	main-forum	deft-forum	2014	245	none	none	É apenas um monte de células.	Eu sou &quot;um monte de células&quot;.	2.2
+2245	main-forum	deft-forum	2014	245	none	none	É apenas um monte de células.	Eu sou "um monte de células".	2.2
 2246	main-forum	deft-forum	2014	246	none	none	O trabalho de Mann era tudo sobre matemática.	O trabalho de Mann e o HS eram todos sobre anéis de árvores.	1.6
 2247	main-forum	deft-forum	2014	247	none	none	Sinto muito ouvir essa Kelly.	Sinto muito, Kelly.	4.0
 2248	main-forum	deft-forum	2014	248	none	none	Eu não gosto de cervejas com sabor.	Eu não gosto de muitas bebidas com sabor.	3.0
@@ -2255,12 +2255,12 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2253	main-forum	deft-forum	2014	253	none	none	Significa sua opção AN.	Não significa que é uma opção ruim.	1.6
 2254	main-forum	deft-forum	2014	254	none	none	Eu acho que você precisa reler o que escrevi.	Você precisa reler o que escrevi.	5.0
 2255	main-forum	deft-forum	2014	255	none	none	vamos supor que temos% branco e% preto.	Imagine um lugar% branco e% preto.	3.77777777777778
-2256	main-forum	deft-forum	2014	256	none	none	Mamãe entrou e disse: &quot;Que barulho é esse?&quot;	Meus filhos entraram e disseram &#39;o que é isso, papai?&#39;	1.8
+2256	main-forum	deft-forum	2014	256	none	none	Mamãe entrou e disse: "Que barulho é esse?"	Meus filhos entraram e disseram 'o que é isso, papai?'	1.8
 2257	main-forum	deft-forum	2014	257	none	none	Meu melhor, Kutte Meu ex-noivo não usaria o médico da VA ou da Marinha.	Jay Meu ex-noivo não usaria o médico da VA ou da Marinha.	3.6
 2258	main-forum	deft-forum	2014	258	none	none	Holder apresentou uma carta de três páginas.	Os juízes ordenam que seja apresentada uma carta de três páginas.	2.8
 2259	main-forum	deft-forum	2014	259	none	none	@ Andrei engraçado, engraçado, concordou.	@ Andrei engraçado, obrigado, engraçado.	2.2
 2260	main-forum	deft-forum	2014	260	none	none	Isso eclipsa o antigo recorde de instalação.	Isso quebra o registro diário de set-in.	4.8
-2261	main-forum	deft-forum	2014	261	none	none	Zimmerman respondeu: &quot;O que você está fazendo aqui?&quot;	Martin disse: &quot;Por que você está me seguindo?&quot;	0.9
+2261	main-forum	deft-forum	2014	261	none	none	Zimmerman respondeu: "O que você está fazendo aqui?"	Martin disse: "Por que você está me seguindo?"	0.9
 2262	main-forum	deft-forum	2014	262	none	none	Não sei como isso é legítimo, mas ouvi dizer que ele é meio suicida.	Então, eu não sei o quão legítimo isso é, mas sim.	1.6
 2263	main-forum	deft-forum	2014	263	none	none	imposto municipal O imposto municipal não foi congelado para a maioria das pessoas?	O imposto municipal não foi congelado para a maioria das pessoas?	4.8
 2264	main-forum	deft-forum	2014	264	none	none	Seu truque está ficando obsoleto.	Sua misoginia está ficando bagunçada.	0.4
@@ -2286,23 +2286,23 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2284	main-forum	deft-forum	2014	284	none	none	repetir: eles não são tão soberanos como eram antes.	Eles não são tão soberanos como eram antes.	4.5
 2285	main-forum	deft-forum	2014	285	none	none	A moral não tem absolutamente nada a ver com isso!	e moral e honestidade têm tudo a ver com isso.	2.0
 2286	main-forum	deft-forum	2014	286	none	none	Eu estou tendo conversas vão Cornell West Meu querido irmão.	Eu estou tendo conversas Cornell West Que diabos é isso?	3.0
-2287	main-forum	deft-forum	2014	287	none	none	Não há guerra no Oriente Médio.	Não existe &quot;GUERRA&quot; no Oriente Médio.	4.6
+2287	main-forum	deft-forum	2014	287	none	none	Não há guerra no Oriente Médio.	Não existe "GUERRA" no Oriente Médio.	4.6
 2288	main-forum	deft-forum	2014	288	none	none	Ele não tinha intenção de prendê-lo.	- Eu não disse que ele planejava prendê-lo.	2.4
 2289	main-forum	deft-forum	2014	289	none	none	Todos somos embarcações cheias de muitas maravilhas.	Coloque um pouco de amor em seu coração Todos nós somos vasos cheios de muitas maravilhas.	3.6
-2290	main-forum	deft-forum	2014	290	none	none	Você é &quot;um monte de células&quot;.	Eu sou &quot;um monte de células&quot;.	2.4
+2290	main-forum	deft-forum	2014	290	none	none	Você é "um monte de células".	Eu sou "um monte de células".	2.4
 2291	main-forum	deft-forum	2014	291	none	none	O que é uma ducha feminina?	Você é uma babaca.	1.4
 2292	main-forum	deft-forum	2014	292	none	none	A anulação do júri significa que uma lei não é constitucional?	Não. A anulação do júri não significa que uma lei seja inconstitucional.	2.0
 2293	main-forum	deft-forum	2014	293	none	none	Definitivamente, NÃO é o que costumava ser.	votado como votado Definitivamente NÃO é o que costumava ser.	4.0
 2294	main-forum	deft-forum	2014	294	none	none	A responsabilidade recai sobre o fabricante de um produto para convencer os consumidores de que é seguro.	O fabricante precisa convencer o governo de que é seguro.	3.4
 2295	main-forum	deft-forum	2014	295	none	none	Eu acho que você está perdendo o ponto com os empresários.	Novamente, acho que você está esquecendo o ponto da citação de Twain.	0.8
-2296	main-forum	deft-forum	2014	296	none	none	&quot;Ciclopes não existem&quot; - tudo bem.	&quot;Goblins não existem&quot; - tudo bem.	1.6
-2297	main-forum	deft-forum	2014	297	none	none	&quot;Havia uma doença mental, agora o que eles estão te ensinando?&quot;	Ele afirmou que era uma doença mental, como é esse fanatismo?	1.6
+2296	main-forum	deft-forum	2014	296	none	none	"Ciclopes não existem" - tudo bem.	"Goblins não existem" - tudo bem.	1.6
+2297	main-forum	deft-forum	2014	297	none	none	"Havia uma doença mental, agora o que eles estão te ensinando?"	Ele afirmou que era uma doença mental, como é esse fanatismo?	1.6
 2298	main-forum	deft-forum	2014	298	none	none	Landon e então é Natal Todos nós somos embarcações cheias de muitas maravilhas.	Brincar com fogo Todos nós somos embarcações cheias de muitas maravilhas.	1.8
 2299	main-forum	deft-forum	2014	299	none	none	Bush recebe zero crédito pelo orçamento abaixo dele.	E Obama recebe zero crédito pelo orçamento abaixo dele.	1.8
 2300	main-forum	deft-forum	2014	300	none	none	. Pessoas pecaminosas não chegam ao céu.	Ou o pecado é removido ao entrar no céu.	1.8
 2301	main-forum	deft-forum	2014	301	none	none	Quanto tempo após a obliteração a criança deve retornar à escola?	Quanto tempo após a obliteração não deve mais incomodar a criança?	3.0
 2302	main-forum	deft-forum	2014	302	none	none	Holly Holy Todos somos vasos cheios de muitas maravilhas.	Diga o que quiser Todos somos vasos cheios de muitas maravilhas.	3.8
-2303	main-forum	deft-forum	2014	303	none	none	Qual foi a &quot;resposta&quot; em Chicago?	Qual será a resposta na Califórnia?	1.2
+2303	main-forum	deft-forum	2014	303	none	none	Qual foi a "resposta" em Chicago?	Qual será a resposta na Califórnia?	1.2
 2304	main-forum	deft-forum	2014	304	none	none	A coisa toda simplesmente não faz sentido.	Veja que não faz sentido.	4.2
 2305	main-forum	deft-forum	2014	305	none	none	Quem supostamente operava as câmaras de gás homicidas?	Refresque sua memória: quem supostamente operava as câmaras de gás homicidas?	4.8
 2306	main-forum	deft-forum	2014	306	none	none	Portanto, a explicação da existência do universo é Deus.	Se o universo tem uma explicação de sua existência, essa explicação é Deus.	3.6
@@ -2320,10 +2320,10 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2318	main-forum	deft-forum	2014	318	none	none	Eu acho que ele seria melhor para os interesses comerciais americanos em geral.	Ele seria melhor para a sociedade americana?	1.6
 2319	main-forum	deft-forum	2014	319	none	none	não é uma questão constitucional.	novamente, isso não é uma questão constitucional.	4.4
 2320	main-forum	deft-forum	2014	320	none	none	Vocês enganam ... comprei o encobrimento .. ganhei ..	Oi pessoal: vocês enganam ... comprei o encobrimento .. ganhei ..	4.2
-2321	main-forum	deft-forum	2014	321	none	none	&quot;O que pressionar o número um faz?&quot;	&quot;Pressionar o número um faz inglês.&quot;	1.6
+2321	main-forum	deft-forum	2014	321	none	none	"O que pressionar o número um faz?"	"Pressionar o número um faz inglês."	1.6
 2322	main-forum	deft-forum	2014	322	none	none	Que convicção seria essa?	Que convicção onde você estava falando antes?	4.4
 2323	main-forum	deft-forum	2014	323	none	none	Postado originalmente por spikdboy Não é uma ilusão, é realista.	Postado originalmente por objectivism Não é uma ilusão, é realista.	3.8
-2324	main-forum	deft-forum	2014	324	none	none	Pela trilionésima vez, eu nunca disse que a reabilitação não funciona.	O ponto que você cita deve dizer &quot;Eu nunca disse que a reabilitação nunca poderia funcionar&quot;.	3.4
+2324	main-forum	deft-forum	2014	324	none	none	Pela trilionésima vez, eu nunca disse que a reabilitação não funciona.	O ponto que você cita deve dizer "Eu nunca disse que a reabilitação nunca poderia funcionar".	3.4
 2325	main-forum	deft-forum	2014	325	none	none	Charlie Rangel Censured Alguém viu as imagens disso?	Alguém viu a filmagem disso?	3.0
 2326	main-forum	deft-forum	2014	326	none	none	Outubro vermelho aguardando.	Raposa vermelha esperando.	2.0
 2327	main-forum	deft-forum	2014	327	none	none	Não é assim que os resumos legais são escritos.	Não é assim que funciona o raciocínio jurídico.	3.2
@@ -2347,9 +2347,9 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2345	main-forum	deft-forum	2014	345	none	none	A pergunta precisa ser feita.	É uma pergunta que precisa ser respondida.	3.2
 2346	main-forum	deft-forum	2014	346	none	none	Você pretende valorizar muito a vida.	Eu pretendo valorizar muito a vida humana.	2.8
 2347	main-forum	deft-forum	2014	347	none	none	Os postos de infestação.	Os mosquitos postam.	1.8
-2348	main-forum	deft-forum	2014	348	none	none	eu não quero um presidente que &#39;se importe&#39;.	não quero um presidente que seja compassivo.	4.6
+2348	main-forum	deft-forum	2014	348	none	none	eu não quero um presidente que 'se importe'.	não quero um presidente que seja compassivo.	4.6
 2349	main-forum	deft-forum	2014	349	none	none	você tem algo para torná-lo menos atraente ou não?	Você tem algo para torná-lo mais atraente?	2.4
-2350	main-forum	deft-forum	2014	350	none	none	Pela trilionésima vez, eu nunca disse que a reabilitação não funciona.	O ponto que você cita deve dizer &quot;Eu nunca disse que a reabilitação nunca poderia funcionar&quot;.	3.4
+2350	main-forum	deft-forum	2014	350	none	none	Pela trilionésima vez, eu nunca disse que a reabilitação não funciona.	O ponto que você cita deve dizer "Eu nunca disse que a reabilitação nunca poderia funcionar".	3.4
 2351	main-forum	deft-forum	2014	351	none	none	Gás clássico Todos nós somos embarcações cheias de muitas maravilhas.	Época da temporada pelos zumbis Todos somos embarcações cheias de muitas maravilhas.	2.4
 2352	main-forum	deft-forum	2014	352	none	none	Então, concordamos que ele caiu essencialmente em queda livre?	Concordamos que eles caíram essencialmente em queda livre?	4.0
 2353	main-forum	deft-forum	2014	353	none	none	As pessoas a favor da vida não querem que uma mulher possa escolher o aborto por si mesma.	As pessoas a favor da escolha não tentam forçar o aborto a ninguém.	1.0
@@ -2362,19 +2362,19 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2360	main-forum	deft-forum	2014	360	none	none	É possível que sua casa tenha sido afetada e a escola não?	Claro, é possível que sua casa tenha sido afetada, mas não a escola.	3.2
 2361	main-forum	deft-forum	2014	361	none	none	O povo havia despertado.	Porque o povo havia despertado.	4.2
 2362	main-forum	deft-forum	2014	362	none	none	Umm, a Califórnia era um navio de carga. Não me importo com o que o artigo diz.	A Califórnia era um navio de carga.	4.0
-2363	main-forum	deft-forum	2014	363	none	none	Umm, que afirma claramente, &quot;o estatuto é considerado constitucional&quot;.	E até que eles decidam isso, &quot;o estatuto é considerado constitucional&quot;.	2.6
+2363	main-forum	deft-forum	2014	363	none	none	Umm, que afirma claramente, "o estatuto é considerado constitucional".	E até que eles decidam isso, "o estatuto é considerado constitucional".	2.6
 2364	main-forum	deft-forum	2014	364	none	none	Florida A ignorância é sua!	A ignorância é sua!	3.4
 2365	main-forum	deft-forum	2014	365	none	none	Vou gritar por justiça por Trayvon.	As pessoas que clamam por justiça por Trayvon são todas hipócritas.	1.6
 2366	main-forum	deft-forum	2014	366	none	none	Como você sabe o que é certo e errado?	Como você sabe qual é a história certa?	2.2
 2367	main-forum	deft-forum	2014	367	none	none	Ha, ha, ha, ha, ha, ha!	Ah ha, ha, ha, ha, ha!	5.0
 2368	main-forum	deft-forum	2014	368	none	none	E Nugent foi um completo tolo em dizer o que disse.	Natalie era uma completa idiota por ter insultado sua base de fãs.	0.6
 2369	main-forum	deft-forum	2014	369	none	none	É tudo culpa de Bush.	Obama é culpa de Bush.	1.2
-2370	main-forum	deft-forum	2014	370	none	none	Você deve parar de prefixar ou sufocar tudo com você odeia judeus.	Não prefixo nem sufixo tudo com &quot;você odeia judeus&quot;.	2.4
+2370	main-forum	deft-forum	2014	370	none	none	Você deve parar de prefixar ou sufocar tudo com você odeia judeus.	Não prefixo nem sufixo tudo com "você odeia judeus".	2.4
 2371	main-forum	deft-forum	2014	371	none	none	Perdi o ponto em que ele disse que os negros iriam se revoltar.	Eu nunca disse que os negros se revoltariam.	2.4
 2372	main-forum	deft-forum	2014	372	none	none	No entanto, você não precisou declarar.	E você não precisava.	2.0
 2373	main-forum	deft-forum	2014	373	none	none	Provérbios João Batista era nazireu desde o nascimento.	João Batista era nazireu desde o nascimento.	4.6
 2374	main-forum	deft-forum	2014	374	none	none	Tiago: diz que a fé sem obras está morta.	Paulo não pregou fé sem obras.	2.2
-2375	main-forum	deft-forum	2014	375	none	none	bilhão . Todos no mundo, no atual nível de prosperidade do México.	Todos no mundo no atual nível de &quot;prosperidade&quot; do noroeste da África.	1.53333333333333
+2375	main-forum	deft-forum	2014	375	none	none	bilhão . Todos no mundo, no atual nível de prosperidade do México.	Todos no mundo no atual nível de "prosperidade" do noroeste da África.	1.53333333333333
 2376	main-forum	deft-forum	2014	376	none	none	e vídeos Os dados sísmicos não são iguais à duração do colapso.	Os dados sísmicos não são iguais à duração do colapso.	4.6
 2377	main-forum	deft-forum	2014	377	none	none	Postado originalmente por Lone Fox Você disse isso várias vezes agora.	Postado originalmente por Lone Fox E também não é tudo iraniano.	2.2
 2378	main-forum	deft-forum	2014	378	none	none	Você pode não gostar das vistas de Obamas, mas ele as possui.	Você pode não gostar das posições que ele ocupa, mas pelo menos ele as possui.	2.6
@@ -2389,9 +2389,9 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2387	main-forum	deft-forum	2014	387	none	none	Eu vi OVNIs sobre Varsóvia no passado.	Respeitosamente, Steve, eu vi UFO sobre Varsóvia no passado.	4.0
 2388	main-forum	deft-forum	2014	388	none	none	dependendo de qual ação promove sua agenda de músicas malucas do momento.	dependendo de qual ação promove sua agenda de músicas solitárias.	4.6
 2389	main-forum	deft-forum	2014	389	none	none	Você concorda ainda que eu não fiz nenhuma reclamação?	Para que você admita e verifique que não fiz nenhuma reivindicação.	3.8
-2390	main-forum	deft-forum	2014	390	none	none	Zimmerman diz que ele foi socado por seu carro.	Seus &quot;amigos&quot; dizem que ele foi confrontado por seu carro.	2.4
-2391	main-forum	deft-forum	2014	391	none	none	Não existe &quot;GUERRA&quot; no Oriente Médio.	Não há guerra no Oriente Médio.	4.6
-2392	main-forum	deft-forum	2014	392	none	none	Parte da vida pró-vida é a oposição ao aborto legalizado.	Pró-vida também se refere apenas à &quot;oposição ao aborto&quot;.	3.8
+2390	main-forum	deft-forum	2014	390	none	none	Zimmerman diz que ele foi socado por seu carro.	Seus "amigos" dizem que ele foi confrontado por seu carro.	2.4
+2391	main-forum	deft-forum	2014	391	none	none	Não existe "GUERRA" no Oriente Médio.	Não há guerra no Oriente Médio.	4.6
+2392	main-forum	deft-forum	2014	392	none	none	Parte da vida pró-vida é a oposição ao aborto legalizado.	Pró-vida também se refere apenas à "oposição ao aborto".	3.8
 2393	main-forum	deft-forum	2014	393	none	none	Ganhos de capital, taxa máxima: percentual.	- Renda, taxa máxima: por cento.	2.8
 2394	main-forum	deft-forum	2014	394	none	none	Época da temporada pelos zumbis Todos somos embarcações cheias de muitas maravilhas.	A música tema para Cheers: Somos todos os navios cheios de muitas maravilhas.	2.8
 2395	main-forum	deft-forum	2014	395	none	none	Não, eu mostro que você é voluntariamente ignorante.	LOL, você é tão ignorante.	4.0
@@ -2401,13 +2401,13 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2399	main-forum	deft-forum	2014	399	none	none	Os muçulmanos diriam a mesma coisa sobre o Alcorão.	Os hindus diriam o mesmo sobre o Bhagavad Ghita.	1.0
 2400	main-forum	deft-forum	2014	400	none	none	Sua confusão não me faz mentirosa.	Então sua confusão também não me faz mentirosa.	3.8
 2401	main-forum	deft-forum	2014	401	none	none	Quando os cristãos são extremos, é simplesmente religião.	Quando os muçulmanos são extremos, é terrorismo.	1.6
-2402	main-forum	deft-forum	2014	402	none	none	Alguns acreditam que o &quot;certo&quot; é mais importante.	Alguns acreditam que o abate de nascituros é mais importante.	1.2
+2402	main-forum	deft-forum	2014	402	none	none	Alguns acreditam que o "certo" é mais importante.	Alguns acreditam que o abate de nascituros é mais importante.	1.2
 2403	main-forum	deft-forum	2014	403	none	none	A evolução não é uma opinião, não é uma crença.	A teoria atômica não é uma opinião, não é uma crença.	1.6
 2404	main-forum	deft-forum	2014	404	none	none	Não sou eu quem reivindica o direito de decidir sobre o corpo de outra mulher.	Você quer que outros decidam sobre o corpo de uma mulher.	2.8
 2405	main-forum	deft-forum	2014	405	none	none	Onde no mundo está Ron Paul?	Onde no mundo está a MÍDIA ??	0.8
 2406	main-forum	deft-forum	2014	406	none	none	você não tem restos de mísseis no pentágono.	você não tem restos de um A- no pentágono.	2.4
-2407	main-forum	deft-forum	2014	407	none	none	O ponto que você cita deve dizer &quot;Eu nunca disse que a reabilitação nunca poderia funcionar&quot;.	Pela trilionésima vez, eu nunca disse que a reabilitação não funciona.	3.4
-2408	main-forum	deft-forum	2014	408	none	none	bilhão . Todos no mundo, no atual nível de prosperidade do México.	Todos no mundo no atual nível de &quot;prosperidade&quot; do noroeste da África.	1.53333333333333
+2407	main-forum	deft-forum	2014	407	none	none	O ponto que você cita deve dizer "Eu nunca disse que a reabilitação nunca poderia funcionar".	Pela trilionésima vez, eu nunca disse que a reabilitação não funciona.	3.4
+2408	main-forum	deft-forum	2014	408	none	none	bilhão . Todos no mundo, no atual nível de prosperidade do México.	Todos no mundo no atual nível de "prosperidade" do noroeste da África.	1.53333333333333
 2409	main-forum	deft-forum	2014	409	none	none	meu cabelo é bonito: / Ditto.	meu cabelo é muito bonito: / woops!	3.8
 2410	main-forum	deft-forum	2014	410	none	none	Não impediria os casamentos de piadas.	E eu não luto pelo casamento.	1.2
 2411	main-forum	deft-forum	2014	411	none	none	Você parece pensar que as pessoas pobres não são responsáveis por suas ações.	As pessoas são responsáveis por suas ações.	1.6
@@ -2422,7 +2422,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2420	main-forum	deft-forum	2014	420	none	none	Exceto que não era.	Exceto que eles não podiam.	1.0
 2421	main-forum	deft-forum	2014	421	none	none	Se lhe devo dólares, tenho um problema.	Se lhe devo um trilhão de dólares, você tem um problema.	2.2
 2422	main-forum	deft-forum	2014	422	none	none	Se não houver evidências para apoiar uma posição; então deve ser rejeitado.	Se uma posição não for verificável; então deve ser rejeitado.	4.8
-2423	main-forum	deft-forum	2014	423	none	none	Todos os outros no atual nível de prosperidade do México.	Todos no mundo no atual nível de &quot;prosperidade&quot; do noroeste da África.	1.4
+2423	main-forum	deft-forum	2014	423	none	none	Todos os outros no atual nível de prosperidade do México.	Todos no mundo no atual nível de "prosperidade" do noroeste da África.	1.4
 2424	main-forum	deft-forum	2014	424	none	none	Bush recebe zero crédito pelo orçamento abaixo dele.	E Obama recebe zero crédito pelo orçamento abaixo dele.	1.8
 2425	main-forum	deft-forum	2014	425	none	none	LOL Você não precisa fazer um teste para dirigir um veículo nos EUA?	Existe um teste para possuir uma arma de fogo nos EUA?	0.8
 2426	main-forum	deft-forum	2014	426	none	none	Nós dois pensamos que o filme era bom e não achamos nada confuso.	Eu pensei que era bom e não achei confuso.	3.2
@@ -2444,13 +2444,13 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2442	main-forum	deft-forum	2014	442	none	none	E uma grande parte da costa leste.	E partes da costa oeste.	0.8
 2443	main-forum	deft-forum	2014	443	none	none	Por que você está falando de mulheres nas tribos hebraicas?	Estávamos falando de mulheres como recompensa de guerra, não é?	1.4
 2444	main-forum	deft-forum	2014	444	none	none	Ontem à noite, as forças japonesas atacaram Hong Kong.	Ontem à noite, as forças japonesas atacaram as Ilhas Filipinas.	2.6
-2445	main-forum	deft-forum	2014	445	none	none	. Qual é a sua definição de &quot;força vital&quot;?	Qual é a sua definição de &quot;alma&quot;?	3.6
+2445	main-forum	deft-forum	2014	445	none	none	. Qual é a sua definição de "força vital"?	Qual é a sua definição de "alma"?	3.6
 2446	main-forum	deft-forum	2014	446	none	none	Isso não é responsabilidade direta com os constituintes.	Sim, mas eles são responsáveis pelos seus constituintes.	2.6
 2447	main-forum	deft-forum	2014	447	none	none	A ideologia foi construída em torno de uma expansão violenta, então sim - expansão violenta.	A ideologia foi construída em torno da expansão violenta e da superioridade racial.	4.0
 2448	main-forum	deft-forum	2014	448	none	none	Isso poderia ter sido um enema?	@ossobuco, isso poderia ter sido um enema?	4.6
 2449	main-forum	deft-forum	2014	449	none	none	minha palavra final: ignorar tem o efeito de normalizar.	tirar vantagem tem o efeito de reforçar.	0.4
 2450	main-news	MSRpar	2012test	0	none	none	O problema provavelmente significará mudanças corretivas antes que a frota de ônibus espaciais comece a voar novamente.	Ele disse que o problema precisa ser corrigido antes que a frota de ônibus espaciais seja liberada para voar novamente.	4.4
-2451	main-news	MSRpar	2012test	3	none	none	O presidente da SEC, William Donaldson, disse que há uma &quot;confiança crescente de que o policial está no ritmo&quot;.	&quot;Eu acho que há uma confiança crescente de que o policial está no ritmo.&quot;	3.4
+2451	main-news	MSRpar	2012test	3	none	none	O presidente da SEC, William Donaldson, disse que há uma "confiança crescente de que o policial está no ritmo".	"Eu acho que há uma confiança crescente de que o policial está no ritmo."	3.4
 2452	main-news	MSRpar	2012test	5	none	none	A líder pró-democracia de Mianmar, Aung San Suu Kyi, voltará para casa no final da sexta-feira, mas permanecerá detida após se recuperar de uma cirurgia em um hospital de Yangon, disse seu médico.	A líder pró-democracia de Mianmar, Aung San Suu Kyi, será mantida em prisão domiciliar após sua libertação de um hospital onde foi submetida a cirurgia, disse seu médico pessoal na sexta-feira.	4.6
 2453	main-news	MSRpar	2012test	6	none	none	Darren Dopp, porta-voz do Spitzer, não quis comentar na quinta-feira.	John Heine, porta-voz da comissão em Washington, se recusou a comentar as críticas de Spitzer.	1.4
 2454	main-news	MSRpar	2012test	8	none	none	Nas negociações da tarde na Europa, o francês CAC-40 avançou e o britânico FTSE 100 ganhou 0,7%, enquanto o índice DAX da Alemanha subiu 0,6%.	Na Europa, o CAC-40 da França subiu 1,3%, o FTSE 100 da Grã-Bretanha caiu 0,2% e o índice DAX da Alemanha subiu 0,6%.	2.0
@@ -2458,11 +2458,11 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2456	main-news	MSRpar	2012test	11	none	none	Page disse que também é possível que os genes no cromossomo Y possam influenciar diferenças específicas de gênero na suscetibilidade à doença.	Ele acrescentou que os genes no Y podem desempenhar um papel na influência de diferenças específicas de gênero na suscetibilidade a doenças.	4.4
 2457	main-news	MSRpar	2012test	12	none	none	Uma das facetas mais bem estudadas do temperamento é como as pessoas reagem à novidade.	Uma das características definidoras e bem estudadas do temperamento é como as pessoas reagem à novidade.	4.8
 2458	main-news	MSRpar	2012test	13	none	none	Mas as borboletas expostas a um ciclo de luz anterior, das 13h às 13h, se orientavam em direção ao sudeste.	Mas as borboletas alojadas em um ciclo de luz anterior, das 13h às 13h, voaram em direção ao sudeste.	4.6
-2459	main-news	MSRpar	2012test	17	none	none	Dunlap venceu a competição de maiô e a parte de talentos da competição, cantando &quot;If I Could&quot;.	Ela ganhou a parte de talentos cantando &quot;If I Could&quot; e também ganhou em roupas de noite.	2.8
+2459	main-news	MSRpar	2012test	17	none	none	Dunlap venceu a competição de maiô e a parte de talentos da competição, cantando "If I Could".	Ela ganhou a parte de talentos cantando "If I Could" e também ganhou em roupas de noite.	2.8
 2460	main-news	MSRpar	2012test	20	none	none	O sul da Ásia segue, com 1,1 milhão de jovens infectados - 62% deles do sexo feminino.	Dos 1,1 milhões de infectados no sul da Ásia, 62% são do sexo feminino.	4.0
 2461	main-news	MSRpar	2012test	21	none	none	Uma hora depois, um helicóptero israelense disparou mísseis contra um carro na cidade de Gaza, matando dois oficiais do Hamas e pelo menos outras cinco pessoas.	Uma hora depois, helicópteros de ataque israelenses choveram mísseis em um carro na cidade de Gaza, matando sete pessoas, disseram fontes palestinas.	4.25
 2462	main-news	MSRpar	2012test	23	none	none	O porta-voz da AAA, Jerry Cheske, disse que os preços podem ter afetado alguns planos, mas acordos de hotéis baratos mitigaram o efeito.	O porta-voz da AAA, Jerry Cheske, disse que os preços podem ter afetado alguns planos, mas acordos de hotéis baratos compensaram isso.	5.0
-2463	main-news	MSRpar	2012test	26	none	none	Ela respondeu por US $ 125 milhões, dizendo que Gruner &amp; Jahr quebrou seu contrato com ela, cortando-a das principais decisões editoriais.	Ela respondeu por US $ 125 milhões, dizendo que a G + J quebrou seu contrato com ela, cortando-a das principais decisões editoriais e manipulando os números financeiros da revista.	3.5
+2463	main-news	MSRpar	2012test	26	none	none	Ela respondeu por US $ 125 milhões, dizendo que Gruner & Jahr quebrou seu contrato com ela, cortando-a das principais decisões editoriais.	Ela respondeu por US $ 125 milhões, dizendo que a G + J quebrou seu contrato com ela, cortando-a das principais decisões editoriais e manipulando os números financeiros da revista.	3.5
 2464	main-news	MSRpar	2012test	27	none	none	A Standard Edition custa US $ 15.000 por processador ou US $ 300 por usuário nomeado.	O Standard Edition One é uma versão de processador único do Oracle Standard Edition Database.	2.5
 2465	main-news	MSRpar	2012test	29	none	none	A Microsoft adquiriu o Virtual PC quando comprou os ativos da Connectix no início deste ano.	A Microsoft adquiriu o Virtual PC de seu desenvolvedor, Connectix, no início deste ano.	4.4
 2466	main-news	MSRpar	2012test	32	none	none	O corpo de Leon Williams foi encontrado dentro de seu apartamento no terceiro andar, na 196 Bay St., em Tompkinsville.	O morto, Leon Williams, foi encontrado em seu apartamento no terceiro andar.	3.4
@@ -2470,22 +2470,22 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2468	main-news	MSRpar	2012test	35	none	none	Ursel Reisen confirmou que operava o ônibus, mas não deu detalhes além de dizer que os passageiros eram de idades mistas.	Ursel Reisen confirmou que estava operando o ônibus, mas se recusou a fornecer detalhes sobre os passageiros além de dizer que eles eram de idades mistas.	4.8
 2469	main-news	MSRpar	2012test	36	none	none	Um total de 17 casos foi confirmado na cidade de Basra, no sul, informou a Organização.	Um total de 17 casos confirmados de cólera foram relatados ontem pela Organização Mundial da Saúde na cidade de Basra, no sul do Iraque.	3.6
 2470	main-news	MSRpar	2012test	37	none	none	Ele também deveria visitar o Iêmen e o Bahrein durante sua turnê pela região.	Khatami, que chegou a Beirute na segunda-feira, também deveria visitar a Síria, o Iêmen e o Bahrein.	3.4
-2471	main-news	MSRpar	2012test	38	none	none	O general Myers disse a repórteres que &quot;à primeira vista, não parece que nenhuma regra foi violada&quot;.	&quot;À primeira vista, parece que nenhuma regra foi violada&quot;, disse o general Richard Myers, presidente do Estado-Maior Conjunto.	3.6
+2471	main-news	MSRpar	2012test	38	none	none	O general Myers disse a repórteres que "à primeira vista, não parece que nenhuma regra foi violada".	"À primeira vista, parece que nenhuma regra foi violada", disse o general Richard Myers, presidente do Estado-Maior Conjunto.	3.6
 2472	main-news	MSRpar	2012test	39	none	none	Provando que o sacrifício do filho Millville não seria anulado, o prefeito James Quinn ordenou que todas as bandeiras da cidade voassem a meia haste pelos próximos 30 dias.	Ontem, em Millville, o prefeito James Quinn ordenou que todas as bandeiras da cidade fossem levadas com meia equipe pelos próximos 30 dias.	3.4
 2473	main-news	MSRpar	2012test	41	none	none	Tom Kraynak, gerente de operações e recursos do Conselho de Confiabilidade da Área Centro-Leste de Ohio, com sede em Canton, disse que o cenário é um entre muitos que os investigadores estão considerando.	Tom Kraynak, gerente de operações e recursos do Conselho de Confiabilidade da Área Centro-Leste, com sede em Canton, Ohio, disse que os investigadores estão considerando o cenário.	4.25
 2474	main-news	MSRpar	2012test	42	none	none	Eles descobriram moléculas que só podem ser produzidas quando o ozônio quebra o colesterol.	E todas as amostras continham moléculas que só podem ser produzidas quando o colesterol interage com o ozônio.	4.25
 2475	main-news	MSRpar	2012test	44	none	none	Ele pode armazenar mais de um gigabyte de informação equivalente a cerca de 12 horas de música em um centímetro cúbico.	E pode armazenar mais de um gigabyte de informação - equivalente a 1.000 imagens de alta qualidade ou cerca de 12 horas de música - em apenas um centímetro cúbico.	3.846
 2476	main-news	MSRpar	2012test	45	none	none	No início deste mês, a RIM disse que esperava reportar ganhos no segundo trimestre entre 7 centavos e 11 centavos por ação.	Excluindo honorários advocatícios e outros encargos, esperava uma perda entre 1 e 4 centavos por ação.	1.2
-2477	main-news	MSRpar	2012test	49	none	none	&quot;Para mim, o imbróglio de Lewinsky parecia apenas mais um escândalo vicioso fabricado por opositores políticos&quot;, segundo extratos divulgados ontem.	&quot;Para mim, o imbróglio de Lewinsky parecia apenas mais um escândalo vicioso fabricado por opositores políticos&quot;, escreve Clinton.	3.2
+2477	main-news	MSRpar	2012test	49	none	none	"Para mim, o imbróglio de Lewinsky parecia apenas mais um escândalo vicioso fabricado por opositores políticos", segundo extratos divulgados ontem.	"Para mim, o imbróglio de Lewinsky parecia apenas mais um escândalo vicioso fabricado por opositores políticos", escreve Clinton.	3.2
 2478	main-news	MSRpar	2012test	50	none	none	Em 2001 e 2002, as transferências bancárias de quatro das 40 contas da empresa totalizaram mais de US $ 3,2 bilhões, disseram os promotores.	As transferências bancárias de quatro das 40 contas abertas em Beacon Hill totalizaram mais de US $ 3,2 bilhões de 2001 a 2002, disse Morgenthau.	3.8
 2479	main-news	MSRpar	2012test	51	none	none	A Universidade Stony Brook lançou o estudo em 1996, depois que estudos anteriores indicaram uma possível conexão entre campos eletromagnéticos e câncer.	A Universidade Estadual de Stony Brook lançou o estudo em 1996, depois que estudos anteriores indicaram uma possível conexão.	3.2
-2480	main-news	MSRpar	2012test	52	none	none	Antes, eles haviam desafiado uma ordem da polícia e gritado &quot;Allahu Akbar&quot; (Deus é o Maior) enquanto Bashir caminhava para o seu lugar no tribunal bem guardado.	Antes, os apoiadores de Bashir haviam desafiado uma ordem da polícia e gritaram &quot;Allahu Akbar (Deus é o Maior)&quot; enquanto caminhava para o seu lugar.	4.0
+2480	main-news	MSRpar	2012test	52	none	none	Antes, eles haviam desafiado uma ordem da polícia e gritado "Allahu Akbar" (Deus é o Maior) enquanto Bashir caminhava para o seu lugar no tribunal bem guardado.	Antes, os apoiadores de Bashir haviam desafiado uma ordem da polícia e gritaram "Allahu Akbar (Deus é o Maior)" enquanto caminhava para o seu lugar.	4.0
 2481	main-news	MSRpar	2012test	53	none	none	O porta-voz da Metropolitan Ambulance, James Howe, disse que cinco pessoas foram levadas ao hospital e três foram tratadas no local após o incidente de ontem.	O porta-voz James Howe disse que cinco crianças com idades entre 4 e 17 anos foram levadas ao hospital com ferimentos no pescoço e no peito, enquanto outras três foram tratadas no local.	3.333
 2482	main-news	MSRpar	2012test	55	none	none	Mas é claro que o Comitê Conjunto de Inteligência não estava envolvido.	Este relatório foi aprovado pelo Comitê Conjunto de Inteligência.	2.0
 2483	main-news	MSRpar	2012test	56	none	none	Cerca de 22% dos jovens de vinte e poucos anos são obesos, o que equivale a aproximadamente 30 libras sobre um peso saudável.	Cerca de 31 por cento dos americanos agora são obesos - cerca de 30 ou mais quilos acima de um peso saudável.	2.6
 2484	main-news	MSRpar	2012test	57	none	none	Coupling, uma versão americana de uma comédia britânica de sucesso, receberá o valioso horário de quinta-feira às 21h30.	Coupling, uma versão americana de uma comédia britânica de sucesso, vai se juntar aos amigos às quintas-feiras.	3.0
 2485	main-news	MSRpar	2012test	59	none	none	Seu corpo foi encontrado várias semanas depois no rio Green.	15 de agosto de 1982: Restos de Chapman, Hinds e Mills são encontrados no rio Green.	2.6
-2486	main-news	MSRpar	2012test	61	none	none	&quot;Os combates continuaram até meia-noite&quot;, disse o comandante rebelde ocidental Ousmane Coulibaly à Reuters por telefone via satélite no domingo.	&quot;Eles saquearam e queimaram completamente as duas aldeias&quot;, disse o comandante rebelde Ousmane Coulibaly à Reuters por telefone via satélite.	2.8
+2486	main-news	MSRpar	2012test	61	none	none	"Os combates continuaram até meia-noite", disse o comandante rebelde ocidental Ousmane Coulibaly à Reuters por telefone via satélite no domingo.	"Eles saquearam e queimaram completamente as duas aldeias", disse o comandante rebelde Ousmane Coulibaly à Reuters por telefone via satélite.	2.8
 2487	main-news	MSRpar	2012test	62	none	none	A leitura de agosto e julho é a melhor vista desde o início da pesquisa, em agosto de 1997.	É a leitura mais alta desde que o índice foi criado em agosto de 1997.	3.0
 2488	main-news	MSRpar	2012test	64	none	none	As tropas das Forças Especiais dos EUA estão treinando soldados colombianos em bases militares na região para proteger o oleoduto, que transporta petróleo do segundo maior campo de petróleo da Colômbia.	As tropas das forças especiais dos EUA estão treinando soldados colombianos em bases militares na região para proteger o oleoduto.	3.2
 2489	main-news	MSRpar	2012test	67	none	none	Precisamos de um pagamento certificável conforme o orçamento for aprovado em meados de julho ou as escolas não abrirão em setembro, disse Strayhorn.	Os legisladores do Texas devem fechar um déficit orçamentário de US $ 185,9 milhões até meados de julho ou as escolas não serão abertas em setembro, disse a Controladoria Carole Keeton Strayhorn.	2.6
@@ -2496,7 +2496,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2494	main-news	MSRpar	2012test	75	none	none	As ações da Aspen Technology caíram 74 centavos, ou 23%, para fechar em US $ 2,48 na Nasdaq.	Nas negociações da tarde, as ações da Aspen caíram 89 centavos ou mais de 27%, a US $ 2,33 por ação.	2.2
 2495	main-news	MSRpar	2012test	76	none	none	A nova lei exige que as bibliotecas e escolas usem filtros ou percam o financiamento federal.	A decisão de 6-3 restabelece uma lei que dizia às bibliotecas para instalar filtros ou render dinheiro federal.	2.8
 2496	main-news	MSRpar	2012test	77	none	none	Além disso, ofereceu aos Estados Unidos e Israel uma maneira de contornar o Sr. Arafat.	Quando a posição do primeiro-ministro foi estabelecida na primavera, ofereceu aos Estados Unidos e Israel uma maneira de contornar Arafat.	3.6
-2497	main-news	MSRpar	2012test	78	none	none	E sim, Marilyn Monroe é definitivamente parte da história, intitulada &quot;Arthur Miller, Elia Kazan e a lista negra: nenhum sem pecado&quot;.	Observe o subtítulo desta terrível parábola na série &quot;American Masters&quot;, &quot;Arthur Miller, Elia Kazan e a Blacklist: None Without Sin&quot;.	2.6
+2497	main-news	MSRpar	2012test	78	none	none	E sim, Marilyn Monroe é definitivamente parte da história, intitulada "Arthur Miller, Elia Kazan e a lista negra: nenhum sem pecado".	Observe o subtítulo desta terrível parábola na série "American Masters", "Arthur Miller, Elia Kazan e a Blacklist: None Without Sin".	2.6
 2498	main-news	MSRpar	2012test	79	none	none	A polícia de Gilroy e os agentes do FBI descreveram Gehring como cooperativo, mas disseram no sábado que ele não havia revelado nada sobre o que havia acontecido com as crianças.	No sábado, autoridades da Califórnia descreveram Gehring como cooperativo - mas disseram que ele não revelou nada sobre o que aconteceu com as crianças.	3.8
 2499	main-news	MSRpar	2012test	80	none	none	O corpo de Scribner foi encontrado flutuando na cidade de Portage Bay, onde ele morava com a esposa em uma casa flutuante.	Um caiaque encontrou o corpo do Dr. Scribner flutuando perto do barco do médico em Portage Bay, onde estava almoçando quando sua esposa, Ethel, saiu para uma consulta.	3.2
 2500	main-news	MSRpar	2012test	81	none	none	Depois que os manifestantes subiram ao palco e cortaram duas vezes o microfone, Hedges encerrou o discurso.	Depois que os manifestantes subiram ao palco e cortaram duas vezes o microfone, Hedges interrompeu seu discurso.	5.0
@@ -2509,34 +2509,34 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2507	main-news	MSRpar	2012test	97	none	none	Daniels disse que não sabe o que Bush terá a dizer sobre ele na arrecadação presidencial de US $ 2.000 por pessoa à noite.	Daniels disse que não sabe o que Bush dirá na recepção de US $ 2.000 por pessoa para arrecadar fundos para sua reeleição presidencial.	4.4
 2508	main-news	MSRpar	2012test	98	none	none	Um painel de três juízes do 11º Tribunal de Apelações do Circuito dos EUA decidiu na sexta-feira que o tamanho pequeno, o uso limitado e a finalidade secular tornam a imagem legítima.	Um painel de três juízes do 8º Tribunal de Apelações do Circuito dos EUA em St. Louis anulou uma decisão emitida no ano passado que apoiava a ordenança.	2.8
 2509	main-news	MSRpar	2012test	102	none	none	Apenas 29 famílias de sapos são conhecidas e a maioria foi identificada e descrita em meados do século XIX e a última em 1926.	Apenas 29 famílias de sapos são conhecidas, a maioria delas nomeadas em meados do século XIX.	3.8
-2510	main-news	MSRpar	2012test	103	none	none	Funcionários da Brandeis disseram que este era um momento &quot;extremamente emocionante&quot; para o campus.	&quot;Este é um momento extremamente emocionante para toda a comunidade da Universidade Brandeis.	4.4
+2510	main-news	MSRpar	2012test	103	none	none	Funcionários da Brandeis disseram que este era um momento "extremamente emocionante" para o campus.	"Este é um momento extremamente emocionante para toda a comunidade da Universidade Brandeis.	4.4
 2511	main-news	MSRpar	2012test	106	none	none	O valor totalizará cerca de US $ 124 milhões, incluindo títulos conversíveis, de acordo com a Corel.	Incluindo títulos conversíveis, o valor total estimado do negócio é de US $ 124 milhões, segundo a Corel.	5.0
 2512	main-news	MSRpar	2012test	109	none	none	Ele começou no Super Bowl de 1983, onde Miami perdeu por 27 a 17 para Washington.	Ele jogou quatro temporadas em Miami, incluindo a derrota dos Dolphins por 27 a 17 para Washington no Super Bowl.	3.0
 2513	main-news	MSRpar	2012test	112	none	none	Espera-se que o Nterprise Linux Services esteja disponível antes do final deste ano.	Espera-se que versões beta do Nterprise Linux Services estejam disponíveis em alguns servidores HP ProLiant em julho.	2.667
 2514	main-news	MSRpar	2012test	113	none	none	Excluindo itens únicos, a empresa obteve um lucro de 6 centavos por ação.	Excluindo itens únicos, espera-se lucro de 11 centavos a 15 centavos por ação.	2.333
-2515	main-news	MSRpar	2012test	114	none	none	&quot;Mas eu questiono os motivos de um presidente de mesa que assume a roupa de um guerreiro para os propósitos de um discurso&quot;.	Byrd, falando no plenário do Senado, disse que questionou &quot;os motivos de um presidente de mesa que assume o traje de um guerreiro para fins de um discurso&quot;.	3.0
-2516	main-news	MSRpar	2012test	115	none	none	O índice Standard &amp; Poor&#39;s 500 Index .SPX mais amplo caiu 3 pontos, ou 0,30%, para 995.	O Índice Composto Nasdaq Composto por Tecnologia &lt;.IXIC&gt; acrescentou 1,92 pontos, ou 0,12 por cento, em 1.647,94.	1.3330000000000002
+2515	main-news	MSRpar	2012test	114	none	none	"Mas eu questiono os motivos de um presidente de mesa que assume a roupa de um guerreiro para os propósitos de um discurso".	Byrd, falando no plenário do Senado, disse que questionou "os motivos de um presidente de mesa que assume o traje de um guerreiro para fins de um discurso".	3.0
+2516	main-news	MSRpar	2012test	115	none	none	O índice Standard & Poor's 500 Index .SPX mais amplo caiu 3 pontos, ou 0,30%, para 995.	O Índice Composto Nasdaq Composto por Tecnologia <.IXIC> acrescentou 1,92 pontos, ou 0,12 por cento, em 1.647,94.	1.3330000000000002
 2517	main-news	MSRpar	2012test	116	none	none	Em vez disso, os ingressos para o atolamento de Jersey foram vendidos ontem à noite pelo Ticketmaster.	Os ingressos, disponíveis através da Ticketmaster, foram colocados à venda ontem.	3.8
-2518	main-news	MSRpar	2012test	117	none	none	Na segunda-feira, a Grant Thornton SpA repetiu declarações anteriores de que era &quot;vítima de ação fraudulenta&quot;.	Grant Thornton alega que também foi a &quot;vítima&quot; de uma fraude.	3.4
+2518	main-news	MSRpar	2012test	117	none	none	Na segunda-feira, a Grant Thornton SpA repetiu declarações anteriores de que era "vítima de ação fraudulenta".	Grant Thornton alega que também foi a "vítima" de uma fraude.	3.4
 2519	main-news	MSRpar	2012test	118	none	none	Peter Lyman e Hal Varian, da Escola de Gerenciamento de Informação e Sistemas de Berkeley, dizem que a produção de informações aumentou 30% a cada ano entre 1999 e 2002.	Essa tarefa atraiu dois mestres do megabyte, Peter Lyman e Hal Varian, professores da Escola de Gerenciamento de Informação e Sistemas da Universidade da Califórnia-Berkeley.	2.0
-2520	main-news	MSRpar	2012test	119	none	none	&quot;Minha opinião é de que 95% dessas informações devem ser desclassificadas, tornar-se sem censura, para que o povo americano saiba&quot;.	Meu julgamento é de que 95% dessas informações podem ser desclassificadas, tornar-se sem censura para que o povo americano saiba &quot;, disse Shelby no&quot; Meet the Press &quot;da NBC.	3.4
+2520	main-news	MSRpar	2012test	119	none	none	"Minha opinião é de que 95% dessas informações devem ser desclassificadas, tornar-se sem censura, para que o povo americano saiba".	Meu julgamento é de que 95% dessas informações podem ser desclassificadas, tornar-se sem censura para que o povo americano saiba ", disse Shelby no" Meet the Press "da NBC.	3.4
 2521	main-news	MSRpar	2012test	120	none	none	Os pesquisadores encontraram apenas cavidades vazias e tecido cicatricial onde estavam os tumores.	Nenhum tumor foi detectado; em vez disso, cavidades vazias e tecido cicatricial foram encontrados em seu lugar.	4.0
 2522	main-news	MSRpar	2012test	121	none	none	Washington, no entanto, disse que é preciso mais para impedir que as queixas sejam apresentadas em primeiro lugar.	Mas os EUA insistiram que queriam fazer mais para impedir que as queixas fossem apresentadas em primeiro lugar, preferencialmente revogando toda a lei.	2.8
-2523	main-news	MSRpar	2012test	122	none	none	Após 26 horas de cirurgia e um ano de antecipação, os meninos foram separados no domingo no Children&#39;s Medical Center de Dallas.	Meninos gêmeos egípcios de dois anos de idade, nascidos com a cabeça unida, foram separados após 26 horas de cirurgia no Children&#39;s Medical Center, em Dallas.	3.2
+2523	main-news	MSRpar	2012test	122	none	none	Após 26 horas de cirurgia e um ano de antecipação, os meninos foram separados no domingo no Children's Medical Center de Dallas.	Meninos gêmeos egípcios de dois anos de idade, nascidos com a cabeça unida, foram separados após 26 horas de cirurgia no Children's Medical Center, em Dallas.	3.2
 2524	main-news	MSRpar	2012test	123	none	none	Pines disse que convocará os órgãos relevantes do partido dentro de 10 dias para discutir se novas eleições serão realizadas ou se um líder temporário será nomeado.	Mitzna e o secretário do partido, Ophir Pines, concordaram em convocar as organizações do partido dentro de 10 dias para discutir se novas primárias seriam realizadas ou se um líder temporário seria nomeado.	3.6
 2525	main-news	MSRpar	2012test	125	none	none	O euro subiu para US $ 1,1914 no comércio asiático, antes de recuar um pouco para US $ 1,1895, com a abertura do comércio na Europa.	O euro subiu para US $ 1,1914 nas negociações asiáticas, antes de cair para US $ 1,1884 no final da Europa, acima dos US $ 1,1857 na segunda-feira.	3.6
-2526	main-news	MSRpar	2012test	126	none	none	Abbas disse na cúpula que encerraria a &quot;guerra armada&quot;, renunciou &quot;ao terrorismo contra os israelenses onde quer que eles estivessem&quot; e aludiu ao desarmamento de militantes.	Na cúpula de quarta-feira, Abbas prometeu encerrar a &quot;guerra armada&quot;, renunciou &quot;ao terrorismo contra os israelenses onde quer que eles estivessem&quot; e aludiu ao desarmamento de militantes.	4.2
-2527	main-news	MSRpar	2012test	130	none	none	Cmdr. Rod Gibbons, porta-voz da academia, disse: &quot;A academia está chocada e triste.	Porta-voz da Academia Naval Rod Gibbons disse: `` O anúncio de hoje foi uma surpresa.	3.25
+2526	main-news	MSRpar	2012test	126	none	none	Abbas disse na cúpula que encerraria a "guerra armada", renunciou "ao terrorismo contra os israelenses onde quer que eles estivessem" e aludiu ao desarmamento de militantes.	Na cúpula de quarta-feira, Abbas prometeu encerrar a "guerra armada", renunciou "ao terrorismo contra os israelenses onde quer que eles estivessem" e aludiu ao desarmamento de militantes.	4.2
+2527	main-news	MSRpar	2012test	130	none	none	Cmdr. Rod Gibbons, porta-voz da academia, disse: "A academia está chocada e triste.	Porta-voz da Academia Naval Rod Gibbons disse: `` O anúncio de hoje foi uma surpresa.	3.25
 2528	main-news	MSRpar	2012test	132	none	none	As ações da LendingTree subiram US $ 6,21, ou 42%, para US $ 20,90, depois de atingir US $ 21,36.	As ações da LendingTree subiram 43%, ou US $ 6,31, para US $ 21, mais do que dobrando nos últimos dois meses.	2.75
 2529	main-news	MSRpar	2012test	133	none	none	Na semana passada, seus advogados pediram a Warner que concedesse clemência sob condições que levariam a uma nova audiência de sentença.	Na semana passada, seus advogados pediram ao governador Mark R. Warner que concedesse clemência, mas o governador se recusou a intervir.	2.5
-2530	main-news	MSRpar	2012test	135	none	none	&quot;Acho que deveria ter sido lançado anos atrás&quot;, disse Brian Rohrbough, cujo filho Daniel foi morto em Columbine.	Brian Rohrbough, cujo filho Daniel foi morto em Columbine, disse que a fita levanta questões perturbadoras.	1.75
-2531	main-news	MSRpar	2012test	136	none	none	O diretor da CIA, George Tenet, disse que os dois homens foram &quot;definidos por dedicação e coragem&quot;.	&quot;[Eles] foram definidos por dedicação e coragem&quot;, disse o diretor da CIA, George Tenet.	4.25
+2530	main-news	MSRpar	2012test	135	none	none	"Acho que deveria ter sido lançado anos atrás", disse Brian Rohrbough, cujo filho Daniel foi morto em Columbine.	Brian Rohrbough, cujo filho Daniel foi morto em Columbine, disse que a fita levanta questões perturbadoras.	1.75
+2531	main-news	MSRpar	2012test	136	none	none	O diretor da CIA, George Tenet, disse que os dois homens foram "definidos por dedicação e coragem".	"[Eles] foram definidos por dedicação e coragem", disse o diretor da CIA, George Tenet.	4.25
 2532	main-news	MSRpar	2012test	138	none	none	Mas as receitas de licenças de software, uma medida que os analistas financeiros observam atentamente, caíram 21%, para US $ 107,6 milhões.	As vendas de licenças, uma medida importante da demanda, caíram 21%, para US $ 107,6 milhões.	5.0
 2533	main-news	MSRpar	2012test	139	none	none	Dotson, 21, foi preso e acusado em 21 de julho, depois de dizer às autoridades que atirou em Dennehy depois que Dennehy tentou matá-lo.	Dotson foi preso no dia 21 de julho depois de dizer aos agentes do FBI que atirou em Dennehy quando Dennehy tentou matá-lo, de acordo com o depoimento do mandado de prisão.	4.25
 2534	main-news	MSRpar	2012test	140	none	none	Os promotores alegaram que Durst havia planejado o assassinato para assumir a identidade de Black.	Os promotores sustentaram que Durst assassinou Black para tentar assumir a identidade de Black.	4.75
 2535	main-news	MSRpar	2012test	141	none	none	Essa objeção foi citada pelo conselho da PeopleSoft ao rejeitar a oferta da Oracle.	O conselho da PeopleSoft recomendou que os acionistas rejeitassem a oferta.	2.75
 2536	main-news	MSRpar	2012test	142	none	none	Vários líderes democratas negros estavam tentando marcar uma reunião com o presidente da DNC, Terry McAuliffe, para discutir as demissões.	Os líderes democratas negros estavam tentando marcar uma reunião com o presidente do Comitê Nacional Democrata, Terry McAuliffe, para discutir as demissões de 10 funcionários minoritários na sede do partido.	3.25
-2537	main-news	MSRpar	2012test	143	none	none	&quot;São dias sombrios para a nossa indústria&quot;, disse Giovanni Bisignani, diretor geral da organização sediada em Genebra, em comunicado.	&quot;São dias sombrios para nossa indústria&quot;, disse o diretor-geral da Associação Internacional de Transporte Aéreo Internacional, com sede em Genebra, Giovanni Bisignani.	3.5
+2537	main-news	MSRpar	2012test	143	none	none	"São dias sombrios para a nossa indústria", disse Giovanni Bisignani, diretor geral da organização sediada em Genebra, em comunicado.	"São dias sombrios para nossa indústria", disse o diretor-geral da Associação Internacional de Transporte Aéreo Internacional, com sede em Genebra, Giovanni Bisignani.	3.5
 2538	main-news	MSRpar	2012test	144	none	none	As sete outras nações da iniciativa são Grã-Bretanha, Alemanha, Itália, Holanda, Polônia, Portugal e Espanha.	Outras nações envolvidas no PSI incluem Alemanha, Itália, Holanda, Polônia, Portugal, Espanha e Grã-Bretanha.	3.6
 2539	main-news	MSRpar	2012test	148	none	none	O americano médio faz quatro viagens por dia, 45% para compras ou compras.	Quase metade - 45% - é para fazer compras ou fazer compras.	3.333
 2540	main-news	MSRpar	2012test	151	none	none	Também é uma vitória estratégica para a Overture, já que Knight Ridder teve a opção de assinar nos serviços do Google.	Também é uma vitória estratégica para a Overture, já que Knight Ridder estava usando os serviços de publicidade do Google.	4.0
@@ -2550,25 +2550,25 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2548	main-news	MSRpar	2012test	162	none	none	Os contratos futuros da América do Norte apontaram para um início abaixo do normal das negociações na terça-feira, com investidores prontos para obter o primeiro gostinho dos lucros trimestrais.	As bolsas de valores norte-americanas tiveram um início lento na terça-feira, com os investidores prontos para obter o primeiro gostinho dos lucros trimestrais.	4.6
 2549	main-news	MSRpar	2012test	166	none	none	Os indicadores mais amplos do mercado também registraram grandes ganhos, tendo subido mais por quatro semanas consecutivas.	O mercado mais amplo também recuou, tendo subido mais por quatro semanas consecutivas.	3.6
 2550	main-news	MSRpar	2012test	167	none	none	Jim Furyk comemorou seu primeiro dia dos pais como pai ao vencer seu primeiro grande campeonato de golfe.	Seu primeiro dia dos pais como pai, seu primeiro grande como campeão.	3.0
-2551	main-news	MSRpar	2012test	168	none	none	Eles passaram pela Parceria Limitada da Lemelson Medical, Educational and Research Foundation em 2001 para a Síria.	Ele afirmou que as patentes foram &quot;supostamente&quot; atribuídas à Síria em 2001 por meio da Parceria Limitada da Fundação Médica, Educacional e de Pesquisa Lemelson.	2.4
+2551	main-news	MSRpar	2012test	168	none	none	Eles passaram pela Parceria Limitada da Lemelson Medical, Educational and Research Foundation em 2001 para a Síria.	Ele afirmou que as patentes foram "supostamente" atribuídas à Síria em 2001 por meio da Parceria Limitada da Fundação Médica, Educacional e de Pesquisa Lemelson.	2.4
 2552	main-news	MSRpar	2012test	169	none	none	A SIA diz que o mercado de DRAM deve crescer 2,9%, para US $ 15,7 bilhões em 2003 e 43% para US $ 22,5 bilhões em 2004.	O mercado das Américas cairá 2,1%, para US $ 30,6 bilhões em 2003, e depois crescerá 15,7%, para US $ 35,4 bilhões em 2004.	1.2
 2553	main-news	MSRpar	2012test	170	none	none	A esposa de Morrill, Ellie, chorou e abraçou a cunhada de Bondeson durante o serviço.	No serviço, a viúva de Morrill, Ellie, soluçou e abraçou a cunhada de Bondeson enquanto as pessoas a consolavam.	3.4
 2554	main-news	MSRpar	2012test	175	none	none	Grassley e Baucus rejeitaram qualquer disparidade nos benefícios dos medicamentos.	Grassley e Baucus disseram que rejeitaram essa abordagem em seu plano.	3.0
 2555	main-news	MSRpar	2012test	177	none	none	No trimestre do ano passado, a siderúrgica registrou um lucro de US $ 16,2 milhões, ou 15 centavos por ação, com vendas de US $ 1,14 bilhão.	No segundo trimestre do ano passado, a AK Steel registrou um lucro de US $ 16,2 milhões, ou 15 centavos por ação.	3.4
 2556	main-news	MSRpar	2012test	179	none	none	O Nasdaq teve um ganho semanal de 17,27, ou 1,2%, fechando às 1.520,15 na sexta-feira.	O Nasdaq Composite .IXIC subiu 30,46 pontos, ou 2,04 por cento, para 1.520,15.	1.8
-2557	main-news	MSRpar	2012test	182	none	none	&quot;Foi uma intimidação descarada manter as pessoas na reserva&quot;, disse um republicano que compareceu, mas não quis ser identificado.	&quot;Foi uma tentativa descarada de intimidação&quot;, disse um legislador republicano que participou da reunião.	3.5
+2557	main-news	MSRpar	2012test	182	none	none	"Foi uma intimidação descarada manter as pessoas na reserva", disse um republicano que compareceu, mas não quis ser identificado.	"Foi uma tentativa descarada de intimidação", disse um legislador republicano que participou da reunião.	3.5
 2558	main-news	MSRpar	2012test	183	none	none	Nenhuma acusação foi anunciada, mas o comunicado informa que os procedimentos legais são esperados na segunda-feira.	Um comunicado do FBI disse que os procedimentos legais são esperados na segunda-feira no tribunal federal de Baltimore.	2.75
-2559	main-news	MSRpar	2012test	184	none	none	A mulher morta também usava um anel e um relógio Cartier.	&quot;É uma mulher de cabelos loiros usando um relógio Cartier no pulso&quot;, disse a fonte.	2.6
+2559	main-news	MSRpar	2012test	184	none	none	A mulher morta também usava um anel e um relógio Cartier.	"É uma mulher de cabelos loiros usando um relógio Cartier no pulso", disse a fonte.	2.6
 2560	main-news	MSRpar	2012test	185	none	none	O índice composto Nasdaq Stock Markets, com tecnologia pesada, acrescentou 14,17 pontos ou 0,94%, para 1.517,05.	O índice Nasdaq Composite, cheio de ações de tecnologia, subiu recentemente em torno de 18 pontos.	2.2
 2561	main-news	MSRpar	2012test	189	none	none	Mas o FBI nunca ficou de olho em al-Bayoumi - apesar de ter recebido informações de que ele era um agente saudita, diz o documento.	Mas o departamento nunca ficou de olho em al-Bayoumi - apesar de receber informações anteriores, ele era um agente saudita secreto, diz o relatório.	4.75
-2562	main-news	MSRpar	2012test	190	none	none	&quot;Isso vai acontecer&quot;, disse Jim Santangelo, presidente do Conselho Conjunto Teamsters 42 em El Monte.	&quot;Isso realmente afeta as empresas, em grande parte&quot;, disse Jim Santangelo, presidente do Conselho Conjunto Teamsters 42 em El Monte.	1.5
+2562	main-news	MSRpar	2012test	190	none	none	"Isso vai acontecer", disse Jim Santangelo, presidente do Conselho Conjunto Teamsters 42 em El Monte.	"Isso realmente afeta as empresas, em grande parte", disse Jim Santangelo, presidente do Conselho Conjunto Teamsters 42 em El Monte.	1.5
 2563	main-news	MSRpar	2012test	192	none	none	Ele foi libertado sob fiança de US $ 3 milhões e imediatamente retornou a Las Vegas, onde estava filmando um vídeo.	Depois de pagar uma fiança de US $ 3 milhões, Jackson voou para Las Vegas, onde estava trabalhando em um vídeo.	3.75
 2564	main-news	MSRpar	2012test	193	none	none	Analistas do Gartner disseram que as empresas ainda não estão confiantes o suficiente para atualizar os PCs corporativos.	Além do mais, as empresas não estão se sentindo confiantes o suficiente para substituir os PCs mais antigos, disse a empresa de analistas.	3.5
 2565	main-news	MSRpar	2012test	195	none	none	Na terça-feira, quase 250 profissionais de saúde estavam em quarentena.	Além disso, 6.800 pessoas estavam em quarentena e milhares de profissionais de saúde em quarentena.	1.5
 2566	main-news	MSRpar	2012test	197	none	none	Brian Brabazon disse que seu filho ficaria chateado, mas depois se virou e fez amizade com seus provocadores.	O filho dela ficaria chateado, disse a mãe, mas depois se vira e faz amizade com seus provocadores.	3.2
 2567	main-news	MSRpar	2012test	198	none	none	O índice composto Nasdaq Stock Markets, com tecnologia pesada, acrescentou 1,16 pontos a 1.504,04.	O índice Nasdaq Composite, cheio de ações de tecnologia, subiu recentemente em torno de 18 pontos.	2.2
-2568	main-news	MSRpar	2012test	199	none	none	O Nasdaq Composite Index, com tecnologia ligada, caiu 0,08 de ponto para 1.646.	O Índice Composto Nasdaq Composto por Tecnologia &lt;.IXIC&gt; acrescentou 1,92 pontos, ou 0,12 por cento, em 1.647,94.	2.4
-2569	main-news	MSRpar	2012test	201	none	none	Ele disse ao júri que Stubbs é um &quot;assassino frio e calculista&quot;.	O promotor Dave Lupas lembrou aos jurados que Stubbs é &quot;um assassino frio e calculista&quot;.	3.0
+2568	main-news	MSRpar	2012test	199	none	none	O Nasdaq Composite Index, com tecnologia ligada, caiu 0,08 de ponto para 1.646.	O Índice Composto Nasdaq Composto por Tecnologia <.IXIC> acrescentou 1,92 pontos, ou 0,12 por cento, em 1.647,94.	2.4
+2569	main-news	MSRpar	2012test	201	none	none	Ele disse ao júri que Stubbs é um "assassino frio e calculista".	O promotor Dave Lupas lembrou aos jurados que Stubbs é "um assassino frio e calculista".	3.0
 2570	main-news	MSRpar	2012test	202	none	none	Da mesma forma, o título de 30 anos <US30YT=RR> deslizou 1-11 / 32 para um rendimento de 4,38%, acima dos 4,30%.	O bônus de 30 anos US30YT = RR saltou 20/32, elevando seu rendimento para 4,14%, de 4,18%.	1.8
 2571	main-news	MSRpar	2012test	203	none	none	Uma sétima vítima, uma mulher, morreu na noite de terça-feira na unidade de queimaduras no Hospital Medical Center de Akron, para crianças.	Uma sétima pessoa, uma mulher de 21 anos, estava em estado crítico na unidade de queimaduras do Hospital Infantil Akron.	2.4
 2572	main-news	MSRpar	2012test	204	none	none	Os homens foram imediatamente levados de avião para o vizinho Botsuana em um voo fretado da Air Malawi, disseram autoridades de inteligência do Malawi sob condição de anonimato.	Os homens foram levados de avião para o vizinho Botsuana em um voo da Air Malawi, disseram as autoridades.	3.533
@@ -2858,7 +2858,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 2856	main-news	MSRpar	2012test	618	none	none	Cooley disse que espera que Muhammad seja chamado como testemunha em uma audiência pré-julgamento para Malvo.	Lee Boyd Malvo será chamado como testemunha na quarta-feira em uma audiência pré-julgamento para o suspeito de atirador John Allen Muhammad.	2.5
 2857	main-news	MSRpar	2012test	619	none	none	&quot;Ele realmente nos deixou com um sorriso no rosto e nenhuma última palavra&quot;, disse a filha Linda Hope.	&quot;Ele realmente nos deixou com um sorriso no rosto e nenhuma última palavra ... Ele nos deu um beijo e foi isso&quot;, disse ela.	3.25
 2858	main-news	MSRpar	2012test	621	none	none	Ele também pode ser barrado permanentemente do setor de valores mobiliários.	Young enfrenta uma multa, suspensão ou impedimento permanente do setor de valores mobiliários.	3.333
-2859	main-news	MSRpar	2012test	622	none	none	&quot;Eles eram um casal inspirador, altruísta e corajoso&quot;, disse o diretor de cinema vencedor do Oscar.	Ele disse: “Eles eram um casal inspirador, altruísta e corajoso.	3.0
+2859	main-news	MSRpar	2012test	622	none	none	&quot;Eles eram um casal inspirador, altruísta e corajoso&quot;, disse o diretor de cinema vencedor do Oscar.	Ele disse: "Eles eram um casal inspirador, altruísta e corajoso.	3.0
 2860	main-news	MSRpar	2012test	624	none	none	Uma segunda vítima, Michael Walker, 23 anos, foi atingida no tronco, a bala perfurando seu pulmão.	A outra vítima, Michael Walker, da 550 Barbey Street, foi atingida no pescoço.	2.2
 2861	main-news	MSRpar	2012test	626	none	none	Em uma entrevista, Healey, que é criminologista, reconheceu que grande parte do sentimento entre os legisladores daqui e de todo o país era cauteloso em relação à pena de morte.	Em uma entrevista, Healey, que é criminologista, disse que muitos legisladores aqui e em todo o país compartilham uma cautela em relação à pena de morte.	4.6
 2862	main-news	MSRpar	2012test	627	none	none	A juíza-executiva do condado de Franklin, Teresa Barton, disse que um bombeiro foi atingido por um raio e foi levado ao Centro Médico Regional de Frankfort.	Um bombeiro do condado foi atingido por um raio e estava em condições estáveis no Centro Médico Regional de Frankfort.	3.2
@@ -3127,7 +3127,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 3125	main-news	MSRpar	2012train	263	none	none	Os médicos especularam que o próprio estrogênio do corpo protege contra danos celulares e melhora o fluxo sanguíneo.	Sua crença era baseada em especulações de que o estrogênio previne danos às células e melhora o fluxo sanguíneo.	4.2
 3126	main-news	MSRpar	2012train	264	none	none	Eles também descobriram que a falta estava associada a um histórico familiar de perda auditiva.	A falta foi encontrada duas vezes mais naqueles com perda auditiva.	3.4
 3127	main-news	MSRpar	2012train	265	none	none	Os executivos da Cisco disseram que foram incentivados por US $ 1,3 bilhão em fluxo de caixa e aumento no lucro líquido, mas esperavam uma recuperação.	Os executivos da Cisco foram incentivados por US $ 1,3 bilhão em fluxo de caixa e pelo aumento da receita líquida, mas disseram que permaneceram `` cautelosamente otimistas &#39;&#39; em relação a uma recuperação.	4.6
-3128	main-news	MSRpar	2012train	266	none	none	Em uma declaração por e-mail ao Knoxville News Sentinel, Shumaker disse: “Não estou considerando a demissão.	Não estou considerando a demissão &quot;, afirmou Shumaker em comunicado.	4.0
+3128	main-news	MSRpar	2012train	266	none	none	Em uma declaração por e-mail ao Knoxville News Sentinel, Shumaker disse: "Não estou considerando a demissão.	Não estou considerando a demissão &quot;, afirmou Shumaker em comunicado.	4.0
 3129	main-news	MSRpar	2012train	267	none	none	Uma pesquisa mostrou que os insultos do prefeito pelo FBI haviam impulsionado seu esforço de reeleição contra o adversário do Partido Republicano, Sam Katz.	Uma pesquisa divulgada nesta semana mostrou que o escândalo do prefeito pelo FBI deu um impulso ao seu esforço de reeleição.	4.0
 3130	main-news	MSRpar	2012train	269	none	none	O passageiro ferido no Hospital John Peter Smith morreu na manhã desta sexta-feira, disse Jones.	O passageiro ferido em John Peter Smith morreu no final da manhã; seu nome não foi divulgado, disse Jones.	3.6430000000000002
 3131	main-news	MSRpar	2012train	270	none	none	Os médicos planejavam entregá-lo duas semanas antes, por volta de 14 de novembro.	Uma cesariana havia sido planejada originalmente em meados de novembro, duas semanas antes.	3.6
@@ -5303,7 +5303,7 @@ index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
 5301	main-news	headlines	2015	863	none	none	Google lança protótipo de carro autônomo	Google lança carro autônomo conceitual	5.0
 5302	main-news	headlines	2015	864	none	none	Incêndio em fábrica de roupas em Bangladesh mata 8	Colapso de fábrica de roupas em Bangladesh mata 149	2.0
 5303	main-news	headlines	2015	867	none	none	EUA buscam tranquilizar aliados cautelosos sobre acordo com o Irã	Hagel procura tranquilizar aliados nervosos do Golfo após acordo com o Irã	4.0
-5304	main-news	headlines	2015	869	none	none	Ucrânia organiza “conversações comunitárias”	Papa ataca em guerra para vender armas na Síria	0.0
+5304	main-news	headlines	2015	869	none	none	Ucrânia organiza "conversações comunitárias"	Papa ataca em guerra para vender armas na Síria	0.0
 5305	main-news	headlines	2015	878	none	none	Musharraf paquistanês preso no assassinato de Bhutto	Musharraf do Paquistão chega a tribunal pela primeira vez	2.4
 5306	main-news	headlines	2015	880	none	none	Data do julgamento marcada para o chefe da Irmandade Muçulmana do Egito	Irmandade Muçulmana da Síria enfrenta árdua batalha	2.2
 5307	main-news	headlines	2015	883	none	none	Fuga do zoológico de panda vermelho	A marcha da Índia para Marte	0.0
