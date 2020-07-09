@@ -3,6 +3,10 @@ import pprint
 import subprocess
 
 import utils
+import importlib
+importlib.reload(utils)
+
+
 
 #Download GLUE datasets
 glue_v1 = 'GLUE_v1'
@@ -177,7 +181,8 @@ fin, original = utils.get_sentences_csv(original_file, sentences_idx)
 fout, translated = utils.get_sentences_csv(translation_file, sentences_idx)
 
 assert utils.get_shape(fin) == utils.get_shape(fout)
-#assert utils.get_null(original) == utils.get_null(translated)
+assert utils.null_count(original) == utils.null_count(translated)
+
 
 not_translated = set(original).intersection(set(translated))
 pprint.pprint(not_translated) 

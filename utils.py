@@ -39,10 +39,8 @@ def get_shape(matrix: List[list]):
     shape = list(map(len, matrix))
     return shape
 
-def get_null(matrix: List[list]):
-    empty, null = '', 0
-    for idx, item in enumerate(matrix):
-        null += item.count(empty)
+def null_count(lst: List[str]):
+    null = lst.count('')
     return null
 
 def flatten(lst: List[list]) -> list:
