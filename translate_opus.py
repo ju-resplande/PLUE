@@ -70,4 +70,3 @@ def translate2dict(sentences, dictpath, batch_size):
         torch.cuda.empty_cache()
         with open(dictpath, 'w+') as f:
             json.dump(translations, f)
-
