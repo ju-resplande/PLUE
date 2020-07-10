@@ -87,4 +87,3 @@ def translate2dictpath(sentences, dictpath):
                     break
 
                 error = error + 1
-

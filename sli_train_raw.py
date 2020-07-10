@@ -3,7 +3,8 @@ import json
 import utils
 import translate_opus
 
-train_list, sentences = utils.get_sentences_csv('SNLI/train_raw.tsv', sentences_idx) 
+train_list, sentences = utils.get_sentences_csv(
+    'SNLI/train_raw.tsv', sentences_idx)
 
 with open('dictionaries/snli.json') as infile:
     dictionary = json.load(infile)
