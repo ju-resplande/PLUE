@@ -1,12 +1,13 @@
-import os
+from functools import reduce
 from typing import List
 import requests
+import os
 
 import pandas as pd
 import unicodecsv
+import nltk
 
-# pip install unicodecsv
-
+# pip install unicodecsv nltk
 
 def download_file(url: str, filename: str):
     r = requests.get(url)
@@ -60,3 +61,26 @@ def flatten(lst: List[list]) -> list:
 def is_equal(filepath1: str, filepath2: str):
     import filecmp
     return filecmp.cmp(filepath1, filepath2)
+
+def tokenize(sentence: str):
+    tokenized = nltk.word_tokenize(sentence, language='portuguese')
+    joint = ' '.join(tokenized)
+
+    without_parenthesis = joint.replace('(', '-LRB-')
+    without_parenthesis = without_parenthesis.replace(')', '-RRB-')
+
+    return without_parenthesis
+
+
+def binarize(tree):
+    """
+    Recursively turn a tree into a binary tree.
+    http://lascam.facom.ufu.br:8080/cookbooks/cookbook.jsp?api=nltk
+    """
+    if isinstance(tree, str):
+        return tree
+    elif len(tree) == 1:
+        return binarize(tree[0])
+    else:
+        return reduce(lambda x, y: f'({binarize(x)} {binarize(y)})', tree)
+
