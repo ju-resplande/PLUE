@@ -56,11 +56,24 @@ for dataset in os.listdir(glue_v1):
 
 print(f'difference between {glue_v1} and {glue_v2}: {different_datasets}')
 
+
+print('Downloading Scitail data...')
+
+scitail_zip = 'SciTailV1.1.zip'
+scitail_download_link = f'http://data.allenai.org.s3.amazonaws.com/downloads/{scitail_zip}'
+scitail_unzip = [
+    'unzip',
+    scitail_zip,
+]
+
+utils.download_file(scitail_download_link, scitail_zip)
+subprocess.run(scitail_unzip)
+
 #Tasks and sentences_idx
 
 dataset_sentences = {
     'CoLA': [
-        'sentence',  # test: sentence, train and dev: 3
+        'sentence',  # test: sentence; train and dev: 3
     ],
     'MNLI': [
         'sentence1',
@@ -101,29 +114,38 @@ dataset_sentences = {
         'sentence1',
         'sentence2',
     ],
+    'SciTail': [
+        0,
+        1,
+    ]
 }
 
 glue_version = glue_v2
 
 
 def is_without_header(dataset: str, split_file: str):
-    return dataset == 'CoLA' and split_file in ['dev.tsv', 'train.tsv']
+    is_cola = (dataset == 'CoLA' and split_file in ['dev.tsv', 'train.tsv'])
+    is_scitail = dataset == 'SciTail'
+
+    return is_cola or is_scitail
 
 
 print('Assert dimensions, non_null data and check translations...')
 
 for dataset, sentences_idx in dataset_sentences.items():
-    translation_folder = dataset
-    original_folder = f'{glue_v2}/{dataset}'
+    translation_folder = dataset if dataset != 'SciTail' else os.path.join('SciTail', 'tsv_format')
+    original_folder = os.path.join(glue_v2, dataset)
 
     print(dataset)
 
     if dataset == 'QNLI':
-        original_folder = f'{glue_v1}/{dataset}'
+        original_folder = os.path.join(glue_v1, dataset)
     elif dataset == 'QNLI_v2':
-        original_folder = f'{glue_v2}/QNLI'
+        original_folder = os.path.join(glue_v2, 'QNLI')
     elif dataset == 'QQP_v2':
-        original_folder = f'{glue_v2}/QQP'
+        original_folder = os.path.join(glue_v2, 'QQP')
+    elif dataset == 'SciTail':
+        original_folder = os.path.join('SciTailV1.1', 'tsv_format')
 
     for split_file in os.listdir(translation_folder):
         if split_file == 'train_raw.tsv' or not split_file.endswith('.tsv'):
@@ -133,16 +155,17 @@ for dataset, sentences_idx in dataset_sentences.items():
 
         has_not_header = is_without_header(dataset, split_file)
 
-        if has_not_header:
+        if has_not_header and dataset == 'CoLA':
             sentences_idx = [3]
         elif dataset == 'CoLA':
             sentences_idx = ['sentence']
 
         fin, original = utils.get_sentences_df(
-            f'{original_folder}/{split_file}', sentences_idx, has_not_header)
+            os.path.join(original_folder, split_file), sentences_idx, has_not_header)
         fout, translated = utils.get_sentences_df(
-            f'{translation_folder}/{split_file}', sentences_idx, has_not_header)
+            os.path.join(translation_folder, split_file), sentences_idx, has_not_header)
 
+        print(fin.shape, fout.shape)
         assert fin.shape == fout.shape
 
         null_before = original.isnull()
@@ -170,8 +193,10 @@ for dataset, sentences_idx in dataset_sentences.items():
 # One Direction sux. -> One Direction é uma merda
 # play box. -> caixa de jogo.
 
-translation_file = 'SNLI/train_raw.tsv'
-original_file = f'{glue_v2}/SNLI/train.tsv'
+print('Analysing train_raw.tsv...')
+
+translation_file = os.path.join('SNLI', 'train_raw.tsv')
+original_file = os.path.join(glue_v2, 'SNLI', 'train.tsv')
 sentences_idx = [
     7,
     8,
