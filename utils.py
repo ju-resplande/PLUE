@@ -48,11 +48,6 @@ def get_shape(matrix: List[list]):
     return shape
 
 
-def null_count(lst: List[str]):
-    null = lst.count('')
-    return null
-
-
 def flatten(lst: List[list]) -> list:
     lst = [item for sublist in lst for item in sublist]
     return lst

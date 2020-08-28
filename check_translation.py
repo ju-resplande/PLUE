@@ -78,6 +78,11 @@ dataset_sentences = {
     'MNLI': [
         'sentence1',
         'sentence2',
+        'sentence1_parse',
+        'sentence2_parse',
+        'sentence1_binary_parse',
+        'sentence2_binary_parse',
+
     ],
     'MRPC': [
         '#1 String',
@@ -102,6 +107,10 @@ dataset_sentences = {
     'SNLI': [
         'sentence1',
         'sentence2',
+        'sentence1_parse',
+        'sentence2_parse',
+        'sentence1_binary_parse',
+        'sentence2_binary_parse',
     ],
     'SST-2': [
         'sentence',
@@ -165,13 +174,15 @@ for dataset, sentences_idx in dataset_sentences.items():
         fout, translated = utils.get_sentences_df(
             os.path.join(translation_folder, split_file), sentences_idx, has_not_header)
 
-        print(fin.shape, fout.shape)
         assert fin.shape == fout.shape
+        if not translated.notna().values.all():
+            print(translated.notna().all(axis='index'))
+        #assert translated.notna().values.all()
 
-        null_before = original.isnull()
-        null_after = translated.isnull()
-
-        assert null_after.size == null_before.size
+        if dataset in ['SNLI', 'MNLI']:
+            print('ROOT' in translated[['sentence1_parse']])
+            print('ROOT' in translated[['sentence2_parse']])
+            assert not 'ROOT' in translated[['sentence1_binary_parse', 'sentence2_binary_parse']]
 
         original_set = set(utils.flatten(original.values.tolist()))
         translated_set = set(utils.flatten(translated.values.tolist()))
@@ -197,16 +208,13 @@ print('Analysing train_raw.tsv...')
 
 translation_file = os.path.join('SNLI', 'train_raw.tsv')
 original_file = os.path.join(glue_v2, 'SNLI', 'train.tsv')
-sentences_idx = [
-    7,
-    8,
-]
+sentences_idx = range(4, 9)
 
 fin, original = utils.get_sentences_csv(original_file, sentences_idx)
 fout, translated = utils.get_sentences_csv(translation_file, sentences_idx)
 
 assert utils.get_shape(fin) == utils.get_shape(fout)
-assert utils.null_count(original) == utils.null_count(translated)
+#assert all([not "" in row for row in translated])
 
 
 not_translated = set(original).intersection(set(translated))
