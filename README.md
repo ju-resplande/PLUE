@@ -7,8 +7,6 @@ Smaller GLUE datasets, such as CoLA, MRPC, RTE, SST-2, STS-B, and WNLI, were tra
 
 ## Code requirements
 
-
-
 - Gcloud Translation
   - google-cloud-translate
 - Opus Translation
@@ -28,6 +26,33 @@ Smaller GLUE datasets, such as CoLA, MRPC, RTE, SST-2, STS-B, and WNLI, were tra
     - unicodecsv (snli train ragged matrix)
     - ~~LX-parser (downloaded in dependency_parsing.py)~~
 
+## Installation (by Pierre Guillou)
+    1. Install cabextract
+    2. Create PortugueseGLUE folder (`mkdir`)
+    3. Download `glue_v1.py`.
+    4. Get MRPC dataset
+    
+    ```bash
+    mkdir glue_data
+    cd glue_data
+    wget https://download.microsoft.com/download/D/4/6/D46FF87A-F6B9-4252-AA8B-3604ED519838/MSRParaphraseCorpus.msi
+    mkdir MRPC
+    cabextract MSRParaphraseCorpus.msi -d MRPC
+    cat MRPC/_2DEC3DBE877E4DB192D17C0256E90F1D | tr -d $'\r' > MRPC/msr_paraphrase_train.txt
+    cat MRPC/_D7B391F9EAFF4B1B8BCE8F21B20B1B61 | tr -d $'\r' > MRPC/msr_paraphrase_test.txt
+    rm MRPC/_*
+    rm MSRParaphraseCorpus.msi
+    cd ..
+    ```
+
+5. Get and extract Portuguese GLUE v1
+
+   ```bash
+   python glue_v1.py --path_to_mrpc glue_data/MRPC
+   ```
+
+
+Created folders: CoLA, MNLI, MRPC, QNLI, QQP, RTE, SNLI, SST-2, STS-B, WNLI, diagnostic.
 
 
 ## Observations
@@ -38,4 +63,4 @@ SNLI train split is a ragged matrix, so we made available two version of the dat
 
 Dependency parsing code is provided using SNLI as an example. Although MNLI contains same number of sentences as SNLI, parsing SNLI takes about minutes while MNLI takes about a week because MNLI sentences structures are complex.
 
-Manual translation were made on 12 sentences in SNLI where original sentences and their translations remained the same, that is, were not translated and 5 sentences in MNLI in which the binary parse returned error. 
+Manual translation were made on 12 sentences in SNLI where original sentences and their translations remained the same, that is, were not translated and 5 sentences in MNLI in which the binary parse returned error.
