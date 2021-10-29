@@ -1,4 +1,7 @@
 # PortugueseGLUE
+(Files are at 
+https://drive.google.com/drive/u/1/folders/1WXdarHqxlJqKm30uD2LubwuLfpAGYZX0 ... I'll organize this repo within the next months)
+
 Portuguese translation of the [GLUE benchmark](https://gluebenchmark.com/) and [Scitail dataset](https://allenai.org/data/scitail) using [OPUS-MT model](https://github.com/Helsinki-NLP/OPUS-MT) and [Google Cloud Translation](https://cloud.google.com/translate/docs). 
 
 Smaller GLUE datasets, such as CoLA, MRPC, RTE, SST-2, STS-B, and WNLI, were translated using Cloud Translation Free Tier. Other GLUE dataset (SNLI, MNLI, QNLI and QQP) and Scitail were translated using OPUS-MT. 
