@@ -1,0 +1,14 @@
+# Gcloud Translation
+google-cloud-translate
+
+# Opus Translation
+transformers <= 2
+mosestokenizer
+tqdm
+pytorch
+
+# Aditional Tools
+ftfy
+pandas
+unicodecsv
+nltk
