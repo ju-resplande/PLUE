@@ -7,7 +7,7 @@ Portuguese translation of the [GLUE benchmark](https://gluebenchmark.com/) and [
 
 
 
-## 
+## Getting Started
 
 
 | Datasets | Translation Tool |
@@ -17,13 +17,13 @@ Portuguese translation of the [GLUE benchmark](https://gluebenchmark.com/) and [
 
 [LX parser](http://lxcenter.di.fc.ul.pt/tools/en/LXParserEN.html), [Binarizer code](http://lascam.facom.ufu.br:8080/cookbooks/cookbook.jsp?api=nltk#ex11) and [NLTK word tokenizer](https://www.nltk.org/_modules/nltk/tokenize.html#word_tokenize) were used to create dependency parsings for SNLI and MNLI datasets.
 
-## Installation (by @piegu)
+### Installation (by @piegu)
 
   1. Install cabextract
   2. Create PortugueseGLUE folder (`mkdir`)
   3. Download `glue_v1.py`.
   4. Get MRPC dataset
-  
+
 ```bash
         mkdir glue_data
         cd glue_data
@@ -46,10 +46,29 @@ Portuguese translation of the [GLUE benchmark](https://gluebenchmark.com/) and [
 
 Created folders: CoLA, MNLI, MRPC, QNLI, QQP, RTE, SNLI, SST-2, STS-B, WNLI, diagnostic.
 
+### Reproducing
+........
 
 ## Observations
 
 - GLUE provides two versions: [first](https://github.com/nyu-mll/GLUE-baselines/blob/master/download_glue_data.py) and [second](https://github.com/nyu-mll/jiant/blob/master/scripts/download_glue_data.py). We noticed the versions only differs in QNLI and QQP datasets, where we made QNLI available in both versions and QQP in the newest version. 
-
 - SNLI train split is a ragged matrix, so we made available two version of the data: train_raw.tsv contains irregular lines and train.tsv excludes those lines. 
 - Manual translation were made on 12 sentences due to translation errors.
+
+## Citing
+
+```bibtex
+@misc{Gomes2020,
+  author = {GOMES, J. R. S.},
+  title = {Portuguese Language Understanding Evaluation},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/jubs12/PLUE}},
+  commit = {CURRENT_COMMIT}
+}
+```
+
+## Acknowledgments
+- Deep Learning Brasil/CEIA
+- Cyberlabs
