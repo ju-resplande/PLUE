@@ -1,9 +1,24 @@
-# PLUE: Portuguese Language Understanding Evaluation
-Portuguese translation of the [GLUE benchmark](https://gluebenchmark.com/) and [Scitail dataset](https://allenai.org/data/scitail) using [OPUS-MT model](https://github.com/Helsinki-NLP/OPUS-MT) and [Google Cloud Translation](https://cloud.google.com/translate/docs). 
+<div id="top">
+  <p align="center">
+    <em>(Files are at https://drive.google.com/drive/u/1/folders/1WXdarHqxlJqKm30uD2LubwuLfpAGYZX0 ...)</em>
+  </p>
+  <p align="center">
+    <em>(I'll organize this repo within the next months)</em>
+  </p>
+</div>
+<hr>
+<br />
+<div align="center">
+    <h3 align="center">PLUE: Portuguese Language Understanding Evaluation</h3>
+    <img src="https://user-images.githubusercontent.com/28462295/140660705-e39c001f-e311-4024-aa7a-a7e1c69268fc.png" alt="[https://fairytail.fandom.com/wiki/Plue" width="250">
+  <p align="center">
+    Portuguese translation of the <a href="https://gluebenchmark.com/">GLUE benchmark</a> and <a href=https://allenai.org/data/scitail> Scitail</a> using <a href=https://github.com/Helsinki-NLP/OPUS-MT>OPUS-MT model</a> and <a href=https://cloud.google.com/translate/docs>Google Cloud Translation</a>.
+  </p>
+</div>
 
-<img src="https://user-images.githubusercontent.com/28462295/140660705-e39c001f-e311-4024-aa7a-a7e1c69268fc.png" alt="[https://fairytail.fandom.com/wiki/Plue" width="250">
 
-*(Files are at https://drive.google.com/drive/u/1/folders/1WXdarHqxlJqKm30uD2LubwuLfpAGYZX0 ... I'll organize this repo within the next months)*
+
+
 
 
 
