@@ -143,6 +143,7 @@ print('Assert dimensions, non_null data and check translations...')
 
 for dataset, sentences_idx in dataset_sentences.items():
     translation_folder = dataset if dataset != 'SciTail' else os.path.join('SciTail', 'tsv_format')
+    translation_folder = os.path.join('datasets', translation_folder)
     original_folder = os.path.join(glue_v2, dataset)
 
     print(dataset)
