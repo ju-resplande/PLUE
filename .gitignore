@@ -1,5 +1,13 @@
 __pycache__
+<<<<<<< HEAD
 pairs/QQP.json
 datasets/MNLI/train.tsv
 datasets/SNLI/train.tsv
 datasets/SNLI/train_raw.tsv
+=======
+
+# Original datasets
+ScitailV1.1
+GLUE_v1
+GLUE_v2
+>>>>>>> 3dd831e9c697a903484b21dbe08bec3afa8d8727
