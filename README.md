@@ -61,7 +61,7 @@ $ dvc pull pairs/QQP.json
 ```bibtex
 @misc{Gomes2020,
   author = {GOMES, J. R. S.},
-  title = {Portuguese Language Understanding Evaluation},
+  title = {PLUE: Portuguese Language Understanding Evaluation},
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub repository},
