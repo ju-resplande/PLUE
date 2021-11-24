@@ -1,4 +1,3 @@
-<hr>
 <br />
 <div align="center">
     <h3 align="center">PLUE: Portuguese Language Understanding Evaluation</h3>
