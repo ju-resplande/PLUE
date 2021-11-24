@@ -1,0 +1,5 @@
+outs:
+- md5: 772f5ceeb3b72e0727815aebdd9602af
+  size: 389448720
+  path: train_raw.tsv
+  isexec: true
