@@ -1,12 +1,3 @@
-<div id="top">
-  <p align="center">
-    <em>(Files are at https://drive.google.com/drive/u/1/folders/1WXdarHqxlJqKm30uD2LubwuLfpAGYZX0 ...)</em>
-  </p>
-  <p align="center">
-    <em>(I'll organize this repo within the next months)</em>
-  </p>
-</div>
-<hr>
 <br />
 <div align="center">
     <h3 align="center">PLUE: Portuguese Language Understanding Evaluation</h3>
@@ -19,18 +10,27 @@
 
 ## Getting Started
 
-
 | Datasets | Translation Tool |
 | --- | --- |
 | CoLA, MRPC, RTE, SST-2, STS-B, and WNLI  | Google Cloud Translation |
 | SNLI, MNLI, QNLI, QQP, and SciTail  |  OPUS-MT |
 
-[LX parser](http://lxcenter.di.fc.ul.pt/tools/en/LXParserEN.html), [Binarizer code](http://lascam.facom.ufu.br:8080/cookbooks/cookbook.jsp?api=nltk#ex11) and [NLTK word tokenizer](https://www.nltk.org/_modules/nltk/tokenize.html#word_tokenize) were used to create dependency parsings for SNLI and MNLI datasets.
+
+
+### Usage
+
+```bash
+$ pip install dvc
+$ dvc pull datasets/SNLI/train_raw.tsv
+$ dvc pull datasets/SNLI/train.tsv
+$ dvc pull datasets/MNLI/train.tsv
+$ dvc pull pairs/QQP.json
+```
 
 ### Structure
 
 ```bash
-├── code _____________________ # translation code and dependency parsing  
+├── code ____________ # translation code and dependency parsing  
 ├── datasets
 │   ├── CoLA
 │   ├── MNLI
@@ -45,12 +45,12 @@
 │   ├── SST-2
 │   ├── STS-B
 │   └── WNLI
-└── pairs _____________________ # translation pairs as JSON dictionary
+└── pairs ____________ # translation pairs as JSON dictionary
 ```
 
 ## Observations
-
-- GLUE provides two versions: [first](https://github.com/nyu-mll/GLUE-baselines/blob/master/download_glue_data.py) and [second](https://github.com/nyu-mll/jiant/blob/master/scripts/download_glue_data.py). We noticed the versions only differs in QNLI and QQP datasets, where we made QNLI available in both versions and QQP in the newest version. 
+- GLUE provides two versions: [first](https://github.com/nyu-mll/GLUE-baselines/blob/master/download_glue_data.py) and [second](https://github.com/nyu-mll/jiant/blob/master/scripts/download_glue_data.py). We noticed the versions only differs in QNLI and QQP datasets, where we made QNLI available in both versions and QQP in the newest version.
+- [LX parser](http://lxcenter.di.fc.ul.pt/tools/en/LXParserEN.html), [Binarizer code](http://lascam.facom.ufu.br:8080/cookbooks/cookbook.jsp?api=nltk#ex11) and [NLTK word tokenizer](https://www.nltk.org/_modules/nltk/tokenize.html#word_tokenize) were used to create dependency parsings for SNLI and MNLI datasets. 
 - SNLI train split is a ragged matrix, so we made available two version of the data: train_raw.tsv contains irregular lines and train.tsv excludes those lines. 
 - Manual translation were made on 12 sentences due to translation errors.
 - Our translation code is outdated. [We recommend using from others](https://github.com/unicamp-dl/mMARCO/blob/main/scripts/translate.py).
@@ -61,7 +61,7 @@
 ```bibtex
 @misc{Gomes2020,
   author = {GOMES, J. R. S.},
-  title = {Portuguese Language Understanding Evaluation},
+  title = {PLUE: Portuguese Language Understanding Evaluation},
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub repository},
