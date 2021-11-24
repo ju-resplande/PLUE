@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'PLUE: Portuguese Language Understanding Evaluation'
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Juliana
+    name-particle: R. S.
+    family-names: Gomes
+    affiliation: Federal University of Goiás
+    orcid: 'https://orcid.org/0000-0001-6900-1931'
+    email: julianarsg13@gmail.com
