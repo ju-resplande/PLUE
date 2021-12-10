@@ -91,7 +91,7 @@ Larger files are not hosted on github repository.
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/jubs12/PLUE}},
-  commit = {CURRENT_COMMIT}
+  commit = {e7d01cb17173fe54deddd421dd735920964eb26f}
 }
 ```
 
