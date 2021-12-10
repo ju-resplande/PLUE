@@ -24,7 +24,7 @@
 ```python
 from datasets import load_dataset
 
-data = load_dataset("ju-resplande/plue", "cola")
+data = load_dataset("dlb/plue", "cola")
 
 # ['cola', 'sst2', 'mrpc', 'qqp', 'stsb', 'mnli', 'mnli_mismatched', 'mnli_matched', 'qnli', 'rte', 'wnli', 'scitail']
 ```
