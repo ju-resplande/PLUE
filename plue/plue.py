@@ -58,7 +58,7 @@ _MNLI_BASE_KWARGS = dict(
     text_features={"premise": "sentence1", "hypothesis": "sentence2",},
     label_classes=["entailment", "neutral", "contradiction"],
     label_column="gold_label",
-    data_dir="PLUE-1.0.0/datasets/MNLI",
+    data_dir="PLUE-1.0.1/datasets/MNLI",
     citation=textwrap.dedent(
         """\
       @InProceedings{N18-1101,
@@ -151,7 +151,7 @@ class Plue(datasets.GeneratorBasedBuilder):
             text_features={"sentence": "sentence"},
             label_classes=["unacceptable", "acceptable"],
             label_column="is_acceptable",
-            data_dir="PLUE-1.0.0/datasets/CoLA",
+            data_dir="PLUE-1.0.1/datasets/CoLA",
             citation=textwrap.dedent(
                 """\
             @article{warstadt2018neural,
@@ -175,7 +175,7 @@ class Plue(datasets.GeneratorBasedBuilder):
             text_features={"sentence": "sentence"},
             label_classes=["negative", "positive"],
             label_column="label",
-            data_dir="PLUE-1.0.0/datasets/SST-2",
+            data_dir="PLUE-1.0.1/datasets/SST-2",
             citation=textwrap.dedent(
                 """\
             @inproceedings{socher2013recursive,
@@ -199,7 +199,7 @@ class Plue(datasets.GeneratorBasedBuilder):
             text_features={"sentence1": "", "sentence2": ""},
             label_classes=["not_equivalent", "equivalent"],
             label_column="Quality",
-            data_dir="PLUE-1.0.0/datasets/MRPC",
+            data_dir="PLUE-1.0.1/datasets/MRPC",
             citation=textwrap.dedent(
                 """\
             @inproceedings{dolan2005automatically,
@@ -222,7 +222,7 @@ class Plue(datasets.GeneratorBasedBuilder):
             text_features={"question1": "question1", "question2": "question2",},
             label_classes=["not_duplicate", "duplicate"],
             label_column="is_duplicate",
-            data_dir="PLUE-1.0.0/datasets/QQP_v2",
+            data_dir="PLUE-1.0.1/datasets/QQP_v2",
             citation=textwrap.dedent(
                 """\
           @online{WinNT,
@@ -246,7 +246,7 @@ class Plue(datasets.GeneratorBasedBuilder):
             ),
             text_features={"sentence1": "sentence1", "sentence2": "sentence2",},
             label_column="score",
-            data_dir="PLUE-1.0.0/datasets/STS-B",
+            data_dir="PLUE-1.0.1/datasets/STS-B",
             citation=textwrap.dedent(
                 """\
             @article{cer2017semeval,
@@ -309,7 +309,7 @@ class Plue(datasets.GeneratorBasedBuilder):
             text_features={"question": "question", "sentence": "sentence",},
             label_classes=["entailment", "not_entailment"],
             label_column="label",
-            data_dir="PLUE-1.0.0/datasets/QNLI",
+            data_dir="PLUE-1.0.1/datasets/QNLI",
             citation=textwrap.dedent(
                 """\
             @article{rajpurkar2016squad,
@@ -334,7 +334,7 @@ class Plue(datasets.GeneratorBasedBuilder):
             text_features={"sentence1": "sentence1", "sentence2": "sentence2",},
             label_classes=["entailment", "not_entailment"],
             label_column="label",
-            data_dir="PLUE-1.0.0/datasets/RTE",
+            data_dir="PLUE-1.0.1/datasets/RTE",
             citation=textwrap.dedent(
                 """\
             @inproceedings{dagan2005pascal,
@@ -395,7 +395,7 @@ class Plue(datasets.GeneratorBasedBuilder):
             text_features={"sentence1": "sentence1", "sentence2": "sentence2",},
             label_classes=["not_entailment", "entailment"],
             label_column="label",
-            data_dir="PLUE-1.0.0/datasets/WNLI",
+            data_dir="PLUE-1.0.1/datasets/WNLI",
             citation=textwrap.dedent(
                 """\
             @inproceedings{levesque2012winograd,
@@ -421,7 +421,7 @@ with neutral label"""
             text_features={"premise": "premise", "hypothesis": "hypothesis",},
             label_classes=["entails", "neutral"],
             label_column="label",
-            data_dir="PLUE-1.0.0/datasets/SciTail",
+            data_dir="PLUE-1.0.1/datasets/SciTail",
             citation=""""\
             inproceedings{scitail,
                 Author = {Tushar Khot and Ashish Sabharwal and Peter Clark},
@@ -509,13 +509,19 @@ with neutral label"""
             ]
 
     def _generate_examples(self, data_file, split):
-        if self.config.name == "mrpc":
-            # We have to prepare the MRPC dataset from the original sources ourselves.
-            examples = self._generate_example_mrpc_files(
-                data_file=data_file, split=split
-            )
+        if self.config.name in ["mrpc", "scitail"]:
+            if self.config.name == "mrpc":
+                examples = self._generate_example_mrpc_files(
+                    data_file=data_file, split=split
+                )
+            elif self.config.name == "scitail":
+                examples = self._generate_example_scitail_files(
+                    data_file=data_file, split=split
+                )
+
             for example in examples:
                 yield example["idx"], example
+
         else:
             process_label = self.config.process_label
             label_classes = self.config.label_classes
@@ -571,6 +577,24 @@ with neutral label"""
                     "sentence1": row["#1 String"],
                     "sentence2": row["#2 String"],
                     "label": int(label),
+                    "idx": idx,
+                }
+
+    def _generate_example_scitail_files(self, data_file, split):
+        with open(data_file, encoding="utf8") as f:
+            reader = csv.DictReader(
+                f,
+                delimiter="\t",
+                quoting=csv.QUOTE_NONE,
+                fieldnames=["premise", "hypothesis", "label"],
+            )
+            for idx, row in enumerate(reader):
+                label = row["label"] if split != "test" else -1
+
+                yield {
+                    "premise": row["premise"],
+                    "hypothesis": row["hypothesis"],
+                    "label": label,
                     "idx": idx,
                 }
 
