@@ -17,15 +17,40 @@
 
 
 
-### Usage
+### Usage 
 
-```bash
-$ pip install dvc
-$ dvc pull datasets/SNLI/train_raw.tsv
-$ dvc pull datasets/SNLI/train.tsv
-$ dvc pull datasets/MNLI/train.tsv
-$ dvc pull pairs/QQP.json
+#### Datasets :hugs:
+
+```python
+from datasets import load_dataset
+
+data = load_dataset('plue', 'scitail')
+
+# ['cola', 'sst2', 'mrpc', 'qqp', 'stsb', 'mnli', 'mnli_mismatched', 'mnli_matched', 'qnli', 'rte', 'wnli', 'scitail']
 ```
+
+#### Manual download (for large files)
+
+Larger files are not hosted on github repository.
+
+- **DVC integration**
+    ```bash
+    $ pip install dvc
+    $ dvc pull datasets/SNLI/train_raw.tsv
+    $ dvc pull datasets/SNLI/train.tsv
+    $ dvc pull datasets/MNLI/train.tsv
+    $ dvc pull pairs/QQP.json
+    ```
+
+- **ZIP links** 
+    - https://github.com/jubs12/PLUE/releases/download/v1.0.0/MNLI.zip
+    - https://github.com/jubs12/PLUE/releases/download/v1.0.0/SNLI.zip
+    - https://github.com/jubs12/PLUE/releases/download/v1.0.0/QQP.json
+
+
+
+
+
 
 ### Structure
 
