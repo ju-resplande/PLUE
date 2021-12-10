@@ -128,7 +128,7 @@ class PlueConfig(datasets.BuilderConfig):
         self.text_features = text_features
         self.label_column = label_column
         self.label_classes = label_classes
-        self.data_url = "https://github.com/jubs12/PLUE/archive/refs/tags/v1.0.0.zip"
+        self.data_url = "https://github.com/jubs12/PLUE/archive/refs/tags/v1.0.1.zip"
         self.data_dir = data_dir
         self.citation = citation
         self.url = url
