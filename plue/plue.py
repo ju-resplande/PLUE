@@ -215,7 +215,7 @@ class Plue(datasets.GeneratorBasedBuilder):
             url="https://www.microsoft.com/en-us/download/details.aspx?id=52398",
         ),
         PlueConfig(
-            name="qqp",
+            name="qqp_v2",
             description=textwrap.dedent(
                 """\
             The Quora Question Pairs2 dataset is a collection of question pairs from the
@@ -340,6 +340,35 @@ class Plue(datasets.GeneratorBasedBuilder):
             label_classes=["entailment", "not_entailment"],
             label_column="label",
             data_dir="PLUE-1.0.1/datasets/QNLI",
+            citation=textwrap.dedent(
+                """\
+            @article{rajpurkar2016squad,
+              title={Squad: 100,000+ questions for machine comprehension of text},
+              author={Rajpurkar, Pranav and Zhang, Jian and Lopyrev, Konstantin and Liang, Percy},
+              journal={arXiv preprint arXiv:1606.05250},
+              year={2016}
+            }"""
+            ),
+            url="https://rajpurkar.github.io/SQuAD-explorer/",
+        ),
+        PlueConfig(
+            name="qnli_v2",
+            description=textwrap.dedent(
+                """\
+            The Stanford Question Answering Dataset is a question-answering
+            dataset consisting of question-paragraph pairs, where one of the sentences in the paragraph (drawn
+            from Wikipedia) contains the answer to the corresponding question (written by an annotator). We
+            convert the task into sentence pair classification by forming a pair between each question and each
+            sentence in the corresponding context, and filtering out pairs with low lexical overlap between the
+            question and the context sentence. The task is to determine whether the context sentence contains
+            the answer to the question. This modified version of the original task removes the requirement that
+            the model select the exact answer, but also removes the simplifying assumptions that the answer
+            is always present in the input and that lexical overlap is a reliable cue."""
+            ),  # pylint: disable=line-too-long
+            text_features={"question": "question", "sentence": "sentence",},
+            label_classes=["entailment", "not_entailment"],
+            label_column="label",
+            data_dir="PLUE-1.0.1/datasets/QNLI_v2",
             citation=textwrap.dedent(
                 """\
             @article{rajpurkar2016squad,
