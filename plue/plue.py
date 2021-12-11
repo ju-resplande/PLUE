@@ -52,13 +52,14 @@ PLUE: Portuguese Language Understanding Evaluationis a Portuguese translation of
 the GLUE benchmark and Scitail using OPUS-MT model and Google Cloud Translation.
 """
 
-MNLI_URL = "https://github.com/jubs12/PLUE/releases/download/v1.0.0/MNLI.zip"
+MNLI_URL = "https://github.com/ju-resplande/PLUE/releases/download/v1.0.0/MNLI.zip"
+SNLI_URL = "https://github.com/ju-resplande/PLUE/releases/download/v1.0.0/SNLI.zip"
 
 _MNLI_BASE_KWARGS = dict(
     text_features={"premise": "sentence1", "hypothesis": "sentence2",},
     label_classes=["entailment", "neutral", "contradiction"],
     label_column="gold_label",
-    data_dir="PLUE-1.0.1/datasets/MNLI",
+    data_dir="MNLI",
     citation=textwrap.dedent(
         """\
       @InProceedings{N18-1101,
@@ -123,12 +124,14 @@ class PlueConfig(datasets.BuilderConfig):
           **kwargs: keyword arguments forwarded to super.
         """
         super(PlueConfig, self).__init__(
-            version=datasets.Version("1.0.0", ""), **kwargs
+            version=datasets.Version("1.0.2", ""), **kwargs
         )
         self.text_features = text_features
         self.label_column = label_column
         self.label_classes = label_classes
-        self.data_url = "https://github.com/jubs12/PLUE/archive/refs/tags/v1.0.1.zip"
+        self.data_url = (
+            "https://github.com/ju-resplande/PLUE/archive/refs/tags/v1.0.1.zip"
+        )
         self.data_dir = data_dir
         self.citation = citation
         self.url = url
@@ -258,6 +261,33 @@ class Plue(datasets.GeneratorBasedBuilder):
             ),
             url="http://ixa2.si.ehu.es/stswiki/index.php/STSbenchmark",
             process_label=np.float32,
+        ),
+        PlueConfig(
+            name="snli",
+            description=textwrap.dedent(
+                """\
+            The SNLI corpus (version 1.0) is a collection of 570k human-written English
+            sentence pairs manually labeled for balanced classification with the labels
+            entailment, contradiction, and neutral, supporting the task of natural language
+            inference (NLI), also known as recognizing textual entailment (RTE).
+            """
+            ),
+            text_features={"premise": "sentence1", "hypothesis": "sentence2",},
+            label_classes=["entailment", "neutral", "contradiction"],
+            label_column="gold_label",
+            data_dir="SNLI",
+            citation=textwrap.dedent(
+                """\
+            @inproceedings{snli:emnlp2015,
+                Author = {Bowman, Samuel R. and Angeli, Gabor and Potts, Christopher, and Manning, Christopher D.},
+                Booktitle = {Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+                Publisher = {Association for Computational Linguistics},
+                Title = {A large annotated corpus for learning natural language inference},
+                Year = {2015}
+            }
+            """
+            ),
+            url="https://nlp.stanford.edu/projects/snli/",
         ),
         PlueConfig(
             name="mnli",
@@ -454,7 +484,13 @@ with neutral label"""
         )
 
     def _split_generators(self, dl_manager):
-        data_url = MNLI_URL if self.config.name == "mnli" else self.config.data_url
+        if self.config.name == "mnli":
+            data_url = MNLI_URL
+        elif self.config.name == "snli":
+            data_url = SNLI_URL
+        else:
+            data_url = self.config.data_url
+
         dl_dir = dl_manager.download_and_extract(data_url)
         data_dir = os.path.join(dl_dir, self.config.data_dir)
 
