@@ -25,8 +25,7 @@
 from datasets import load_dataset
 
 data = load_dataset("dlb/plue", "cola")
-
-# ['cola', 'sst2', 'mrpc', 'qqp', 'stsb', 'mnli', 'mnli_mismatched', 'mnli_matched', 'qnli', 'rte', 'wnli', 'scitail']
+# ['cola', 'sst2', 'mrpc', 'qqp', 'stsb', 'snli', 'mnli', 'mnli_mismatched', 'mnli_matched', 'qnli', 'rte', 'wnli', 'scitail']
 ```
 
 #### Manual download (for large files)
