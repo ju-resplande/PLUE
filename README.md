@@ -1,9 +1,15 @@
 <br />
 <div align="center">
-    <h3 align="center">PLUE: Portuguese Language Understanding Evaluation</h3>
+    <h2 align="center">PLUE: Portuguese Language Understanding Evaluation</h2>
     <img src="https://user-images.githubusercontent.com/28462295/140660705-e39c001f-e311-4024-aa7a-a7e1c69268fc.png" alt="https://fairytail.fandom.com/wiki/Plue" width="250">
+    <br/>
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ju-resplande/PLUE">
+  <img alt="GitHub" src="https://img.shields.io/github/license/ju-resplande/PLUE">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ju-resplande/PLUE?style=social">
   <p align="center">
+  <b>
     Portuguese translation of the <a href="https://gluebenchmark.com/">GLUE benchmark</a>, <a href=https://nlp.stanford.edu/projects/snli/>SNLI</a>, and <a href=https://allenai.org/data/scitail> Scitail</a> using <a href=https://github.com/Helsinki-NLP/OPUS-MT>OPUS-MT model</a> and <a href=https://cloud.google.com/translate/docs>Google Cloud Translation</a>.
+  </b>
   </p>
 </div>
 
